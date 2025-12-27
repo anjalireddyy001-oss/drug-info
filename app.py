@@ -1,22 +1,24 @@
+
 from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
+# Simple drug database
 drug_data = {
     "paracetamol": {
-        "use": "Pain relief and reduction of fever",
+        "use": "Pain relief and fever reduction",
         "side_effects": [
             "Nausea",
-            "Skin rash (rare)",
-            "Liver damage at high doses"
+            "Allergic reactions",
+            "Liver damage (overdose)"
         ]
     },
     "ibuprofen": {
-        "use": "Pain, inflammation, and fever",
+        "use": "Pain relief and inflammation reduction",
         "side_effects": [
-            "Stomach irritation",
-            "Ulcer risk",
-            "Kidney problems (long-term use)"
+            "Stomach upset",
+            "Dizziness",
+            "Increased blood pressure"
         ]
     },
     "amoxicillin": {
@@ -40,12 +42,9 @@ def index():
         if drug_name in drug_data:
             result = drug_data[drug_name]
         else:
-            result = "Drug not found 😢"
+            result = "Drug not found 😕"
 
     return render_template("index.html", result=result, drug=drug_name)
 
-
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
-
-
