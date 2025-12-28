@@ -5,34 +5,36 @@
 </head>
 <body>
 
-    <h1>💊 Drug Info Finder</h1>
-    <p>Type a drug name to see its use and side effects</p>
+<h1>💊 Drug Info Finder</h1>
+<p>Type a drug name to see its use and side effects</p>
 
-    <form method="post">
-        <input type="text" name="drug" placeholder="e.g. paracetamol" required>
-        <button type="submit">Search</button>
-    </form>
+<form method="POST">
+    <input type="text" name="drug" placeholder="e.g. paracetamol" required>
+    <button type="submit">Search</button>
+</form>
 
-    {% if result %}
-        {% if result == "Drug not found 😢" %}
-            <p><strong>{{ result }}</strong></p>
-        {% else %}
-            <h3>Drug: {{ drug | capitalize }}</h3>
+<hr>
 
-            <h4>Main Use</h4>
-            <p>{{ result.use }}</p>
+{% if result %}
+    {% if result == "Drug not found" %}
+        <p><strong>Drug not found 😕</strong></p>
+    {% else %}
+        <h2>Drug: {{ drug | capitalize }}</h2>
 
-            <h4>Common Side Effects</h4>
-            <ul>
-                {% for effect in result.side_effects %}
-                    <li>{{ effect }}</li>
-                {% endfor %}
-            </ul>
-        {% endif %}
+        <h3>Main Use</h3>
+        <p>{{ result.use }}</p>
+
+        <h3>Common Side Effects</h3>
+        <ul>
+            {% for effect in result.side_effects %}
+                <li>{{ effect }}</li>
+            {% endfor %}
+        </ul>
     {% endif %}
+{% endif %}
 
-    <hr>
-    <p><em>For educational and fun purposes only 🙂</em></p>
+<hr>
+<p><em>For educational and fun purposes only 😊</em></p>
 
 </body>
 </html>
