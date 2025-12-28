@@ -1,0 +1,92 @@
+drug,use,side_effects
+
+paracetamol,Pain and fever,Nausea|Allergy|Liver damage
+ibuprofen,Pain and inflammation,Ulcer|Nausea|Kidney problems
+aspirin,Pain relief and antiplatelet,GI bleeding|Ulcer
+diclofenac,Pain and inflammation,GI upset|Renal damage
+naproxen,Pain and inflammation,Ulcer|GI bleeding
+celecoxib,Pain and inflammation,Cardiovascular risk|Dyspepsia
+indomethacin,Pain and inflammation,Headache|GI bleeding
+ketorolac,Short term pain relief,GI bleeding|Renal impairment
+meloxicam,Pain and inflammation,GI upset|Hypertension
+etoricoxib,Pain and inflammation,Cardiovascular risk|Edema
+
+metformin,Type 2 diabetes,Diarrhea|Lactic acidosis
+glimepiride,Type 2 diabetes,Hypoglycemia|Weight gain
+gliclazide,Type 2 diabetes,Hypoglycemia|Weight gain
+pioglitazone,Type 2 diabetes,Weight gain|Edema
+sitagliptin,Type 2 diabetes,Headache|Nasopharyngitis
+insulin,Diabetes mellitus,Hypoglycemia|Weight gain
+acarbose,Type 2 diabetes,Flatulence|Diarrhea
+dapagliflozin,Type 2 diabetes,UTI|Dehydration
+empagliflozin,Type 2 diabetes,Genital infections|Dehydration
+
+amlodipine,Hypertension,Edema|Dizziness
+losartan,Hypertension,Dizziness|Hyperkalemia
+telmisartan,Hypertension,Dizziness|Hypotension
+valsartan,Hypertension,Dizziness|Hyperkalemia
+enalapril,Hypertension,Cough|Hypotension
+lisinopril,Hypertension,Cough|Angioedema
+ramipril,Hypertension,Cough|Hypotension
+metoprolol,Hypertension,Bradycardia|Fatigue
+atenolol,Hypertension,Bradycardia|Cold extremities
+propranolol,Hypertension,Bradycardia|Bronchospasm
+nebivolol,Hypertension,Bradycardia|Headache
+furosemide,Edema and heart failure,Electrolyte imbalance|Dehydration
+torsemide,Edema,Electrolyte imbalance|Dizziness
+hydrochlorothiazide,Hypertension,Hypokalemia|Hyperuricemia
+spironolactone,Heart failure,Hyperkalemia|Gynecomastia
+eplerenone,Heart failure,Hyperkalemia|Dizziness
+digoxin,Heart failure,Arrhythmia|Nausea
+
+atorvastatin,Hyperlipidemia,Muscle pain|Liver enzyme elevation
+rosuvastatin,Hyperlipidemia,Myalgia|Headache
+simvastatin,Hyperlipidemia,Myopathy|Liver dysfunction
+pravastatin,Hyperlipidemia,Muscle pain|GI upset
+ezetimibe,Hyperlipidemia,Diarrhea|Abdominal pain
+fenofibrate,Hypertriglyceridemia,Myopathy|Gallstones
+
+omeprazole,Acid peptic disease,Headache|Diarrhea
+pantoprazole,Acid disorders,Headache|Nausea
+esomeprazole,GERD,Headache|Abdominal pain
+lansoprazole,Acid suppression,Diarrhea|Nausea
+ranitidine,Acid suppression,Headache|Constipation
+famotidine,Acid suppression,Headache|Dizziness
+sucralfate,Peptic ulcer,Constipation|Dry mouth
+ondansetron,Antiemetic,Headache|Constipation
+domperidone,Antiemetic,QT prolongation|Dry mouth
+metoclopramide,Antiemetic,Extrapyramidal symptoms|Drowsiness
+
+amoxicillin,Bacterial infections,Diarrhea|Rash|Allergy
+ampicillin,Bacterial infections,Diarrhea|Rash
+ceftriaxone,Bacterial infections,Injection site pain|Diarrhea
+cefixime,Bacterial infections,Diarrhea|Abdominal pain
+ciprofloxacin,Bacterial infections,Tendon rupture|Nausea
+levofloxacin,Bacterial infections,QT prolongation|Dizziness
+azithromycin,Bacterial infections,QT prolongation|Diarrhea
+clarithromycin,Bacterial infections,Nausea|Metallic taste
+doxycycline,Bacterial infections,Photosensitivity|GI upset
+minocycline,Bacterial infections,Dizziness|Skin pigmentation
+clindamycin,Bacterial infections,Diarrhea|C difficile colitis
+metronidazole,Anaerobic infections,Metallic taste|Nausea
+nitrofurantoin,Urinary infections,Nausea|Pulmonary toxicity
+linezolid,Resistant infections,Myelosuppression|Neuropathy
+
+salbutamol,Bronchial asthma,Tremor|Palpitations
+formoterol,Bronchial asthma,Tremor|Headache
+budesonide,Asthma control,Oral candidiasis|Hoarseness
+fluticasone,Asthma control,Oral candidiasis|Hoarseness
+montelukast,Asthma and allergy,Headache|Mood changes
+theophylline,Bronchodilator,Arrhythmia|Nausea
+
+cetirizine,Allergic conditions,Drowsiness|Dry mouth
+loratadine,Allergic conditions,Headache|Dry mouth
+fexofenadine,Allergic conditions,Headache|Nausea
+chlorpheniramine,Allergy,Sedation|Dry mouth
+diphenhydramine,Allergy and sleep aid,Sedation|Dry mouth
+
+prednisolone,Inflammatory disorders,Weight gain|Immunosuppression
+dexamethasone,Inflammation and shock,Hyperglycemia|Mood changes
+hydrocortisone,Inflammation,Weight gain|Electrolyte imbalance
+methotrexate,Autoimmune disorders,Myelosuppression|Hepatotoxicity
+azathioprine,Immunosuppression,Myelosuppression|Infections
