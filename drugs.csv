@@ -87,6 +87,104 @@ diphenhydramine,Allergy and sleep aid,Sedation|Dry mouth
 
 prednisolone,Inflammatory disorders,Weight gain|Immunosuppression
 dexamethasone,Inflammation and shock,Hyperglycemia|Mood changes
+amlodipine,Hypertension,Edema;Headache;Flushing
+atenolol,Hypertension,Bradycardia;Fatigue
+losartan,Hypertension,Dizziness;Hyperkalemia
+enalapril,Hypertension,Cough;Hyperkalemia
+hydrochlorothiazide,Hypertension,Hypokalemia;Dehydration
+
+atorvastatin,Hyperlipidemia,Myalgia;Elevated liver enzymes
+rosuvastatin,Hyperlipidemia,Myalgia;Headache
+simvastatin,Hyperlipidemia,Muscle pain;GI upset
+
+aspirin,Pain and antiplatelet,GI irritation;Bleeding
+ibuprofen,Pain and inflammation,GI upset;Renal impairment
+diclofenac,Pain and inflammation,GI irritation;Hepatotoxicity
+naproxen,Pain and inflammation,Dyspepsia;Dizziness
+
+omeprazole,Acid peptic disease,Headache;Diarrhea
+pantoprazole,Acid peptic disease,Nausea;Abdominal pain
+ranitidine,Acid reflux,Headache;Constipation
+
+metoprolol,Hypertension and angina,Bradycardia;Fatigue
+propranolol,Hypertension and migraine,Bradycardia;Cold extremities
+
+furosemide,Edema and heart failure,Hypokalemia;Dehydration
+spironolactone,Heart failure,Hyperkalemia;Gynecomastia
+
+warfarin,Anticoagulation,Bleeding;Bruising
+heparin,Anticoagulation,Bleeding;Thrombocytopenia
+
+insulin,Diabetes mellitus,Hypoglycemia;Weight gain
+glimepiride,Type 2 diabetes,Hypoglycemia;Weight gain
+sitagliptin,Type 2 diabetes,Headache;Nasopharyngitis
+
+levothyroxine,Hypothyroidism,Palpitations;Weight loss
+methimazole,Hyperthyroidism,Rash;Agranulocytosis
+
+sertraline,Depression,Nausea;Insomnia
+fluoxetine,Depression,Anxiety;GI upset
+amitriptyline,Depression,Drowsiness;Dry mouth
+
+diazepam,Anxiety and seizures,Sedation;Dependence
+alprazolam,Anxiety,Drowsiness;Dependence
+
+haloperidol,Schizophrenia,Extrapyramidal symptoms;Sedation
+risperidone,Schizophrenia,Weight gain;Hyperprolactinemia
+
 hydrocortisone,Inflammation,Weight gain|Electrolyte imbalance
 methotrexate,Autoimmune disorders,Myelosuppression|Hepatotoxicity
-azathioprine,Immunosuppression,Myelosuppression|Infections
+azathioprine,Immunosuppression,Myelosuppression|Infectionsvalsartan,Hypertension,Dizziness;Hyperkalemia
+telmisartan,Hypertension,Dizziness;Fatigue
+ramipril,Hypertension,Cough;Hypotension
+lisinopril,Hypertension,Cough;Hyperkalemia
+diltiazem,Angina and hypertension,Bradycardia;Edema
+verapamil,Angina and arrhythmia,Constipation;Bradycardia
+digoxin,Heart failure,Nausea;Arrhythmia
+isosorbide mononitrate,Angina,Headache;Hypotension
+clopidogrel,Antiplatelet therapy,Bleeding;Bruising
+ticagrelor,Antiplatelet therapy,Dyspnea;Bleedingvalsartan,Hypertension,Dizziness;Hyperkalemia
+telmisartan,Hypertension,Dizziness;Fatigue
+ramipril,Hypertension,Cough;Hypotension
+lisinopril,Hypertension,Cough;Hyperkalemia
+diltiazem,Angina and hypertension,Bradycardia;Edema
+verapamil,Angina and arrhythmia,Constipation;Bradycardia
+digoxin,Heart failure,Nausea;Arrhythmia
+isosorbide mononitrate,Angina,Headache;Hypotension
+clopidogrel,Antiplatelet therapy,Bleeding;Bruising
+ticagrelor,Antiplatelet therapy,Dyspnea;Bleeding
+amoxicillin,Bacterial infections,Rash;Diarrhea
+ceftriaxone,Bacterial infections,Injection pain;Biliary sludging
+cefixime,Bacterial infections,Diarrhea;Abdominal pain
+ciprofloxacin,Bacterial infections,Tendonitis;Photosensitivity
+levofloxacin,Bacterial infections,Tendon rupture;QT prolongation
+azithromycin,Bacterial infections,QT prolongation;Diarrhea
+vancomycin,Serious gram-positive infections,Nephrotoxicity;Red man syndrome
+ipratropium,Bronchodilation,Dry mouth;Cough
+tiotropium,COPD,Dry mouth;Constipation
+beclomethasone,Asthma control,Oral candidiasis;Hoarsenessescitalopram,Depression,Nausea;Insomnia
+citalopram,Depression,QT prolongation;Dry mouth
+paroxetine,Depression,Weight gain;Sexual dysfunction
+venlafaxine,Depression,Hypertension;Nausea
+duloxetine,Depression and neuropathy,Dry mouth;Dizziness
+quetiapine,Bipolar disorder,Sedation;Weight gain
+olanzapine,Schizophrenia,Weight gain;Metabolic syndrome
+clozapine,Resistant schizophrenia,Agranulocytosis;Seizuresdomperidone,Nausea and vomiting,QT prolongation;Dry mouth
+ondansetron,Antiemetic,Headache;Constipation
+lactulose,Constipation,Bloating;Diarrhea
+bisacodyl,Constipation,Abdominal cramps;Diarrheatramadol,Moderate pain,Nausea;Dependence
+morphine,Severe pain,Respiratory depression;Constipation
+gabapentin,Neuropathic pain,Drowsiness;Dizziness
+pregabalin,Neuropathic pain,Weight gain;Edema
+allopurinol,Gout,Rash;Hypersensitivity
+colchicine,Gout,Diarrhea;Myopathy
+
+
+
+
+
+
+
+
+
+
