@@ -486,7 +486,121 @@ ulipristal acetate,Emergency contraception,Headache;Abdominal pain
 
 sodium valproate,Epilepsy,Hepatotoxicity;Weight gain
 ethosuximide,Absence seizures,GI upset;Fatigue
-lacosamide,Epilepsy,Dizziness;PR prolongation
+lacosamide,Epilepsy,Dizziness;PR prolongationrabeprazole,Acid peptic disease,Headache;Diarrhea
+dexlansoprazole,GERD,Nausea;Abdominal pain
+misoprostol,Ulcer prevention,Diarrhea;Abdominal cramps
+bismuth subcitrate,Peptic ulcer,Black stools;Nausea
+
+cephalexin,Bacterial infections,Diarrhea;Rash
+cefadroxil,Bacterial infections,GI upset;Rash
+cefuroxime,Bacterial infections,Diarrhea;Nausea
+cefpodoxime,Bacterial infections,Diarrhea;Abdominal pain
+cefditoren,Bacterial infections,GI upset;Headache
+
+clarithromycin extended release,Bacterial infections,Nausea;Metallic taste
+roxithromycin,Bacterial infections,GI upset;Headache
+erythromycin,Bacterial infections,GI cramps;QT prolongation
+
+trimethoprim,Urinary tract infections,Rash;Hyperkalemia
+trimethoprim sulfamethoxazole,Urinary tract infections,Rash;Myelosuppression
+nitrofurantoin,Urinary tract infections,Nausea;Pulmonary toxicity
+fosfomycin,Urinary tract infections,Diarrhea;Headache
+
+chloramphenicol,Bacterial infections,Aplastic anemia;Gray baby syndrome
+fosfomycin trometamol,Urinary tract infections,Diarrhea;Nausea
+
+ketamine,Anesthesia,Dissociation;Hypertension
+propofol,Anesthesia,Hypotension;Respiratory depression
+midazolam,Procedural sedation,Respiratory depression;Amnesia
+thiopental,Anesthesia,Respiratory depression;Hypotension
+
+atropine,Bradycardia,Dry mouth;Blurred vision
+glycopyrrolate,Antisecretory,Dry mouth;Tachycardia
+neostigmine,Myasthenia gravis,Bradycardia;Salivation
+pyridostigmine,Myasthenia gravis,Abdominal cramps;Diarrhea
+
+epinephrine,Anaphylaxis,Tachycardia;Anxiety
+norepinephrine,Shock,Hypertension;Arrhythmia
+dopamine,Shock,Arrhythmia;Nausea
+dobutamine,Heart failure,Tachycardia;Headache
+
+adenosine,Supraventricular tachycardia,Chest discomfort;Flushing
+amiodarone,Arrhythmia,Thyroid dysfunction;Pulmonary toxicity
+sotalol,Arrhythmia,QT prolongation;Bradycardia
+flecainide,Arrhythmia,Proarrhythmia;Dizziness
+
+methyldopa,Hypertension,Depression;Sedation
+clonidine,Hypertension and withdrawal,Dry mouth;Sedation
+hydralazine,Hypertension,Reflex tachycardia;Headache
+minoxidil,Hypertension and alopecia,Edema;Hypertrichosis
+
+bethanechol,Urinary retention,Abdominal cramps;Diarrhea
+phenoxybenzamine,Pheochromocytoma,Hypotension;Nasal congestion
+
+metyrapone,Diagnostic testing,Nausea;Dizziness
+ketoconazole oral,Fungal infections,Hepatotoxicity;Gynecomastia
+
+propranolol,Hypertension and migraine,Bradycardia;Cold extremities
+nadolol,Hypertension,Bradycardia;Fatigue
+nebivolol,Hypertension,Headache;Bradycardia
+
+diltiazem,Angina and hypertension,Bradycardia;Edema
+verapamil,Angina and arrhythmia,Constipation;Bradycardia
+
+ranitidine bismuth citrate,Peptic ulcer,Black stools;Nausea
+
+rifabutin,Tuberculosis,Uveitis;Neutropenia
+linezolid oral,Resistant infections,Myelosuppression;Neuropathy
+tedizolid,Resistant infections,Myelosuppression;Nausea
+
+paliperidone,Schizophrenia,Weight gain;Hyperprolactinemia
+ziprasidone,Schizophrenia,QT prolongation;Sedation
+aripiprazole,Schizophrenia and bipolar disorder,Akathisia;Insomnia
+
+lithium,Bipolar disorder,Tremor;Hypothyroidism
+valproate semisodium,Bipolar disorder,Weight gain;Hepatotoxicity
+
+buspirone,Anxiety,Dizziness;Nausea
+hydroxyzine,Anxiety and allergy,Sedation;Dry mouth
+
+sumatriptan,Migraine,Chest tightness;Dizziness
+rizatriptan,Migraine,Drowsiness;Nausea
+propranolol migraine,Migraine prophylaxis,Bradycardia;Fatigue
+topiramate migraine,Migraine prophylaxis,Weight loss;Paresthesia
+
+levonorgestrel iud,Contraception,Irregular bleeding;Cramping
+etonogestrel implant,Contraception,Weight gain;Mood changes
+
+alprostadil,Erectile dysfunction,Pain;Hypotension
+papaverine,Erectile dysfunction,Dizziness;Priapism
+
+pilocarpine,Dry mouth and glaucoma,Sweating;Salivation
+cevimeline,Dry mouth,Sweating;Nausea
+
+silver sulfadiazine,Burn wounds,Leukopenia;Rash
+povidone iodine,Antiseptic,Skin irritation;Allergy
+chlorhexidine,Antiseptic,Tooth staining;Irritation
+
+vaccinia immune globulin,Post exposure prophylaxis,Headache;Fever
+hepatitis b vaccine,Immunization,Injection site pain;Fever
+influenza vaccine,Immunization,Myalgia;Fever
+rabies vaccine,Immunization,Injection site pain;Headache
+tetanus toxoid,Immunization,Pain;Fever
+
+naloxone,Opioid overdose,Withdrawal symptoms;Nausea
+flumazenil,Benzodiazepine overdose,Seizures;Dizziness
+activated charcoal,Poisoning,Constipation;Aspiration
+
+mannitol,Cerebral edema,Electrolyte imbalance;Dehydration
+hypertonic saline,Hyponatremia,Hypernatremia;Phlebitis
+
+desferrioxamine,Iron overload,Hypotension;Visual disturbance
+penicillamine,Wilson disease,Rash;Proteinuria
+
+colestyramine,Hyperlipidemia,Constipation;Bloating
+colesevelam,Hyperlipidemia,Constipation;Dyspepsia
+
+
 
 
 
