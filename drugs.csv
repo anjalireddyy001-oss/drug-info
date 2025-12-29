@@ -81,3 +81,95 @@ clonazepam,Seizure disorder,Drowsiness;Ataxia
 levothyroxine,Hypothyroidism,Palpitations;Weight loss
 methimazole,Hyperthyroidism,Rash;Agranulocytosis
 propylthiouracil,Hyperthyroidism,Hepatotoxicity;Rash
+prednisolone,Inflammatory disorders,Weight gain;Immunosuppression
+dexamethasone,Inflammation and shock,Hyperglycemia;Mood changes
+hydrocortisone,Inflammatory conditions,Weight gain;Electrolyte imbalance
+methylprednisolone,Autoimmune disorders,Infection risk;Hyperglycemia
+betamethasone,Inflammatory disorders,Edema;Mood changes
+
+methotrexate,Autoimmune disorders,Myelosuppression;Hepatotoxicity
+azathioprine,Immunosuppression,Myelosuppression;Infections
+cyclosporine,Organ transplantation,Nephrotoxicity;Hypertension
+tacrolimus,Organ transplantation,Nephrotoxicity;Tremor
+mycophenolate mofetil,Organ transplantation,Diarrhea;Leukopenia
+
+warfarin,Anticoagulation,Bleeding;Skin necrosis
+heparin,Anticoagulation,Bleeding;Thrombocytopenia
+enoxaparin,Anticoagulation,Bleeding;Injection site pain
+dabigatran,Anticoagulation,Bleeding;Dyspepsia
+rivaroxaban,Anticoagulation,Bleeding;Anemia
+apixaban,Anticoagulation,Bleeding;Bruising
+
+clopidogrel,Antiplatelet therapy,Bleeding;GI upset
+prasugrel,Antiplatelet therapy,Bleeding;Anemia
+ticagrelor,Antiplatelet therapy,Dyspnea;Bleeding
+
+isosorbide dinitrate,Angina,Headache;Hypotension
+nitroglycerin,Angina,Headache;Flushing
+ranolazine,Chronic angina,Dizziness;QT prolongation
+
+digoxin,Heart failure,Nausea;Arrhythmia
+ivabradine,Heart failure,Bradycardia;Visual disturbances
+
+levetiracetam,Epilepsy,Drowsiness;Mood changes
+phenytoin,Epilepsy,Gingival hyperplasia;Ataxia
+carbamazepine,Epilepsy,Dizziness;Hyponatremia
+valproic acid,Epilepsy,Hepatotoxicity;Weight gain
+lamotrigine,Epilepsy,Skin rash;Dizziness
+topiramate,Epilepsy,Weight loss;Cognitive impairment
+gabapentin,Neuropathic pain,Dizziness;Fatigue
+pregabalin,Neuropathic pain,Weight gain;Drowsiness
+
+morphine,Severe pain,Respiratory depression;Constipation
+codeine,Mild to moderate pain,Drowsiness;Constipation
+tramadol,Moderate pain,Nausea;Seizures
+fentanyl,Severe pain,Respiratory depression;Sedation
+buprenorphine,Opioid dependence,Nausea;Sedation
+
+ondansetron,Antiemetic,Headache;Constipation
+metoclopramide,Nausea and vomiting,Extrapyramidal symptoms;Diarrhea
+domperidone,Nausea and vomiting,QT prolongation;Dry mouth
+promethazine,Antiemetic,Drowsiness;Dry mouth
+
+loperamide,Diarrhea,Constipation;Abdominal cramps
+bismuth subsalicylate,Diarrhea and dyspepsia,Black stools;Nausea
+oral rehydration salts,Dehydration,Nausea;Bloating
+
+rifampicin,Tuberculosis,Hepatotoxicity;Orange discoloration
+isoniazid,Tuberculosis,Peripheral neuropathy;Hepatotoxicity
+ethambutol,Tuberculosis,Optic neuritis;Visual changes
+pyrazinamide,Tuberculosis,Hyperuricemia;Hepatotoxicity
+
+acyclovir,Herpes infections,Renal toxicity;Nausea
+valacyclovir,Herpes infections,Headache;Abdominal pain
+oseltamivir,Influenza,Nausea;Vomiting
+remdesivir,Viral infections,Elevated liver enzymes;Nausea
+
+fluconazole,Fungal infections,Hepatotoxicity;GI upset
+itraconazole,Fungal infections,Heart failure risk;Nausea
+ketoconazole,Fungal infections,Hepatotoxicity;Endocrine effects
+amphotericin b,Severe fungal infections,Nephrotoxicity;Fever
+nystatin,Candidiasis,GI upset;Rash
+
+albuterol,COPD,Tremor;Palpitations
+tiotropium,COPD,Dry mouth;Urinary retention
+ipratropium,COPD,Dry mouth;Cough
+roflumilast,COPD,Weight loss;Diarrhea
+
+levodopa,Parkinson disease,Dyskinesia;Nausea
+carbidopa,Parkinson disease,Nausea;Dizziness
+pramipexole,Parkinson disease,Somnolence;Hallucinations
+ropinirole,Parkinson disease,Dizziness;Nausea
+
+donepezil,Alzheimer disease,Nausea;Bradycardia
+rivastigmine,Alzheimer disease,Vomiting;Weight loss
+memantine,Alzheimer disease,Dizziness;Confusion
+
+sildenafil,Erectile dysfunction,Headache;Flushing
+tadalafil,Erectile dysfunction,Back pain;Dyspepsia
+vardenafil,Erectile dysfunction,Headache;Visual disturbance
+
+ethinylestradiol,Contraception,Nausea;Thromboembolism
+levonorgestrel,Contraception,Weight gain;Irregular bleeding
+m
+
