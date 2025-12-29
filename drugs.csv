@@ -392,7 +392,104 @@ oxybutynin,Overactive bladder,Dry mouth;Constipation
 tolterodine,Overactive bladder,Dry mouth;Blurred vision
 mirabegron,Overactive bladder,Hypertension;UTI
 
-desmopressin,Diabetes insipidus,Hyponatremia;Headache
+desmopressin,Diabetes insipidus,Hyponatremia;Headachebenzylpenicillin,Bacterial infections,Allergy;Anaphylaxis
+phenoxymethylpenicillin,Bacterial infections,Rash;GI upset
+piperacillin,Bacterial infections,Hypersensitivity;Diarrhea
+tazobactam,Beta lactamase inhibitor,GI upset;Rash
+cefazolin,Bacterial infections,Injection pain;Allergy
+cefotaxime,Bacterial infections,Diarrhea;Rash
+ceftazidime,Bacterial infections,Neurotoxicity;Diarrhea
+cefepime,Bacterial infections,Neurotoxicity;GI upset
+meropenem,Severe infections,Seizures;GI upset
+imipenem,Severe infections,Seizures;Nausea
+ertapenem,Severe infections,Diarrhea;Headache
+aztreonam,Bacterial infections,Rash;GI upset
+
+gentamicin,Bacterial infections,Nephrotoxicity;Ototoxicity
+amikacin,Bacterial infections,Nephrotoxicity;Ototoxicity
+tobramycin,Bacterial infections,Ototoxicity;Nephrotoxicity
+linezolid,Resistant infections,Myelosuppression;Neuropathy
+daptomycin,Resistant infections,Myopathy;Eosinophilic pneumonia
+tigecycline,Resistant infections,Nausea;Vomiting
+
+ethionamide,Tuberculosis,Hepatotoxicity;GI upset
+streptomycin,Tuberculosis,Ototoxicity;Nephrotoxicity
+bedaquiline,Tuberculosis,QT prolongation;Hepatotoxicity
+delamanid,Tuberculosis,QT prolongation;Nausea
+
+voriconazole,Fungal infections,Visual disturbance;Hepatotoxicity
+posaconazole,Fungal infections,GI upset;Headache
+isavuconazole,Fungal infections,Hypokalemia;Nausea
+caspofungin,Fungal infections,Histamine reactions;GI upset
+micafungin,Fungal infections,Elevated liver enzymes;Headache
+
+famciclovir,Viral infections,Headache;Nausea
+ganciclovir,CMV infections,Myelosuppression;Renal toxicity
+valganciclovir,CMV infections,Neutropenia;Diarrhea
+ribavirin,Viral infections,Hemolytic anemia;Fatigue
+sofosbuvir,Hepatitis C,Headache;Fatigue
+ledipasvir,Hepatitis C,Fatigue;Headache
+tenofovir disoproxil fumarate,HIV and hepatitis,Renal toxicity;Bone loss
+emtricitabine,HIV and hepatitis,Headache;Hyperpigmentation
+efavirenz,HIV,CNS effects;Rash
+nevirapine,HIV,Hepatotoxicity;Rash
+dolutegravir,HIV,Insomnia;Weight gain
+raltegravir,HIV,Myopathy;Headache
+ritonavir,HIV,GI upset;Hyperlipidemia
+lopinavir,HIV,Diarrhea;Hyperlipidemia
+
+bleomycin,Cancer,Pulmonary fibrosis;Fever
+cisplatin,Cancer,Nephrotoxicity;Ototoxicity
+carboplatin,Cancer,Myelosuppression;Nausea
+paclitaxel,Cancer,Neuropathy;Myelosuppression
+docetaxel,Cancer,Fluid retention;Neutropenia
+doxorubicin,Cancer,Cardiotoxicity;Alopecia
+epirubicin,Cancer,Myelosuppression;Cardiotoxicity
+cyclophosphamide,Cancer,Hemorrhagic cystitis;Myelosuppression
+ifosfamide,Cancer,Neurotoxicity;Hemorrhagic cystitis
+vincristine,Cancer,Peripheral neuropathy;Constipation
+vinblastine,Cancer,Myelosuppression;Neuropathy
+etoposide,Cancer,Myelosuppression;Alopecia
+tamoxifen,Breast cancer,Hot flashes;Thromboembolism
+anastrozole,Breast cancer,Arthralgia;Osteoporosis
+letrozole,Breast cancer,Hot flashes;Bone loss
+imatinib,Leukemia,Edema;Myelosuppression
+dasatinib,Leukemia,Pleural effusion;Myelosuppression
+nilotinib,Leukemia,QT prolongation;Hyperglycemia
+rituximab,Lymphoma,Infusion reactions;Infections
+trastuzumab,Breast cancer,Cardiotoxicity;Infusion reactions
+bevacizumab,Cancer,Hypertension;Bleeding
+
+isotretinoin,Severe acne,Teratogenicity;Dry skin
+acitretin,Psoriasis,Teratogenicity;Dry skin
+methoxsalen,Psoriasis and vitiligo,Photosensitivity;Nausea
+calcipotriol,Psoriasis,Skin irritation;Burning
+
+betamethasone topical,Skin inflammation,Skin atrophy;Irritation
+clobetasol,Skin inflammation,Skin atrophy;Striae
+mupirocin,Skin infections,Burning;Itching
+fusidic acid,Skin infections,Rash;GI upset
+
+timolol ophthalmic,Glaucoma,Bradycardia;Eye irritation
+latanoprost ophthalmic,Glaucoma,Eye redness;Eyelash growth
+travoprost ophthalmic,Glaucoma,Eye irritation;Hyperpigmentation
+brinzolamide ophthalmic,Glaucoma,Bitter taste;Eye irritation
+acetazolamide ophthalmic,Glaucoma,Metabolic acidosis;Paresthesia
+
+xylometazoline,Nasal congestion,Rebound congestion;Dryness
+oxymetazoline,Nasal congestion,Rebound congestion;Irritation
+azelastine nasal,Allergic rhinitis,Bitter taste;Nasal irritation
+mometasone nasal,Allergic rhinitis,Nasal irritation;Headache
+
+levonorgestrel emergency,Emergency contraception,Nausea;Irregular bleeding
+ulipristal acetate,Emergency contraception,Headache;Abdominal pain
+
+sodium valproate,Epilepsy,Hepatotoxicity;Weight gain
+ethosuximide,Absence seizures,GI upset;Fatigue
+lacosamide,Epilepsy,Dizziness;PR prolongation
+
+
+
 
 
 
