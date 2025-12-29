@@ -194,5 +194,206 @@ medroxyprogesterone,Contraception,Weight gain;Amenorrhea
 ferrous fumarate,Iron deficiency anemia,Constipation;Nausea
 folic acid,Megaloblastic anemia,Bloating;Nausea
 cyanocobalamin,Vitamin B12 deficiency,Injection pain;Headache
-epoetin alfa,Anemia,Hypertension;Thrombosis
+epoetin alfa,Anemia,Hypertension;Thrombosisbaclofen,Muscle spasticity,Drowsiness;Weakness
+tizanidine,Muscle spasticity,Hypotension;Sedation
+cyclobenzaprine,Muscle spasm,Dry mouth;Sedation
+methocarbamol,Muscle spasm,Drowsiness;Dizziness
+
+allopurinol,Gout,Rash;Hypersensitivity
+febuxostat,Gout,Liver dysfunction;Cardiovascular risk
+probenecid,Gout,Nephrolithiasis;GI upset
+colchicine,Gout,Diarrhea;Myopathy
+
+alendronate,Osteoporosis,Esophagitis;Jaw osteonecrosis
+risedronate,Osteoporosis,GI irritation;Myalgia
+ibandronate,Osteoporosis,Flu like symptoms;GI upset
+teriparatide,Osteoporosis,Hypercalcemia;Dizziness
+denosumab,Osteoporosis,Hypocalcemia;Infections
+calcitonin,Osteoporosis,Nausea;Flushing
+
+calcium carbonate,Calcium supplementation,Constipation;Hypercalcemia
+calcium citrate,Calcium supplementation,GI upset;Hypercalcemia
+vitamin d3,Vitamin D deficiency,Hypercalcemia;Nausea
+ergocalciferol,Vitamin D deficiency,Hypercalcemia;Vomiting
+
+levocetirizine,Allergic rhinitis,Drowsiness;Dry mouth
+desloratadine,Allergic rhinitis,Headache;Dry mouth
+azelastine,Allergic rhinitis,Bitter taste;Nasal irritation
+mometasone,Allergic rhinitis,Nasal irritation;Headache
+fluticasone nasal,Allergic rhinitis,Nosebleed;Irritation
+
+ketotifen,Allergic disorders,Drowsiness;Weight gain
+olopatadine,Allergic conjunctivitis,Eye irritation;Headache
+
+betahistine,Vertigo,Headache;GI upset
+meclizine,Vertigo,Drowsiness;Dry mouth
+cinnarizine,Vertigo,Sedation;Weight gain
+
+acetazolamide,Glaucoma and altitude sickness,Metabolic acidosis;Paresthesia
+timolol ophthalmic,Glaucoma,Bradycardia;Eye irritation
+latanoprost,Glaucoma,Eye redness;Eyelash growth
+brimonidine,Glaucoma,Dry mouth;Eye irritation
+dorzolamide,Glaucoma,Bitter taste;Eye irritation
+
+lidocaine,Local anesthesia,Allergic reaction;CNS toxicity
+bupivacaine,Local anesthesia,Cardiotoxicity;Hypotension
+articaine,Dental anesthesia,Methemoglobinemia;Numbness
+
+clotrimazole,Fungal infections,Local irritation;Burning
+miconazole,Fungal infections,Burning;Itching
+terbinafine,Fungal infections,Hepatotoxicity;Taste disturbance
+griseofulvin,Fungal infections,Photosensitivity;Headache
+
+permethrin,Scabies and lice,Skin irritation;Burning
+ivermectin,Parasitic infections,Dizziness;Pruritus
+albendazole,Helminth infections,Hepatotoxicity;Abdominal pain
+mebendazole,Helminth infections,Abdominal pain;Diarrhea
+praziquantel,Schistosomiasis,Dizziness;Abdominal pain
+
+repaglinide,Type 2 diabetes,Hypoglycemia;Weight gain
+nateglinide,Type 2 diabetes,Hypoglycemia;Dizziness
+exenatide,Type 2 diabetes,Nausea;Pancreatitis
+liraglutide,Type 2 diabetes,Nausea;Weight loss
+semaglutide,Type 2 diabetes,Nausea;Vomiting
+
+carbimazole,Hyperthyroidism,Agranulocytosis;Rash
+
+niacin,Hyperlipidemia,Flushing;Hepatotoxicity
+omega 3 fatty acids,Hypertriglyceridemia,GI upset;Fishy taste
+
+zinc sulfate,Zinc deficiency,Nausea;Metallic taste
+magnesium sulfate,Hypomagnesemia,Diarrhea;Hypotension
+potassium chloride,Hypokalemia,GI irritation;Arrhythmia
+
+mesalamine,Inflammatory bowel disease,Headache;Diarrhea
+sulfasalazine,Inflammatory bowel disease,Rash;Hematologic toxicity
+infliximab,Inflammatory bowel disease,Infections;Infusion reactions
+adalimumab,Inflammatory bowel disease,Injection site pain;Infections
+
+hydroxychloroquine,Autoimmune disorders,Retinopathy;GI upset
+chloroquine,Malaria and autoimmune disease,Retinopathy;QT prolongation
+
+artemether,Malaria,Dizziness;QT prolongation
+lumefantrine,Malaria,QT prolongation;Headache
+quinine,Malaria,Hypoglycemia;Cinchonism
+primaquine,Malaria,Hemolysis;GI upset
+
+granisetron,Antiemetic,Headache;Constipation
+aprepitant,Antiemetic,Fatigue;Hiccups
+
+nicotine replacement,Smoking cessation,Nausea;Palpitations
+bupropion,Smoking cessation,Insomnia;Seizures
+varenicline,Smoking cessation,Nausea;Abnormal dreams
+
+finasteride,Benign prostatic hyperplasia,Sexual dysfunction;Gynecomastia
+tamsulosin,Benign prostatic hyperplasia,Dizziness;Retrograde ejaculation
+dutasteride,Benign prostatic hyperplasia,Impotence;Gynecomastia
+
+oxybutynin,Overactive bladder,Dry mouth;Constipation
+tolterodine,Overactive bladder,Dry mouth;Blurred vision
+mirabegron,Overactive bladder,Hypertension;UTI
+
+desmopressin,Diabetes insipidus,Hyponatremia;Headachebaclofen,Muscle spasticity,Drowsiness;Weakness
+tizanidine,Muscle spasticity,Hypotension;Sedation
+cyclobenzaprine,Muscle spasm,Dry mouth;Sedation
+methocarbamol,Muscle spasm,Drowsiness;Dizziness
+
+allopurinol,Gout,Rash;Hypersensitivity
+febuxostat,Gout,Liver dysfunction;Cardiovascular risk
+probenecid,Gout,Nephrolithiasis;GI upset
+colchicine,Gout,Diarrhea;Myopathy
+
+alendronate,Osteoporosis,Esophagitis;Jaw osteonecrosis
+risedronate,Osteoporosis,GI irritation;Myalgia
+ibandronate,Osteoporosis,Flu like symptoms;GI upset
+teriparatide,Osteoporosis,Hypercalcemia;Dizziness
+denosumab,Osteoporosis,Hypocalcemia;Infections
+calcitonin,Osteoporosis,Nausea;Flushing
+
+calcium carbonate,Calcium supplementation,Constipation;Hypercalcemia
+calcium citrate,Calcium supplementation,GI upset;Hypercalcemia
+vitamin d3,Vitamin D deficiency,Hypercalcemia;Nausea
+ergocalciferol,Vitamin D deficiency,Hypercalcemia;Vomiting
+
+levocetirizine,Allergic rhinitis,Drowsiness;Dry mouth
+desloratadine,Allergic rhinitis,Headache;Dry mouth
+azelastine,Allergic rhinitis,Bitter taste;Nasal irritation
+mometasone,Allergic rhinitis,Nasal irritation;Headache
+fluticasone nasal,Allergic rhinitis,Nosebleed;Irritation
+
+ketotifen,Allergic disorders,Drowsiness;Weight gain
+olopatadine,Allergic conjunctivitis,Eye irritation;Headache
+
+betahistine,Vertigo,Headache;GI upset
+meclizine,Vertigo,Drowsiness;Dry mouth
+cinnarizine,Vertigo,Sedation;Weight gain
+
+acetazolamide,Glaucoma and altitude sickness,Metabolic acidosis;Paresthesia
+timolol ophthalmic,Glaucoma,Bradycardia;Eye irritation
+latanoprost,Glaucoma,Eye redness;Eyelash growth
+brimonidine,Glaucoma,Dry mouth;Eye irritation
+dorzolamide,Glaucoma,Bitter taste;Eye irritation
+
+lidocaine,Local anesthesia,Allergic reaction;CNS toxicity
+bupivacaine,Local anesthesia,Cardiotoxicity;Hypotension
+articaine,Dental anesthesia,Methemoglobinemia;Numbness
+
+clotrimazole,Fungal infections,Local irritation;Burning
+miconazole,Fungal infections,Burning;Itching
+terbinafine,Fungal infections,Hepatotoxicity;Taste disturbance
+griseofulvin,Fungal infections,Photosensitivity;Headache
+
+permethrin,Scabies and lice,Skin irritation;Burning
+ivermectin,Parasitic infections,Dizziness;Pruritus
+albendazole,Helminth infections,Hepatotoxicity;Abdominal pain
+mebendazole,Helminth infections,Abdominal pain;Diarrhea
+praziquantel,Schistosomiasis,Dizziness;Abdominal pain
+
+repaglinide,Type 2 diabetes,Hypoglycemia;Weight gain
+nateglinide,Type 2 diabetes,Hypoglycemia;Dizziness
+exenatide,Type 2 diabetes,Nausea;Pancreatitis
+liraglutide,Type 2 diabetes,Nausea;Weight loss
+semaglutide,Type 2 diabetes,Nausea;Vomiting
+
+carbimazole,Hyperthyroidism,Agranulocytosis;Rash
+
+niacin,Hyperlipidemia,Flushing;Hepatotoxicity
+omega 3 fatty acids,Hypertriglyceridemia,GI upset;Fishy taste
+
+zinc sulfate,Zinc deficiency,Nausea;Metallic taste
+magnesium sulfate,Hypomagnesemia,Diarrhea;Hypotension
+potassium chloride,Hypokalemia,GI irritation;Arrhythmia
+
+mesalamine,Inflammatory bowel disease,Headache;Diarrhea
+sulfasalazine,Inflammatory bowel disease,Rash;Hematologic toxicity
+infliximab,Inflammatory bowel disease,Infections;Infusion reactions
+adalimumab,Inflammatory bowel disease,Injection site pain;Infections
+
+hydroxychloroquine,Autoimmune disorders,Retinopathy;GI upset
+chloroquine,Malaria and autoimmune disease,Retinopathy;QT prolongation
+
+artemether,Malaria,Dizziness;QT prolongation
+lumefantrine,Malaria,QT prolongation;Headache
+quinine,Malaria,Hypoglycemia;Cinchonism
+primaquine,Malaria,Hemolysis;GI upset
+
+granisetron,Antiemetic,Headache;Constipation
+aprepitant,Antiemetic,Fatigue;Hiccups
+
+nicotine replacement,Smoking cessation,Nausea;Palpitations
+bupropion,Smoking cessation,Insomnia;Seizures
+varenicline,Smoking cessation,Nausea;Abnormal dreams
+
+finasteride,Benign prostatic hyperplasia,Sexual dysfunction;Gynecomastia
+tamsulosin,Benign prostatic hyperplasia,Dizziness;Retrograde ejaculation
+dutasteride,Benign prostatic hyperplasia,Impotence;Gynecomastia
+
+oxybutynin,Overactive bladder,Dry mouth;Constipation
+tolterodine,Overactive bladder,Dry mouth;Blurred vision
+mirabegron,Overactive bladder,Hypertension;UTI
+
+desmopressin,Diabetes insipidus,Hyponatremia;Headache
+
+
+
 
