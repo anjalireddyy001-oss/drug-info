@@ -1,5 +1,4 @@
 drug,use,side_effects
-
 paracetamol,Pain and fever,Nausea;Allergy;Liver damage
 ibuprofen,Pain and inflammation,Ulcer;Nausea;Kidney problems
 aspirin,Pain relief and antiplatelet,GI bleeding;Ulcer
@@ -13,64 +12,48 @@ etoricoxib,Pain and inflammation,Cardiovascular risk;Edema
 
 metformin,Type 2 diabetes,Diarrhea;Lactic acidosis
 glimepiride,Type 2 diabetes,Hypoglycemia;Weight gain
-gliclazide,Type 2 diabetes,Hypoglycemia;Weight gain
+glipizide,Type 2 diabetes,Hypoglycemia;Weight gain
 pioglitazone,Type 2 diabetes,Weight gain;Edema
 sitagliptin,Type 2 diabetes,Headache;Nasopharyngitis
-insulin,Diabetes mellitus,Hypoglycemia;Weight gain
+linagliptin,Type 2 diabetes,Joint pain;Pancreatitis
+empagliflozin,Type 2 diabetes,UTI;Dehydration
+dapagliflozin,Type 2 diabetes,Genital infection;Hypotension
 acarbose,Type 2 diabetes,Flatulence;Diarrhea
-dapagliflozin,Type 2 diabetes,UTI;Dehydration
-empagliflozin,Type 2 diabetes,Genital infections;Dehydration
+insulin,Diabetes mellitus,Hypoglycemia;Weight gain
 
-amlodipine,Hypertension,Edema;Dizziness
+amlodipine,Hypertension,Edema;Headache
+atenolol,Hypertension,Bradycardia;Fatigue
+metoprolol,Hypertension and angina,Bradycardia;Dizziness
 losartan,Hypertension,Dizziness;Hyperkalemia
-telmisartan,Hypertension,Dizziness;Hypotension
-valsartan,Hypertension,Dizziness;Hyperkalemia
-enalapril,Hypertension,Cough;Hypotension
-lisinopril,Hypertension,Cough;Angioedema
-ramipril,Hypertension,Cough;Hypotension
-metoprolol,Hypertension,Bradycardia;Fatigue
-atenolol,Hypertension,Bradycardia;Cold extremities
-propranolol,Hypertension,Bradycardia;Bronchospasm
-nebivolol,Hypertension,Bradycardia;Headache
+valsartan,Hypertension,Dizziness;Fatigue
+enalapril,Hypertension,Cough;Hyperkalemia
+ramipril,Hypertension,Hypotension;Cough
+hydrochlorothiazide,Hypertension,Hypokalemia;Dehydration
 furosemide,Edema and heart failure,Electrolyte imbalance;Dehydration
-torsemide,Edema,Electrolyte imbalance;Dizziness
-hydrochlorothiazide,Hypertension,Hypokalemia;Hyperuricemia
 spironolactone,Heart failure,Hyperkalemia;Gynecomastia
-eplerenone,Heart failure,Hyperkalemia;Dizziness
-digoxin,Heart failure,Arrhythmia;Nausea
 
-atorvastatin,Hyperlipidemia,Muscle pain;Liver enzyme elevation
+atorvastatin,Hyperlipidemia,Myalgia;Elevated liver enzymes
 rosuvastatin,Hyperlipidemia,Myalgia;Headache
-simvastatin,Hyperlipidemia,Myopathy;Liver dysfunction
-pravastatin,Hyperlipidemia,Muscle pain;GI upset
-ezetimibe,Hyperlipidemia,Diarrhea;Abdominal pain
+simvastatin,Hyperlipidemia,Muscle pain;GI upset
+ezetimibe,Hyperlipidemia,Diarrhea;Fatigue
 fenofibrate,Hypertriglyceridemia,Myopathy;Gallstones
 
 omeprazole,Acid peptic disease,Headache;Diarrhea
-pantoprazole,Acid disorders,Headache;Nausea
-esomeprazole,GERD,Headache;Abdominal pain
-lansoprazole,Acid suppression,Diarrhea;Nausea
-ranitidine,Acid suppression,Headache;Constipation
-famotidine,Acid suppression,Headache;Dizziness
-sucralfate,Peptic ulcer,Constipation;Dry mouth
-ondansetron,Antiemetic,Headache;Constipation
-domperidone,Antiemetic,QT prolongation;Dry mouth
-metoclopramide,Antiemetic,Extrapyramidal symptoms;Drowsiness
+pantoprazole,Acid peptic disease,Nausea;Abdominal pain
+esomeprazole,GERD,Headache;Constipation
+ranitidine,Acid reflux,Headache;Constipation
+famotidine,Acid reflux,Dizziness;Fatigue
 
-amoxicillin,Bacterial infections,Diarrhea;Rash;Allergy
-ampicillin,Bacterial infections,Diarrhea;Rash
-ceftriaxone,Bacterial infections,Injection site pain;Diarrhea
+amoxicillin,Bacterial infections,Rash;Diarrhea
+clavulanic acid,Beta lactamase inhibitor,Diarrhea;Hepatotoxicity
+ceftriaxone,Bacterial infections,Injection pain;Biliary sludging
 cefixime,Bacterial infections,Diarrhea;Abdominal pain
-ciprofloxacin,Bacterial infections,Tendon rupture;Nausea
-levofloxacin,Bacterial infections,QT prolongation;Dizziness
+ciprofloxacin,Bacterial infections,Tendonitis;Photosensitivity
+levofloxacin,Bacterial infections,Tendon rupture;QT prolongation
 azithromycin,Bacterial infections,QT prolongation;Diarrhea
 clarithromycin,Bacterial infections,Nausea;Metallic taste
 doxycycline,Bacterial infections,Photosensitivity;GI upset
-minocycline,Bacterial infections,Dizziness;Skin pigmentation
-clindamycin,Bacterial infections,Diarrhea;C difficile colitis
 metronidazole,Anaerobic infections,Metallic taste;Nausea
-nitrofurantoin,Urinary infections,Nausea;Pulmonary toxicity
-linezolid,Resistant infections,Myelosuppression;Neuropathy
 
 salbutamol,Bronchial asthma,Tremor;Palpitations
 formoterol,Bronchial asthma,Tremor;Headache
@@ -85,107 +68,16 @@ fexofenadine,Allergic conditions,Headache;Nausea
 chlorpheniramine,Allergy,Sedation;Dry mouth
 diphenhydramine,Allergy and sleep aid,Sedation;Dry mouth
 
-prednisolone,Inflammatory disorders,Weight gain;Immunosuppression
-dexamethasone,Inflammation and shock,Hyperglycemia;Mood changes
-amlodipine,Hypertension,Edema;Headache;Flushing
-atenolol,Hypertension,Bradycardia;Fatigue
-losartan,Hypertension,Dizziness;Hyperkalemia
-enalapril,Hypertension,Cough;Hyperkalemia
-hydrochlorothiazide,Hypertension,Hypokalemia;Dehydration
-
-atorvastatin,Hyperlipidemia,Myalgia;Elevated liver enzymes
-rosuvastatin,Hyperlipidemia,Myalgia;Headache
-simvastatin,Hyperlipidemia,Muscle pain;GI upset
-
-aspirin,Pain and antiplatelet,GI irritation;Bleeding
-ibuprofen,Pain and inflammation,GI upset;Renal impairment
-diclofenac,Pain and inflammation,GI irritation;Hepatotoxicity
-naproxen,Pain and inflammation,Dyspepsia;Dizziness
-
-omeprazole,Acid peptic disease,Headache;Diarrhea
-pantoprazole,Acid peptic disease,Nausea;Abdominal pain
-ranitidine,Acid reflux,Headache;Constipation
-
-metoprolol,Hypertension and angina,Bradycardia;Fatigue
-propranolol,Hypertension and migraine,Bradycardia;Cold extremities
-
-furosemide,Edema and heart failure,Hypokalemia;Dehydration
-spironolactone,Heart failure,Hyperkalemia;Gynecomastia
-
-warfarin,Anticoagulation,Bleeding;Bruising
-heparin,Anticoagulation,Bleeding;Thrombocytopenia
-
-insulin,Diabetes mellitus,Hypoglycemia;Weight gain
-glimepiride,Type 2 diabetes,Hypoglycemia;Weight gain
-sitagliptin,Type 2 diabetes,Headache;Nasopharyngitis
-
-levothyroxine,Hypothyroidism,Palpitations;Weight loss
-methimazole,Hyperthyroidism,Rash;Agranulocytosis
-
 sertraline,Depression,Nausea;Insomnia
 fluoxetine,Depression,Anxiety;GI upset
+escitalopram,Depression,Nausea;Headache
+paroxetine,Depression,Weight gain;Sexual dysfunction
 amitriptyline,Depression,Drowsiness;Dry mouth
 
 diazepam,Anxiety and seizures,Sedation;Dependence
 alprazolam,Anxiety,Drowsiness;Dependence
+clonazepam,Seizure disorder,Drowsiness;Ataxia
 
-haloperidol,Schizophrenia,Extrapyramidal symptoms;Sedation
-risperidone,Schizophrenia,Weight gain;Hyperprolactinemia
-
-hydrocortisone,Inflammation,Weight gain;Electrolyte imbalance
-methotrexate,Autoimmune disorders,Myelosuppression;Hepatotoxicity
-azathioprine,Immunosuppression,Myelosuppression;Infectionsvalsartan,Hypertension,Dizziness;Hyperkalemia
-telmisartan,Hypertension,Dizziness;Fatigue
-ramipril,Hypertension,Cough;Hypotension
-lisinopril,Hypertension,Cough;Hyperkalemia
-diltiazem,Angina and hypertension,Bradycardia;Edema
-verapamil,Angina and arrhythmia,Constipation;Bradycardia
-digoxin,Heart failure,Nausea;Arrhythmia
-isosorbide mononitrate,Angina,Headache;Hypotension
-clopidogrel,Antiplatelet therapy,Bleeding;Bruising
-ticagrelor,Antiplatelet therapy,Dyspnea;Bleedingvalsartan,Hypertension,Dizziness;Hyperkalemia
-telmisartan,Hypertension,Dizziness;Fatigue
-ramipril,Hypertension,Cough;Hypotension
-lisinopril,Hypertension,Cough;Hyperkalemia
-diltiazem,Angina and hypertension,Bradycardia;Edema
-verapamil,Angina and arrhythmia,Constipation;Bradycardia
-digoxin,Heart failure,Nausea;Arrhythmia
-isosorbide mononitrate,Angina,Headache;Hypotension
-clopidogrel,Antiplatelet therapy,Bleeding;Bruising
-ticagrelor,Antiplatelet therapy,Dyspnea;Bleeding
-amoxicillin,Bacterial infections,Rash;Diarrhea
-ceftriaxone,Bacterial infections,Injection pain;Biliary sludging
-cefixime,Bacterial infections,Diarrhea;Abdominal pain
-ciprofloxacin,Bacterial infections,Tendonitis;Photosensitivity
-levofloxacin,Bacterial infections,Tendon rupture;QT prolongation
-azithromycin,Bacterial infections,QT prolongation;Diarrhea
-vancomycin,Serious gram-positive infections,Nephrotoxicity;Red man syndrome
-ipratropium,Bronchodilation,Dry mouth;Cough
-tiotropium,COPD,Dry mouth;Constipation
-beclomethasone,Asthma control,Oral candidiasis;Hoarsenessescitalopram,Depression,Nausea;Insomnia
-citalopram,Depression,QT prolongation;Dry mouth
-paroxetine,Depression,Weight gain;Sexual dysfunction
-venlafaxine,Depression,Hypertension;Nausea
-duloxetine,Depression and neuropathy,Dry mouth;Dizziness
-quetiapine,Bipolar disorder,Sedation;Weight gain
-olanzapine,Schizophrenia,Weight gain;Metabolic syndrome
-clozapine,Resistant schizophrenia,Agranulocytosis;Seizuresdomperidone,Nausea and vomiting,QT prolongation;Dry mouth
-ondansetron,Antiemetic,Headache;Constipation
-lactulose,Constipation,Bloating;Diarrhea
-bisacodyl,Constipation,Abdominal cramps;Diarrheatramadol,Moderate pain,Nausea;Dependence
-morphine,Severe pain,Respiratory depression;Constipation
-gabapentin,Neuropathic pain,Drowsiness;Dizziness
-pregabalin,Neuropathic pain,Weight gain;Edema
-allopurinol,Gout,Rash;Hypersensitivity
-colchicine,Gout,Diarrhea;Myopathy
-
-
-
-
-
-
-
-
-
-
-
+levothyroxine,Hypothyroidism,Palpitations;Weight loss
+methimazole,Hyperthyroidism,Rash;Agranulocytosis
+propylthiouracil,Hyperthyroidism,Hepatotoxicity;Rash
