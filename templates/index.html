@@ -5,88 +5,57 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f6f8;
-            margin: 0;
-            padding: 0;
+            background: #f4f6f8;
         }
-
         .container {
-            width: 90%;
-            max-width: 700px;
+            max-width: 800px;
             margin: 40px auto;
             background: white;
             padding: 25px;
-            border-radius: 6px;
+            border-radius: 8px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
-
         h1 {
             text-align: center;
-            color: #2c3e50;
         }
-
-        form {
-            margin-top: 20px;
-            text-align: center;
-        }
-
         input, select, button {
+            width: 100%;
             padding: 10px;
-            margin: 5px;
-            width: 80%;
-            max-width: 400px;
-            font-size: 16px;
+            margin-top: 10px;
         }
-
         button {
-            background-color: #3498db;
+            background: #3498db;
             color: white;
             border: none;
             cursor: pointer;
         }
-
-        button:hover {
-            background-color: #2980b9;
-        }
-
-        .result {
-            margin-top: 25px;
-            padding: 15px;
+        .card {
             background: #eef5ff;
-            border-radius: 5px;
-        }
-
-        ul {
-            margin-left: 20px;
-        }
-
-        .suggestions {
+            padding: 15px;
             margin-top: 20px;
+            border-radius: 6px;
         }
-
-        footer {
+        .footer {
             text-align: center;
             margin-top: 30px;
             font-size: 14px;
-            color: #777;
+            color: gray;
         }
     </style>
 </head>
 
 <body>
 <div class="container">
-
-    <h1>DrugInfoFinder 💊</h1>
+    <h1>💊 DrugInfoFinder</h1>
 
     <form method="POST">
-        <input type="text" name="drug" placeholder="Enter drug name">
+        <input type="text" name="drug" placeholder="Enter drug name (optional)" value="{{ drug_name }}">
 
         <select name="category">
             <option value="">-- Select Category --</option>
             {% for cat in categories %}
-                <option value="{{ cat }}"
-                    {% if cat == selected_category %}selected{% endif %}>
-                    {{ cat | capitalize }}
+                <option value="{{ cat }}" {% if cat == selected_category %}selected{% endif %}>
+                    {{ cat }}
                 </option>
             {% endfor %}
         </select>
@@ -94,38 +63,27 @@
         <button type="submit">Search</button>
     </form>
 
-    {% if result and drug %}
-        <div class="result">
-            <h2>{{ drug | capitalize }}</h2>
-
-            <p><strong>Main Use:</strong> {{ result.use }}</p>
-
-            <p><strong>Category:</strong> {{ result.category | capitalize }}</p>
-
-            <p><strong>Common Side Effects:</strong></p>
+    {% for drug in results %}
+        <div class="card">
+            <h2>{{ drug.drug }}</h2>
+            <p><b>Main Use:</b> {{ drug.use }}</p>
+            <p><b>Category:</b> {{ drug.category }}</p>
+            <p><b>Common Side Effects:</b></p>
             <ul>
-                {% for effect in result.side_effects %}
-                    <li>{{ effect }}</li>
+                {% for se in drug.side_effects %}
+                    <li>{{ se }}</li>
                 {% endfor %}
             </ul>
         </div>
+    {% endfor %}
+
+    {% if results|length == 0 and selected_category %}
+        <p>No drugs found.</p>
     {% endif %}
 
-    {% if suggestions %}
-        <div class="suggestions">
-            <h3>Results:</h3>
-            <ul>
-                {% for s in suggestions %}
-                    <li>{{ s }}</li>
-                {% endfor %}
-            </ul>
-        </div>
-    {% endif %}
-
-    <footer>
-        <p>Educational use only. Not a substitute for medical advice.</p>
-    </footer>
-
+    <div class="footer">
+        Educational use only. Not a substitute for medical advice.
+    </div>
 </div>
 </body>
 </html>
