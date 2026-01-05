@@ -5,13 +5,14 @@ app = Flask(__name__)
 
 def load_drugs():
     drugs = {}
-    with open("drugs.csv", newline="", encoding="utf-8") as file:
-        reader = csv.DictReader(file)
+    with open("drugs.csv", newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
         for row in reader:
             drug_name = row["drug"].strip().lower()
             drugs[drug_name] = {
-                "use": row["use"],
-                "side_effects": row["side_effects"].split(";")
+                "use": row.get("use", ""),
+                "category": row.get("category", ""),
+                "side_effects": row.get("side_effects", "").split(";")
             }
     return drugs
 
@@ -20,20 +21,16 @@ drug_data = load_drugs()
 @app.route("/", methods=["GET", "POST"])
 def index():
     result = None
-    drug_name = None
+    drug = None
 
     if request.method == "POST":
-        drug_name = request.form["drug"].lower()
-        if drug_name in drug_data:
-            result = drug_data[drug_name]
+        drug = request.form.get("drug", "").lower().strip()
+        if drug in drug_data:
+            result = drug_data[drug]
         else:
             result = "Drug not found"
 
-    return render_template(
-        "index.html",
-        result=result,
-        drug=drug_name
-    )
+    return render_template("index.html", result=result, drug=drug)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
