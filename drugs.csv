@@ -1,610 +1,601 @@
-drug,use,side_effects
-paracetamol,Pain and fever,Nausea;Hepatotoxicity
-ibuprofen,Pain and inflammation,GI upset;Renal impairment
-aspirin,Pain and antiplatelet,GI bleeding;Ulcer
-diclofenac,Pain and inflammation,GI irritation;Hepatotoxicity
-naproxen,Pain and inflammation,Dyspepsia;GI bleeding
-celecoxib,Pain and inflammation,Cardiovascular risk;Dyspepsia
-indomethacin,Pain and inflammation,Headache;GI bleeding
-ketorolac,Short term pain relief,GI bleeding;Renal impairment
-meloxicam,Pain and inflammation,GI upset;Hypertension
-etoricoxib,Pain and inflammation,Edema;Cardiovascular risk
-
-tramadol,Moderate pain,Nausea;Dependence
-codeine,Mild to moderate pain,Drowsiness;Constipation
-morphine,Severe pain,Respiratory depression;Constipation
-fentanyl,Severe pain,Respiratory depression;Sedation
-buprenorphine,Opioid dependence,Nausea;Sedation
-
-metformin,Type 2 diabetes,Diarrhea;Lactic acidosis
-glimepiride,Type 2 diabetes,Hypoglycemia;Weight gain
-glipizide,Type 2 diabetes,Hypoglycemia;Weight gain
-gliclazide,Type 2 diabetes,Hypoglycemia;Weight gain
-pioglitazone,Type 2 diabetes,Weight gain;Edema
-sitagliptin,Type 2 diabetes,Headache;Pancreatitis
-linagliptin,Type 2 diabetes,Joint pain;Pancreatitis
-empagliflozin,Type 2 diabetes,UTI;Dehydration
-dapagliflozin,Type 2 diabetes,Genital infection;Hypotension
-acarbose,Type 2 diabetes,Flatulence;Diarrhea
-insulin,Diabetes mellitus,Hypoglycemia;Weight gain
-
-amlodipine,Hypertension,Edema;Headache
-atenolol,Hypertension,Bradycardia;Fatigue
-metoprolol,Hypertension and angina,Bradycardia;Dizziness
-bisoprolol,Hypertension,Bradycardia;Fatigue
-losartan,Hypertension,Dizziness;Hyperkalemia
-valsartan,Hypertension,Dizziness;Fatigue
-telmisartan,Hypertension,Hypotension;Dizziness
-enalapril,Hypertension,Cough;Hyperkalemia
-ramipril,Hypertension,Hypotension;Cough
-lisinopril,Hypertension,Angioedema;Cough
-hydrochlorothiazide,Hypertension,Hypokalemia;Dehydration
-furosemide,Edema and heart failure,Electrolyte imbalance;Dehydration
-spironolactone,Heart failure,Hyperkalemia;Gynecomastia
-digoxin,Heart failure,Arrhythmia;Nausea
-
-atorvastatin,Hyperlipidemia,Myalgia;Elevated liver enzymes
-rosuvastatin,Hyperlipidemia,Myalgia;Headache
-simvastatin,Hyperlipidemia,Muscle pain;GI upset
-pravastatin,Hyperlipidemia,Myopathy;Fatigue
-ezetimibe,Hyperlipidemia,Diarrhea;Abdominal pain
-fenofibrate,Hypertriglyceridemia,Myopathy;Gallstones
-
-omeprazole,Acid peptic disease,Headache;Diarrhea
-pantoprazole,Acid peptic disease,Nausea;Abdominal pain
-esomeprazole,GERD,Headache;Constipation
-lansoprazole,Acid suppression,Diarrhea;Nausea
-ranitidine,Acid reflux,Headache;Constipation
-famotidine,Acid reflux,Dizziness;Fatigue
-sucralfate,Peptic ulcer,Constipation;Dry mouth
-
-amoxicillin,Bacterial infections,Rash;Diarrhea
-ampicillin,Bacterial infections,Rash;Diarrhea
-ceftriaxone,Bacterial infections,Injection pain;Biliary sludging
-cefixime,Bacterial infections,Diarrhea;Abdominal pain
-ciprofloxacin,Bacterial infections,Tendonitis;Photosensitivity
-levofloxacin,Bacterial infections,QT prolongation;Dizziness
-azithromycin,Bacterial infections,QT prolongation;Diarrhea
-clarithromycin,Bacterial infections,Nausea;Metallic taste
-doxycycline,Bacterial infections,Photosensitivity;GI upset
-metronidazole,Anaerobic infections,Metallic taste;Nausea
-clindamycin,Bacterial infections,Diarrhea;Colitis
-vancomycin,Gram positive infections,Nephrotoxicity;Red man syndrome
-
-salbutamol,Asthma,Tremor;Palpitations
-formoterol,Asthma,Tremor;Headache
-budesonide,Asthma control,Oral candidiasis;Hoarseness
-fluticasone,Asthma control,Oral candidiasis;Hoarseness
-montelukast,Asthma and allergy,Headache;Mood changes
-theophylline,Bronchodilation,Arrhythmia;Nausea
-
-cetirizine,Allergic conditions,Drowsiness;Dry mouth
-loratadine,Allergic conditions,Headache;Dry mouth
-fexofenadine,Allergic conditions,Headache;Nausea
-chlorpheniramine,Allergy,Sedation;Dry mouth
-diphenhydramine,Allergy and sleep aid,Sedation;Dry mouth
-
-sertraline,Depression,Nausea;Insomnia
-fluoxetine,Depression,Anxiety;GI upset
-escitalopram,Depression,Nausea;Headache
-paroxetine,Depression,Weight gain;Sexual dysfunction
-amitriptyline,Depression,Drowsiness;Dry mouth
-
-diazepam,Anxiety and seizures,Sedation;Dependence
-alprazolam,Anxiety,Drowsiness;Dependence
-clonazepam,Seizure disorder,Drowsiness;Ataxia
-
-levothyroxine,Hypothyroidism,Palpitations;Weight loss
-methimazole,Hyperthyroidism,Rash;Agranulocytosis
-propylthiouracil,Hyperthyroidism,Hepatotoxicity;Rash
-
-prednisolone,Inflammatory disorders,Weight gain;Immunosuppression
-dexamethasone,Inflammation and shock,Hyperglycemia;Mood changes
+drug,use,side_effects,,
+paracetamol,Pain and fever,Nausea;Hepatotoxicity,,
+ibuprofen,Pain and inflammation,GI upset;Renal impairment,,
+aspirin,Pain and antiplatelet,GI bleeding;Ulcer,,
+diclofenac,Pain and inflammation,GI irritation;Hepatotoxicity,,
+naproxen,Pain and inflammation,Dyspepsia;GI bleeding,,
+celecoxib,Pain and inflammation,Cardiovascular risk;Dyspepsia,,
+indomethacin,Pain and inflammation,Headache;GI bleeding,,
+ketorolac,Short term pain relief,GI bleeding;Renal impairment,,
+meloxicam,Pain and inflammation,GI upset;Hypertension,,
+etoricoxib,Pain and inflammation,Edema;Cardiovascular risk,,
+,,,,
+tramadol,Moderate pain,Nausea;Dependence,,
+codeine,Mild to moderate pain,Drowsiness;Constipation,,
+morphine,Severe pain,Respiratory depression;Constipation,,
+fentanyl,Severe pain,Respiratory depression;Sedation,,
+buprenorphine,Opioid dependence,Nausea;Sedation,,
+,,,,
+metformin,Type 2 diabetes,Diarrhea;Lactic acidosis,,
+glimepiride,Type 2 diabetes,Hypoglycemia;Weight gain,,
+glipizide,Type 2 diabetes,Hypoglycemia;Weight gain,,
+gliclazide,Type 2 diabetes,Hypoglycemia;Weight gain,,
+pioglitazone,Type 2 diabetes,Weight gain;Edema,,
+sitagliptin,Type 2 diabetes,Headache;Pancreatitis,,
+linagliptin,Type 2 diabetes,Joint pain;Pancreatitis,,
+empagliflozin,Type 2 diabetes,UTI;Dehydration,,
+dapagliflozin,Type 2 diabetes,Genital infection;Hypotension,,
+acarbose,Type 2 diabetes,Flatulence;Diarrhea,,
+insulin,Diabetes mellitus,Hypoglycemia;Weight gain,,
+,,,,
+amlodipine,Hypertension,Edema;Headache,,
+atenolol,Hypertension,Bradycardia;Fatigue,,
+metoprolol,Hypertension and angina,Bradycardia;Dizziness,,
+bisoprolol,Hypertension,Bradycardia;Fatigue,,
+losartan,Hypertension,Dizziness;Hyperkalemia,,
+valsartan,Hypertension,Dizziness;Fatigue,,
+telmisartan,Hypertension,Hypotension;Dizziness,,
+enalapril,Hypertension,Cough;Hyperkalemia,,
+ramipril,Hypertension,Hypotension;Cough,,
+lisinopril,Hypertension,Angioedema;Cough,,
+hydrochlorothiazide,Hypertension,Hypokalemia;Dehydration,,
+furosemide,Edema and heart failure,Electrolyte imbalance;Dehydration,,
+spironolactone,Heart failure,Hyperkalemia;Gynecomastia,,
+digoxin,Heart failure,Arrhythmia;Nausea,,
+,,,,
+atorvastatin,Hyperlipidemia,Myalgia;Elevated liver enzymes,,
+rosuvastatin,Hyperlipidemia,Myalgia;Headache,,
+simvastatin,Hyperlipidemia,Muscle pain;GI upset,,
+pravastatin,Hyperlipidemia,Myopathy;Fatigue,,
+ezetimibe,Hyperlipidemia,Diarrhea;Abdominal pain,,
+fenofibrate,Hypertriglyceridemia,Myopathy;Gallstones,,
+,,,,
+omeprazole,Acid peptic disease,Headache;Diarrhea,,
+pantoprazole,Acid peptic disease,Nausea;Abdominal pain,,
+esomeprazole,GERD,Headache;Constipation,,
+lansoprazole,Acid suppression,Diarrhea;Nausea,,
+ranitidine,Acid reflux,Headache;Constipation,,
+famotidine,Acid reflux,Dizziness;Fatigue,,
+sucralfate,Peptic ulcer,Constipation;Dry mouth,,
+,,,,
+amoxicillin,Bacterial infections,Rash;Diarrhea,,
+ampicillin,Bacterial infections,Rash;Diarrhea,,
+ceftriaxone,Bacterial infections,Injection pain;Biliary sludging,,
+cefixime,Bacterial infections,Diarrhea;Abdominal pain,,
+ciprofloxacin,Bacterial infections,Tendonitis;Photosensitivity,,
+levofloxacin,Bacterial infections,QT prolongation;Dizziness,,
+azithromycin,Bacterial infections,QT prolongation;Diarrhea,,
+clarithromycin,Bacterial infections,Nausea;Metallic taste,,
+doxycycline,Bacterial infections,Photosensitivity;GI upset,,
+metronidazole,Anaerobic infections,Metallic taste;Nausea,,
+clindamycin,Bacterial infections,Diarrhea;Colitis,,
+vancomycin,Gram positive infections,Nephrotoxicity;Red man syndrome,,
+,,,,
+salbutamol,Asthma,Tremor;Palpitations,,
+formoterol,Asthma,Tremor;Headache,,
+budesonide,Asthma control,Oral candidiasis;Hoarseness,,
+fluticasone,Asthma control,Oral candidiasis;Hoarseness,,
+montelukast,Asthma and allergy,Headache;Mood changes,,
+theophylline,Bronchodilation,Arrhythmia;Nausea,,
+,,,,
+cetirizine,Allergic conditions,Drowsiness;Dry mouth,,
+loratadine,Allergic conditions,Headache;Dry mouth,,
+fexofenadine,Allergic conditions,Headache;Nausea,,
+chlorpheniramine,Allergy,Sedation;Dry mouth,,
+diphenhydramine,Allergy and sleep aid,Sedation;Dry mouth,,
+,,,,
+sertraline,Depression,Nausea;Insomnia,,
+fluoxetine,Depression,Anxiety;GI upset,,
+escitalopram,Depression,Nausea;Headache,,
+paroxetine,Depression,Weight gain;Sexual dysfunction,,
+amitriptyline,Depression,Drowsiness;Dry mouth,,
+,,,,
+diazepam,Anxiety and seizures,Sedation;Dependence,,
+alprazolam,Anxiety,Drowsiness;Dependence,,
+clonazepam,Seizure disorder,Drowsiness;Ataxia,,
+,,,,
+levothyroxine,Hypothyroidism,Palpitations;Weight loss,,
+methimazole,Hyperthyroidism,Rash;Agranulocytosis,,
+propylthiouracil,Hyperthyroidism,Hepatotoxicity;Rash,,
+,,,,
+prednisolone,Inflammatory disorders,Weight gain;Immunosuppression,,
+dexamethasone,Inflammation and shock,Hyperglycemia;Mood changes,,
 hydrocortisone,Inflammatory conditions,Electrolyte imbalance;Weight gainprednisolone acetate,Inflammatory eye conditions,Increased intraocular pressure;Irritation
-betamethasone,Inflammatory disorders,Edema;Mood changes
-methylprednisolone,Autoimmune disorders,Infection risk;Hyperglycemia
-triamcinolone,Inflammatory disorders,Skin atrophy;Hyperglycemia
-
-methotrexate,Autoimmune disorders,Myelosuppression;Hepatotoxicity
-azathioprine,Immunosuppression,Myelosuppression;Infections
-cyclosporine,Organ transplantation,Nephrotoxicity;Hypertension
-tacrolimus,Organ transplantation,Nephrotoxicity;Tremor
-mycophenolate mofetil,Organ transplantation,Diarrhea;Leukopenia
-
-warfarin,Anticoagulation,Bleeding;Skin necrosis
-heparin,Anticoagulation,Bleeding;Thrombocytopenia
-enoxaparin,Anticoagulation,Bleeding;Injection site pain
-dabigatran,Anticoagulation,Bleeding;Dyspepsia
-rivaroxaban,Anticoagulation,Bleeding;Anemia
-apixaban,Anticoagulation,Bleeding;Bruising
-
-clopidogrel,Antiplatelet therapy,Bleeding;GI upset
-prasugrel,Antiplatelet therapy,Bleeding;Anemia
-ticagrelor,Antiplatelet therapy,Dyspnea;Bleeding
-
-isosorbide dinitrate,Angina,Headache;Hypotension
-nitroglycerin,Angina,Headache;Flushing
-ranolazine,Chronic angina,Dizziness;QT prolongation
-
-ivabradine,Heart failure,Bradycardia;Visual disturbances
-bisoprolol fumarate,Heart failure,Bradycardia;Fatigue
-
-levetiracetam,Epilepsy,Drowsiness;Mood changes
-phenytoin,Epilepsy,Gingival hyperplasia;Ataxia
-carbamazepine,Epilepsy,Dizziness;Hyponatremia
-valproic acid,Epilepsy,Hepatotoxicity;Weight gain
-lamotrigine,Epilepsy,Skin rash;Dizziness
-topiramate,Epilepsy,Weight loss;Cognitive impairment
-zonisamide,Epilepsy,Drowsiness;Kidney stones
-
-ondansetron,Antiemetic,Headache;Constipation
-metoclopramide,Nausea and vomiting,Extrapyramidal symptoms;Diarrhea
-domperidone,Nausea and vomiting,QT prolongation;Dry mouth
-promethazine,Antiemetic,Drowsiness;Dry mouth
-
-loperamide,Diarrhea,Constipation;Abdominal cramps
-bismuth subsalicylate,Diarrhea and dyspepsia,Black stools;Nausea
-oral rehydration salts,Dehydration,Bloating;Nausea
-
-rifampicin,Tuberculosis,Hepatotoxicity;Orange discoloration
-isoniazid,Tuberculosis,Peripheral neuropathy;Hepatotoxicity
-ethambutol,Tuberculosis,Optic neuritis;Visual changes
-pyrazinamide,Tuberculosis,Hyperuricemia;Hepatotoxicity
-
-acyclovir,Herpes infections,Renal toxicity;Nausea
-valacyclovir,Herpes infections,Headache;Abdominal pain
-oseltamivir,Influenza,Nausea;Vomiting
-
-fluconazole,Fungal infections,Hepatotoxicity;GI upset
-itraconazole,Fungal infections,Heart failure risk;Nausea
-ketoconazole,Fungal infections,Hepatotoxicity;Endocrine effects
-amphotericin b,Severe fungal infections,Nephrotoxicity;Fever
-nystatin,Candidiasis,GI upset;Rash
-
-tiotropium,COPD,Dry mouth;Constipation
-ipratropium,COPD,Dry mouth;Cough
-beclomethasone,Asthma control,Oral candidiasis;Hoarseness
-
-escitalopram oxalate,Depression,Nausea;Headache
-citalopram,Depression,QT prolongation;Dry mouth
-venlafaxine,Depression,Hypertension;Nausea
-duloxetine,Depression and neuropathy,Dry mouth;Dizziness
-mirtazapine,Depression,Weight gain;Sedation
-
-quetiapine,Bipolar disorder,Sedation;Weight gain
-olanzapine,Schizophrenia,Weight gain;Metabolic syndrome
-clozapine,Resistant schizophrenia,Agranulocytosis;Seizures
-
-levodopa,Parkinson disease,Dyskinesia;Nausea
-carbidopa,Parkinson disease,Nausea;Dizziness
-pramipexole,Parkinson disease,Somnolence;Hallucinations
-ropinirole,Parkinson disease,Dizziness;Nausea
-
-donepezil,Alzheimer disease,Nausea;Bradycardia
-rivastigmine,Alzheimer disease,Vomiting;Weight loss
-memantine,Alzheimer disease,Dizziness;Confusion
-
-sildenafil,Erectile dysfunction,Headache;Flushing
-tadalafil,Erectile dysfunction,Back pain;Dyspepsia
-
-ethinylestradiol,Contraception,Nausea;Thromboembolism
-levonorgestrel,Contraception,Weight gain;Irregular bleeding
-medroxyprogesterone,Contraception,Weight gain;Amenorrhea
-
-ferrous fumarate,Iron deficiency anemia,Constipation;Nausea
-folic acid,Megaloblastic anemia,Bloating;Nausea
-cyanocobalamin,Vitamin B12 deficiency,Injection pain;Headache
+betamethasone,Inflammatory disorders,Edema;Mood changes,,
+methylprednisolone,Autoimmune disorders,Infection risk;Hyperglycemia,,
+triamcinolone,Inflammatory disorders,Skin atrophy;Hyperglycemia,,
+,,,,
+methotrexate,Autoimmune disorders,Myelosuppression;Hepatotoxicity,,
+azathioprine,Immunosuppression,Myelosuppression;Infections,,
+cyclosporine,Organ transplantation,Nephrotoxicity;Hypertension,,
+tacrolimus,Organ transplantation,Nephrotoxicity;Tremor,,
+mycophenolate mofetil,Organ transplantation,Diarrhea;Leukopenia,,
+,,,,
+warfarin,Anticoagulation,Bleeding;Skin necrosis,,
+heparin,Anticoagulation,Bleeding;Thrombocytopenia,,
+enoxaparin,Anticoagulation,Bleeding;Injection site pain,,
+dabigatran,Anticoagulation,Bleeding;Dyspepsia,,
+rivaroxaban,Anticoagulation,Bleeding;Anemia,,
+apixaban,Anticoagulation,Bleeding;Bruising,,
+,,,,
+clopidogrel,Antiplatelet therapy,Bleeding;GI upset,,
+prasugrel,Antiplatelet therapy,Bleeding;Anemia,,
+ticagrelor,Antiplatelet therapy,Dyspnea;Bleeding,,
+,,,,
+isosorbide dinitrate,Angina,Headache;Hypotension,,
+nitroglycerin,Angina,Headache;Flushing,,
+ranolazine,Chronic angina,Dizziness;QT prolongation,,
+,,,,
+ivabradine,Heart failure,Bradycardia;Visual disturbances,,
+bisoprolol fumarate,Heart failure,Bradycardia;Fatigue,,
+,,,,
+levetiracetam,Epilepsy,Drowsiness;Mood changes,,
+phenytoin,Epilepsy,Gingival hyperplasia;Ataxia,,
+carbamazepine,Epilepsy,Dizziness;Hyponatremia,,
+valproic acid,Epilepsy,Hepatotoxicity;Weight gain,,
+lamotrigine,Epilepsy,Skin rash;Dizziness,,
+topiramate,Epilepsy,Weight loss;Cognitive impairment,,
+zonisamide,Epilepsy,Drowsiness;Kidney stones,,
+,,,,
+ondansetron,Antiemetic,Headache;Constipation,,
+metoclopramide,Nausea and vomiting,Extrapyramidal symptoms;Diarrhea,,
+domperidone,Nausea and vomiting,QT prolongation;Dry mouth,,
+promethazine,Antiemetic,Drowsiness;Dry mouth,,
+,,,,
+loperamide,Diarrhea,Constipation;Abdominal cramps,,
+bismuth subsalicylate,Diarrhea and dyspepsia,Black stools;Nausea,,
+oral rehydration salts,Dehydration,Bloating;Nausea,,
+,,,,
+rifampicin,Tuberculosis,Hepatotoxicity;Orange discoloration,,
+isoniazid,Tuberculosis,Peripheral neuropathy;Hepatotoxicity,,
+ethambutol,Tuberculosis,Optic neuritis;Visual changes,,
+pyrazinamide,Tuberculosis,Hyperuricemia;Hepatotoxicity,,
+,,,,
+acyclovir,Herpes infections,Renal toxicity;Nausea,,
+valacyclovir,Herpes infections,Headache;Abdominal pain,,
+oseltamivir,Influenza,Nausea;Vomiting,,
+,,,,
+fluconazole,Fungal infections,Hepatotoxicity;GI upset,,
+itraconazole,Fungal infections,Heart failure risk;Nausea,,
+ketoconazole,Fungal infections,Hepatotoxicity;Endocrine effects,,
+amphotericin b,Severe fungal infections,Nephrotoxicity;Fever,,
+nystatin,Candidiasis,GI upset;Rash,,
+,,,,
+tiotropium,COPD,Dry mouth;Constipation,,
+ipratropium,COPD,Dry mouth;Cough,,
+beclomethasone,Asthma control,Oral candidiasis;Hoarseness,,
+,,,,
+escitalopram oxalate,Depression,Nausea;Headache,,
+citalopram,Depression,QT prolongation;Dry mouth,,
+venlafaxine,Depression,Hypertension;Nausea,,
+duloxetine,Depression and neuropathy,Dry mouth;Dizziness,,
+mirtazapine,Depression,Weight gain;Sedation,,
+,,,,
+quetiapine,Bipolar disorder,Sedation;Weight gain,,
+olanzapine,Schizophrenia,Weight gain;Metabolic syndrome,,
+clozapine,Resistant schizophrenia,Agranulocytosis;Seizures,,
+,,,,
+levodopa,Parkinson disease,Dyskinesia;Nausea,,
+carbidopa,Parkinson disease,Nausea;Dizziness,,
+pramipexole,Parkinson disease,Somnolence;Hallucinations,,
+ropinirole,Parkinson disease,Dizziness;Nausea,,
+,,,,
+donepezil,Alzheimer disease,Nausea;Bradycardia,,
+rivastigmine,Alzheimer disease,Vomiting;Weight loss,,
+memantine,Alzheimer disease,Dizziness;Confusion,,
+,,,,
+sildenafil,Erectile dysfunction,Headache;Flushing,,
+tadalafil,Erectile dysfunction,Back pain;Dyspepsia,,
+,,,,
+ethinylestradiol,Contraception,Nausea;Thromboembolism,,
+levonorgestrel,Contraception,Weight gain;Irregular bleeding,,
+medroxyprogesterone,Contraception,Weight gain;Amenorrhea,,
+,,,,
+ferrous fumarate,Iron deficiency anemia,Constipation;Nausea,,
+folic acid,Megaloblastic anemia,Bloating;Nausea,,
+cyanocobalamin,Vitamin B12 deficiency,Injection pain;Headache,,
 epoetin alfa,Anemia,Hypertension;Thrombosisbaclofen,Muscle spasticity,Drowsiness;Weakness
-tizanidine,Muscle spasticity,Hypotension;Sedation
-cyclobenzaprine,Muscle spasm,Dry mouth;Sedation
-methocarbamol,Muscle spasm,Drowsiness;Dizziness
-
-allopurinol,Gout,Rash;Hypersensitivity
-febuxostat,Gout,Liver dysfunction;Cardiovascular risk
-probenecid,Gout,Nephrolithiasis;GI upset
-colchicine,Gout,Diarrhea;Myopathy
-
-alendronate,Osteoporosis,Esophagitis;Jaw osteonecrosis
-risedronate,Osteoporosis,GI irritation;Myalgia
-ibandronate,Osteoporosis,Flu like symptoms;GI upset
-teriparatide,Osteoporosis,Hypercalcemia;Dizziness
-denosumab,Osteoporosis,Hypocalcemia;Infections
-calcitonin,Osteoporosis,Nausea;Flushing
-
-calcium carbonate,Calcium supplementation,Constipation;Hypercalcemia
-calcium citrate,Calcium supplementation,GI upset;Hypercalcemia
-vitamin d3,Vitamin D deficiency,Hypercalcemia;Nausea
-ergocalciferol,Vitamin D deficiency,Hypercalcemia;Vomiting
-
-levocetirizine,Allergic rhinitis,Drowsiness;Dry mouth
-desloratadine,Allergic rhinitis,Headache;Dry mouth
-azelastine,Allergic rhinitis,Bitter taste;Nasal irritation
-mometasone,Allergic rhinitis,Nasal irritation;Headache
-fluticasone nasal,Allergic rhinitis,Nosebleed;Irritation
-
-ketotifen,Allergic disorders,Drowsiness;Weight gain
-olopatadine,Allergic conjunctivitis,Eye irritation;Headache
-
-betahistine,Vertigo,Headache;GI upset
-meclizine,Vertigo,Drowsiness;Dry mouth
-cinnarizine,Vertigo,Sedation;Weight gain
-
-acetazolamide,Glaucoma and altitude sickness,Metabolic acidosis;Paresthesia
-timolol ophthalmic,Glaucoma,Bradycardia;Eye irritation
-latanoprost,Glaucoma,Eye redness;Eyelash growth
-brimonidine,Glaucoma,Dry mouth;Eye irritation
-dorzolamide,Glaucoma,Bitter taste;Eye irritation
-
-lidocaine,Local anesthesia,Allergic reaction;CNS toxicity
-bupivacaine,Local anesthesia,Cardiotoxicity;Hypotension
-articaine,Dental anesthesia,Methemoglobinemia;Numbness
-
-clotrimazole,Fungal infections,Local irritation;Burning
-miconazole,Fungal infections,Burning;Itching
-terbinafine,Fungal infections,Hepatotoxicity;Taste disturbance
-griseofulvin,Fungal infections,Photosensitivity;Headache
-
-permethrin,Scabies and lice,Skin irritation;Burning
-ivermectin,Parasitic infections,Dizziness;Pruritus
-albendazole,Helminth infections,Hepatotoxicity;Abdominal pain
-mebendazole,Helminth infections,Abdominal pain;Diarrhea
-praziquantel,Schistosomiasis,Dizziness;Abdominal pain
-
-repaglinide,Type 2 diabetes,Hypoglycemia;Weight gain
-nateglinide,Type 2 diabetes,Hypoglycemia;Dizziness
-exenatide,Type 2 diabetes,Nausea;Pancreatitis
-liraglutide,Type 2 diabetes,Nausea;Weight loss
-semaglutide,Type 2 diabetes,Nausea;Vomiting
-
-carbimazole,Hyperthyroidism,Agranulocytosis;Rash
-
-niacin,Hyperlipidemia,Flushing;Hepatotoxicity
-omega 3 fatty acids,Hypertriglyceridemia,GI upset;Fishy taste
-
-zinc sulfate,Zinc deficiency,Nausea;Metallic taste
-magnesium sulfate,Hypomagnesemia,Diarrhea;Hypotension
-potassium chloride,Hypokalemia,GI irritation;Arrhythmia
-
-mesalamine,Inflammatory bowel disease,Headache;Diarrhea
-sulfasalazine,Inflammatory bowel disease,Rash;Hematologic toxicity
-infliximab,Inflammatory bowel disease,Infections;Infusion reactions
-adalimumab,Inflammatory bowel disease,Injection site pain;Infections
-
-hydroxychloroquine,Autoimmune disorders,Retinopathy;GI upset
-chloroquine,Malaria and autoimmune disease,Retinopathy;QT prolongation
-
-artemether,Malaria,Dizziness;QT prolongation
-lumefantrine,Malaria,QT prolongation;Headache
-quinine,Malaria,Hypoglycemia;Cinchonism
-primaquine,Malaria,Hemolysis;GI upset
-
-granisetron,Antiemetic,Headache;Constipation
-aprepitant,Antiemetic,Fatigue;Hiccups
-
-nicotine replacement,Smoking cessation,Nausea;Palpitations
-bupropion,Smoking cessation,Insomnia;Seizures
-varenicline,Smoking cessation,Nausea;Abnormal dreams
-
-finasteride,Benign prostatic hyperplasia,Sexual dysfunction;Gynecomastia
-tamsulosin,Benign prostatic hyperplasia,Dizziness;Retrograde ejaculation
-dutasteride,Benign prostatic hyperplasia,Impotence;Gynecomastia
-
-oxybutynin,Overactive bladder,Dry mouth;Constipation
-tolterodine,Overactive bladder,Dry mouth;Blurred vision
-mirabegron,Overactive bladder,Hypertension;UTI
-
+tizanidine,Muscle spasticity,Hypotension;Sedation,,
+cyclobenzaprine,Muscle spasm,Dry mouth;Sedation,,
+methocarbamol,Muscle spasm,Drowsiness;Dizziness,,
+,,,,
+allopurinol,Gout,Rash;Hypersensitivity,,
+febuxostat,Gout,Liver dysfunction;Cardiovascular risk,,
+probenecid,Gout,Nephrolithiasis;GI upset,,
+colchicine,Gout,Diarrhea;Myopathy,,
+,,,,
+alendronate,Osteoporosis,Esophagitis;Jaw osteonecrosis,,
+risedronate,Osteoporosis,GI irritation;Myalgia,,
+ibandronate,Osteoporosis,Flu like symptoms;GI upset,,
+teriparatide,Osteoporosis,Hypercalcemia;Dizziness,,
+denosumab,Osteoporosis,Hypocalcemia;Infections,,
+calcitonin,Osteoporosis,Nausea;Flushing,,
+,,,,
+calcium carbonate,Calcium supplementation,Constipation;Hypercalcemia,,
+calcium citrate,Calcium supplementation,GI upset;Hypercalcemia,,
+vitamin d3,Vitamin D deficiency,Hypercalcemia;Nausea,,
+ergocalciferol,Vitamin D deficiency,Hypercalcemia;Vomiting,,
+,,,,
+levocetirizine,Allergic rhinitis,Drowsiness;Dry mouth,,
+desloratadine,Allergic rhinitis,Headache;Dry mouth,,
+azelastine,Allergic rhinitis,Bitter taste;Nasal irritation,,
+mometasone,Allergic rhinitis,Nasal irritation;Headache,,
+fluticasone nasal,Allergic rhinitis,Nosebleed;Irritation,,
+,,,,
+ketotifen,Allergic disorders,Drowsiness;Weight gain,,
+olopatadine,Allergic conjunctivitis,Eye irritation;Headache,,
+,,,,
+betahistine,Vertigo,Headache;GI upset,,
+meclizine,Vertigo,Drowsiness;Dry mouth,,
+cinnarizine,Vertigo,Sedation;Weight gain,,
+,,,,
+acetazolamide,Glaucoma and altitude sickness,Metabolic acidosis;Paresthesia,,
+timolol ophthalmic,Glaucoma,Bradycardia;Eye irritation,,
+latanoprost,Glaucoma,Eye redness;Eyelash growth,,
+brimonidine,Glaucoma,Dry mouth;Eye irritation,,
+dorzolamide,Glaucoma,Bitter taste;Eye irritation,,
+,,,,
+lidocaine,Local anesthesia,Allergic reaction;CNS toxicity,,
+bupivacaine,Local anesthesia,Cardiotoxicity;Hypotension,,
+articaine,Dental anesthesia,Methemoglobinemia;Numbness,,
+,,,,
+clotrimazole,Fungal infections,Local irritation;Burning,,
+miconazole,Fungal infections,Burning;Itching,,
+terbinafine,Fungal infections,Hepatotoxicity;Taste disturbance,,
+griseofulvin,Fungal infections,Photosensitivity;Headache,,
+,,,,
+permethrin,Scabies and lice,Skin irritation;Burning,,
+ivermectin,Parasitic infections,Dizziness;Pruritus,,
+albendazole,Helminth infections,Hepatotoxicity;Abdominal pain,,
+mebendazole,Helminth infections,Abdominal pain;Diarrhea,,
+praziquantel,Schistosomiasis,Dizziness;Abdominal pain,,
+,,,,
+repaglinide,Type 2 diabetes,Hypoglycemia;Weight gain,,
+nateglinide,Type 2 diabetes,Hypoglycemia;Dizziness,,
+exenatide,Type 2 diabetes,Nausea;Pancreatitis,,
+liraglutide,Type 2 diabetes,Nausea;Weight loss,,
+semaglutide,Type 2 diabetes,Nausea;Vomiting,,
+,,,,
+carbimazole,Hyperthyroidism,Agranulocytosis;Rash,,
+,,,,
+niacin,Hyperlipidemia,Flushing;Hepatotoxicity,,
+omega 3 fatty acids,Hypertriglyceridemia,GI upset;Fishy taste,,
+,,,,
+zinc sulfate,Zinc deficiency,Nausea;Metallic taste,,
+magnesium sulfate,Hypomagnesemia,Diarrhea;Hypotension,,
+potassium chloride,Hypokalemia,GI irritation;Arrhythmia,,
+,,,,
+mesalamine,Inflammatory bowel disease,Headache;Diarrhea,,
+sulfasalazine,Inflammatory bowel disease,Rash;Hematologic toxicity,,
+infliximab,Inflammatory bowel disease,Infections;Infusion reactions,,
+adalimumab,Inflammatory bowel disease,Injection site pain;Infections,,
+,,,,
+hydroxychloroquine,Autoimmune disorders,Retinopathy;GI upset,,
+chloroquine,Malaria and autoimmune disease,Retinopathy;QT prolongation,,
+,,,,
+artemether,Malaria,Dizziness;QT prolongation,,
+lumefantrine,Malaria,QT prolongation;Headache,,
+quinine,Malaria,Hypoglycemia;Cinchonism,,
+primaquine,Malaria,Hemolysis;GI upset,,
+,,,,
+granisetron,Antiemetic,Headache;Constipation,,
+aprepitant,Antiemetic,Fatigue;Hiccups,,
+,,,,
+nicotine replacement,Smoking cessation,Nausea;Palpitations,,
+bupropion,Smoking cessation,Insomnia;Seizures,,
+varenicline,Smoking cessation,Nausea;Abnormal dreams,,
+,,,,
+finasteride,Benign prostatic hyperplasia,Sexual dysfunction;Gynecomastia,,
+tamsulosin,Benign prostatic hyperplasia,Dizziness;Retrograde ejaculation,,
+dutasteride,Benign prostatic hyperplasia,Impotence;Gynecomastia,,
+,,,,
+oxybutynin,Overactive bladder,Dry mouth;Constipation,,
+tolterodine,Overactive bladder,Dry mouth;Blurred vision,,
+mirabegron,Overactive bladder,Hypertension;UTI,,
+,,,,
 desmopressin,Diabetes insipidus,Hyponatremia;Headachebaclofen,Muscle spasticity,Drowsiness;Weakness
-tizanidine,Muscle spasticity,Hypotension;Sedation
-cyclobenzaprine,Muscle spasm,Dry mouth;Sedation
-methocarbamol,Muscle spasm,Drowsiness;Dizziness
-
-allopurinol,Gout,Rash;Hypersensitivity
-febuxostat,Gout,Liver dysfunction;Cardiovascular risk
-probenecid,Gout,Nephrolithiasis;GI upset
-colchicine,Gout,Diarrhea;Myopathy
-
-alendronate,Osteoporosis,Esophagitis;Jaw osteonecrosis
-risedronate,Osteoporosis,GI irritation;Myalgia
-ibandronate,Osteoporosis,Flu like symptoms;GI upset
-teriparatide,Osteoporosis,Hypercalcemia;Dizziness
-denosumab,Osteoporosis,Hypocalcemia;Infections
-calcitonin,Osteoporosis,Nausea;Flushing
-
-calcium carbonate,Calcium supplementation,Constipation;Hypercalcemia
-calcium citrate,Calcium supplementation,GI upset;Hypercalcemia
-vitamin d3,Vitamin D deficiency,Hypercalcemia;Nausea
-ergocalciferol,Vitamin D deficiency,Hypercalcemia;Vomiting
-
-levocetirizine,Allergic rhinitis,Drowsiness;Dry mouth
-desloratadine,Allergic rhinitis,Headache;Dry mouth
-azelastine,Allergic rhinitis,Bitter taste;Nasal irritation
-mometasone,Allergic rhinitis,Nasal irritation;Headache
-fluticasone nasal,Allergic rhinitis,Nosebleed;Irritation
-
-ketotifen,Allergic disorders,Drowsiness;Weight gain
-olopatadine,Allergic conjunctivitis,Eye irritation;Headache
-
-betahistine,Vertigo,Headache;GI upset
-meclizine,Vertigo,Drowsiness;Dry mouth
-cinnarizine,Vertigo,Sedation;Weight gain
-
-acetazolamide,Glaucoma and altitude sickness,Metabolic acidosis;Paresthesia
-timolol ophthalmic,Glaucoma,Bradycardia;Eye irritation
-latanoprost,Glaucoma,Eye redness;Eyelash growth
-brimonidine,Glaucoma,Dry mouth;Eye irritation
-dorzolamide,Glaucoma,Bitter taste;Eye irritation
-
-lidocaine,Local anesthesia,Allergic reaction;CNS toxicity
-bupivacaine,Local anesthesia,Cardiotoxicity;Hypotension
-articaine,Dental anesthesia,Methemoglobinemia;Numbness
-
-clotrimazole,Fungal infections,Local irritation;Burning
-miconazole,Fungal infections,Burning;Itching
-terbinafine,Fungal infections,Hepatotoxicity;Taste disturbance
-griseofulvin,Fungal infections,Photosensitivity;Headache
-
-permethrin,Scabies and lice,Skin irritation;Burning
-ivermectin,Parasitic infections,Dizziness;Pruritus
-albendazole,Helminth infections,Hepatotoxicity;Abdominal pain
-mebendazole,Helminth infections,Abdominal pain;Diarrhea
-praziquantel,Schistosomiasis,Dizziness;Abdominal pain
-
-repaglinide,Type 2 diabetes,Hypoglycemia;Weight gain
-nateglinide,Type 2 diabetes,Hypoglycemia;Dizziness
-exenatide,Type 2 diabetes,Nausea;Pancreatitis
-liraglutide,Type 2 diabetes,Nausea;Weight loss
-semaglutide,Type 2 diabetes,Nausea;Vomiting
-
-carbimazole,Hyperthyroidism,Agranulocytosis;Rash
-
-niacin,Hyperlipidemia,Flushing;Hepatotoxicity
-omega 3 fatty acids,Hypertriglyceridemia,GI upset;Fishy taste
-
-zinc sulfate,Zinc deficiency,Nausea;Metallic taste
-magnesium sulfate,Hypomagnesemia,Diarrhea;Hypotension
-potassium chloride,Hypokalemia,GI irritation;Arrhythmia
-
-mesalamine,Inflammatory bowel disease,Headache;Diarrhea
-sulfasalazine,Inflammatory bowel disease,Rash;Hematologic toxicity
-infliximab,Inflammatory bowel disease,Infections;Infusion reactions
-adalimumab,Inflammatory bowel disease,Injection site pain;Infections
-
-hydroxychloroquine,Autoimmune disorders,Retinopathy;GI upset
-chloroquine,Malaria and autoimmune disease,Retinopathy;QT prolongation
-
-artemether,Malaria,Dizziness;QT prolongation
-lumefantrine,Malaria,QT prolongation;Headache
-quinine,Malaria,Hypoglycemia;Cinchonism
-primaquine,Malaria,Hemolysis;GI upset
-
-granisetron,Antiemetic,Headache;Constipation
-aprepitant,Antiemetic,Fatigue;Hiccups
-
-nicotine replacement,Smoking cessation,Nausea;Palpitations
-bupropion,Smoking cessation,Insomnia;Seizures
-varenicline,Smoking cessation,Nausea;Abnormal dreams
-
-finasteride,Benign prostatic hyperplasia,Sexual dysfunction;Gynecomastia
-tamsulosin,Benign prostatic hyperplasia,Dizziness;Retrograde ejaculation
-dutasteride,Benign prostatic hyperplasia,Impotence;Gynecomastia
-
-oxybutynin,Overactive bladder,Dry mouth;Constipation
-tolterodine,Overactive bladder,Dry mouth;Blurred vision
-mirabegron,Overactive bladder,Hypertension;UTI
-
+tizanidine,Muscle spasticity,Hypotension;Sedation,,
+cyclobenzaprine,Muscle spasm,Dry mouth;Sedation,,
+methocarbamol,Muscle spasm,Drowsiness;Dizziness,,
+,,,,
+allopurinol,Gout,Rash;Hypersensitivity,,
+febuxostat,Gout,Liver dysfunction;Cardiovascular risk,,
+probenecid,Gout,Nephrolithiasis;GI upset,,
+colchicine,Gout,Diarrhea;Myopathy,,
+,,,,
+alendronate,Osteoporosis,Esophagitis;Jaw osteonecrosis,,
+risedronate,Osteoporosis,GI irritation;Myalgia,,
+ibandronate,Osteoporosis,Flu like symptoms;GI upset,,
+teriparatide,Osteoporosis,Hypercalcemia;Dizziness,,
+denosumab,Osteoporosis,Hypocalcemia;Infections,,
+calcitonin,Osteoporosis,Nausea;Flushing,,
+,,,,
+calcium carbonate,Calcium supplementation,Constipation;Hypercalcemia,,
+calcium citrate,Calcium supplementation,GI upset;Hypercalcemia,,
+vitamin d3,Vitamin D deficiency,Hypercalcemia;Nausea,,
+ergocalciferol,Vitamin D deficiency,Hypercalcemia;Vomiting,,
+,,,,
+levocetirizine,Allergic rhinitis,Drowsiness;Dry mouth,,
+desloratadine,Allergic rhinitis,Headache;Dry mouth,,
+azelastine,Allergic rhinitis,Bitter taste;Nasal irritation,,
+mometasone,Allergic rhinitis,Nasal irritation;Headache,,
+fluticasone nasal,Allergic rhinitis,Nosebleed;Irritation,,
+,,,,
+ketotifen,Allergic disorders,Drowsiness;Weight gain,,
+olopatadine,Allergic conjunctivitis,Eye irritation;Headache,,
+,,,,
+betahistine,Vertigo,Headache;GI upset,,
+meclizine,Vertigo,Drowsiness;Dry mouth,,
+cinnarizine,Vertigo,Sedation;Weight gain,,
+,,,,
+acetazolamide,Glaucoma and altitude sickness,Metabolic acidosis;Paresthesia,,
+timolol ophthalmic,Glaucoma,Bradycardia;Eye irritation,,
+latanoprost,Glaucoma,Eye redness;Eyelash growth,,
+brimonidine,Glaucoma,Dry mouth;Eye irritation,,
+dorzolamide,Glaucoma,Bitter taste;Eye irritation,,
+,,,,
+lidocaine,Local anesthesia,Allergic reaction;CNS toxicity,,
+bupivacaine,Local anesthesia,Cardiotoxicity;Hypotension,,
+articaine,Dental anesthesia,Methemoglobinemia;Numbness,,
+,,,,
+clotrimazole,Fungal infections,Local irritation;Burning,,
+miconazole,Fungal infections,Burning;Itching,,
+terbinafine,Fungal infections,Hepatotoxicity;Taste disturbance,,
+griseofulvin,Fungal infections,Photosensitivity;Headache,,
+,,,,
+permethrin,Scabies and lice,Skin irritation;Burning,,
+ivermectin,Parasitic infections,Dizziness;Pruritus,,
+albendazole,Helminth infections,Hepatotoxicity;Abdominal pain,,
+mebendazole,Helminth infections,Abdominal pain;Diarrhea,,
+praziquantel,Schistosomiasis,Dizziness;Abdominal pain,,
+,,,,
+repaglinide,Type 2 diabetes,Hypoglycemia;Weight gain,,
+nateglinide,Type 2 diabetes,Hypoglycemia;Dizziness,,
+exenatide,Type 2 diabetes,Nausea;Pancreatitis,,
+liraglutide,Type 2 diabetes,Nausea;Weight loss,,
+semaglutide,Type 2 diabetes,Nausea;Vomiting,,
+,,,,
+carbimazole,Hyperthyroidism,Agranulocytosis;Rash,,
+,,,,
+niacin,Hyperlipidemia,Flushing;Hepatotoxicity,,
+omega 3 fatty acids,Hypertriglyceridemia,GI upset;Fishy taste,,
+,,,,
+zinc sulfate,Zinc deficiency,Nausea;Metallic taste,,
+magnesium sulfate,Hypomagnesemia,Diarrhea;Hypotension,,
+potassium chloride,Hypokalemia,GI irritation;Arrhythmia,,
+,,,,
+mesalamine,Inflammatory bowel disease,Headache;Diarrhea,,
+sulfasalazine,Inflammatory bowel disease,Rash;Hematologic toxicity,,
+infliximab,Inflammatory bowel disease,Infections;Infusion reactions,,
+adalimumab,Inflammatory bowel disease,Injection site pain;Infections,,
+,,,,
+hydroxychloroquine,Autoimmune disorders,Retinopathy;GI upset,,
+chloroquine,Malaria and autoimmune disease,Retinopathy;QT prolongation,,
+,,,,
+artemether,Malaria,Dizziness;QT prolongation,,
+lumefantrine,Malaria,QT prolongation;Headache,,
+quinine,Malaria,Hypoglycemia;Cinchonism,,
+primaquine,Malaria,Hemolysis;GI upset,,
+,,,,
+granisetron,Antiemetic,Headache;Constipation,,
+aprepitant,Antiemetic,Fatigue;Hiccups,,
+,,,,
+nicotine replacement,Smoking cessation,Nausea;Palpitations,,
+bupropion,Smoking cessation,Insomnia;Seizures,,
+varenicline,Smoking cessation,Nausea;Abnormal dreams,,
+,,,,
+finasteride,Benign prostatic hyperplasia,Sexual dysfunction;Gynecomastia,,
+tamsulosin,Benign prostatic hyperplasia,Dizziness;Retrograde ejaculation,,
+dutasteride,Benign prostatic hyperplasia,Impotence;Gynecomastia,,
+,,,,
+oxybutynin,Overactive bladder,Dry mouth;Constipation,,
+tolterodine,Overactive bladder,Dry mouth;Blurred vision,,
+mirabegron,Overactive bladder,Hypertension;UTI,,
+,,,,
 desmopressin,Diabetes insipidus,Hyponatremia;Headachebenzylpenicillin,Bacterial infections,Allergy;Anaphylaxis
-phenoxymethylpenicillin,Bacterial infections,Rash;GI upset
-piperacillin,Bacterial infections,Hypersensitivity;Diarrhea
-tazobactam,Beta lactamase inhibitor,GI upset;Rash
-cefazolin,Bacterial infections,Injection pain;Allergy
-cefotaxime,Bacterial infections,Diarrhea;Rash
-ceftazidime,Bacterial infections,Neurotoxicity;Diarrhea
-cefepime,Bacterial infections,Neurotoxicity;GI upset
-meropenem,Severe infections,Seizures;GI upset
-imipenem,Severe infections,Seizures;Nausea
-ertapenem,Severe infections,Diarrhea;Headache
-aztreonam,Bacterial infections,Rash;GI upset
-
-gentamicin,Bacterial infections,Nephrotoxicity;Ototoxicity
-amikacin,Bacterial infections,Nephrotoxicity;Ototoxicity
-tobramycin,Bacterial infections,Ototoxicity;Nephrotoxicity
-linezolid,Resistant infections,Myelosuppression;Neuropathy
-daptomycin,Resistant infections,Myopathy;Eosinophilic pneumonia
-tigecycline,Resistant infections,Nausea;Vomiting
-
-ethionamide,Tuberculosis,Hepatotoxicity;GI upset
-streptomycin,Tuberculosis,Ototoxicity;Nephrotoxicity
-bedaquiline,Tuberculosis,QT prolongation;Hepatotoxicity
-delamanid,Tuberculosis,QT prolongation;Nausea
-
-voriconazole,Fungal infections,Visual disturbance;Hepatotoxicity
-posaconazole,Fungal infections,GI upset;Headache
-isavuconazole,Fungal infections,Hypokalemia;Nausea
-caspofungin,Fungal infections,Histamine reactions;GI upset
-micafungin,Fungal infections,Elevated liver enzymes;Headache
-
-famciclovir,Viral infections,Headache;Nausea
-ganciclovir,CMV infections,Myelosuppression;Renal toxicity
-valganciclovir,CMV infections,Neutropenia;Diarrhea
-ribavirin,Viral infections,Hemolytic anemia;Fatigue
-sofosbuvir,Hepatitis C,Headache;Fatigue
-ledipasvir,Hepatitis C,Fatigue;Headache
-tenofovir disoproxil fumarate,HIV and hepatitis,Renal toxicity;Bone loss
-emtricitabine,HIV and hepatitis,Headache;Hyperpigmentation
-efavirenz,HIV,CNS effects;Rash
-nevirapine,HIV,Hepatotoxicity;Rash
-dolutegravir,HIV,Insomnia;Weight gain
-raltegravir,HIV,Myopathy;Headache
-ritonavir,HIV,GI upset;Hyperlipidemia
-lopinavir,HIV,Diarrhea;Hyperlipidemia
-
-bleomycin,Cancer,Pulmonary fibrosis;Fever
-cisplatin,Cancer,Nephrotoxicity;Ototoxicity
-carboplatin,Cancer,Myelosuppression;Nausea
-paclitaxel,Cancer,Neuropathy;Myelosuppression
-docetaxel,Cancer,Fluid retention;Neutropenia
-doxorubicin,Cancer,Cardiotoxicity;Alopecia
-epirubicin,Cancer,Myelosuppression;Cardiotoxicity
-cyclophosphamide,Cancer,Hemorrhagic cystitis;Myelosuppression
-ifosfamide,Cancer,Neurotoxicity;Hemorrhagic cystitis
-vincristine,Cancer,Peripheral neuropathy;Constipation
-vinblastine,Cancer,Myelosuppression;Neuropathy
-etoposide,Cancer,Myelosuppression;Alopecia
-tamoxifen,Breast cancer,Hot flashes;Thromboembolism
-anastrozole,Breast cancer,Arthralgia;Osteoporosis
-letrozole,Breast cancer,Hot flashes;Bone loss
-imatinib,Leukemia,Edema;Myelosuppression
-dasatinib,Leukemia,Pleural effusion;Myelosuppression
-nilotinib,Leukemia,QT prolongation;Hyperglycemia
-rituximab,Lymphoma,Infusion reactions;Infections
-trastuzumab,Breast cancer,Cardiotoxicity;Infusion reactions
-bevacizumab,Cancer,Hypertension;Bleeding
-
-isotretinoin,Severe acne,Teratogenicity;Dry skin
-acitretin,Psoriasis,Teratogenicity;Dry skin
-methoxsalen,Psoriasis and vitiligo,Photosensitivity;Nausea
-calcipotriol,Psoriasis,Skin irritation;Burning
-
-betamethasone topical,Skin inflammation,Skin atrophy;Irritation
-clobetasol,Skin inflammation,Skin atrophy;Striae
-mupirocin,Skin infections,Burning;Itching
-fusidic acid,Skin infections,Rash;GI upset
-
-timolol ophthalmic,Glaucoma,Bradycardia;Eye irritation
-latanoprost ophthalmic,Glaucoma,Eye redness;Eyelash growth
-travoprost ophthalmic,Glaucoma,Eye irritation;Hyperpigmentation
-brinzolamide ophthalmic,Glaucoma,Bitter taste;Eye irritation
-acetazolamide ophthalmic,Glaucoma,Metabolic acidosis;Paresthesia
-
-xylometazoline,Nasal congestion,Rebound congestion;Dryness
-oxymetazoline,Nasal congestion,Rebound congestion;Irritation
-azelastine nasal,Allergic rhinitis,Bitter taste;Nasal irritation
-mometasone nasal,Allergic rhinitis,Nasal irritation;Headache
-
-levonorgestrel emergency,Emergency contraception,Nausea;Irregular bleeding
-ulipristal acetate,Emergency contraception,Headache;Abdominal pain
-
-sodium valproate,Epilepsy,Hepatotoxicity;Weight gain
-ethosuximide,Absence seizures,GI upset;Fatigue
+phenoxymethylpenicillin,Bacterial infections,Rash;GI upset,,
+piperacillin,Bacterial infections,Hypersensitivity;Diarrhea,,
+tazobactam,Beta lactamase inhibitor,GI upset;Rash,,
+cefazolin,Bacterial infections,Injection pain;Allergy,,
+cefotaxime,Bacterial infections,Diarrhea;Rash,,
+ceftazidime,Bacterial infections,Neurotoxicity;Diarrhea,,
+cefepime,Bacterial infections,Neurotoxicity;GI upset,,
+meropenem,Severe infections,Seizures;GI upset,,
+imipenem,Severe infections,Seizures;Nausea,,
+ertapenem,Severe infections,Diarrhea;Headache,,
+aztreonam,Bacterial infections,Rash;GI upset,,
+,,,,
+gentamicin,Bacterial infections,Nephrotoxicity;Ototoxicity,,
+amikacin,Bacterial infections,Nephrotoxicity;Ototoxicity,,
+tobramycin,Bacterial infections,Ototoxicity;Nephrotoxicity,,
+linezolid,Resistant infections,Myelosuppression;Neuropathy,,
+daptomycin,Resistant infections,Myopathy;Eosinophilic pneumonia,,
+tigecycline,Resistant infections,Nausea;Vomiting,,
+,,,,
+ethionamide,Tuberculosis,Hepatotoxicity;GI upset,,
+streptomycin,Tuberculosis,Ototoxicity;Nephrotoxicity,,
+bedaquiline,Tuberculosis,QT prolongation;Hepatotoxicity,,
+delamanid,Tuberculosis,QT prolongation;Nausea,,
+,,,,
+voriconazole,Fungal infections,Visual disturbance;Hepatotoxicity,,
+posaconazole,Fungal infections,GI upset;Headache,,
+isavuconazole,Fungal infections,Hypokalemia;Nausea,,
+caspofungin,Fungal infections,Histamine reactions;GI upset,,
+micafungin,Fungal infections,Elevated liver enzymes;Headache,,
+,,,,
+famciclovir,Viral infections,Headache;Nausea,,
+ganciclovir,CMV infections,Myelosuppression;Renal toxicity,,
+valganciclovir,CMV infections,Neutropenia;Diarrhea,,
+ribavirin,Viral infections,Hemolytic anemia;Fatigue,,
+sofosbuvir,Hepatitis C,Headache;Fatigue,,
+ledipasvir,Hepatitis C,Fatigue;Headache,,
+tenofovir disoproxil fumarate,HIV and hepatitis,Renal toxicity;Bone loss,,
+emtricitabine,HIV and hepatitis,Headache;Hyperpigmentation,,
+efavirenz,HIV,CNS effects;Rash,,
+nevirapine,HIV,Hepatotoxicity;Rash,,
+dolutegravir,HIV,Insomnia;Weight gain,,
+raltegravir,HIV,Myopathy;Headache,,
+ritonavir,HIV,GI upset;Hyperlipidemia,,
+lopinavir,HIV,Diarrhea;Hyperlipidemia,,
+,,,,
+bleomycin,Cancer,Pulmonary fibrosis;Fever,,
+cisplatin,Cancer,Nephrotoxicity;Ototoxicity,,
+carboplatin,Cancer,Myelosuppression;Nausea,,
+paclitaxel,Cancer,Neuropathy;Myelosuppression,,
+docetaxel,Cancer,Fluid retention;Neutropenia,,
+doxorubicin,Cancer,Cardiotoxicity;Alopecia,,
+epirubicin,Cancer,Myelosuppression;Cardiotoxicity,,
+cyclophosphamide,Cancer,Hemorrhagic cystitis;Myelosuppression,,
+ifosfamide,Cancer,Neurotoxicity;Hemorrhagic cystitis,,
+vincristine,Cancer,Peripheral neuropathy;Constipation,,
+vinblastine,Cancer,Myelosuppression;Neuropathy,,
+etoposide,Cancer,Myelosuppression;Alopecia,,
+tamoxifen,Breast cancer,Hot flashes;Thromboembolism,,
+anastrozole,Breast cancer,Arthralgia;Osteoporosis,,
+letrozole,Breast cancer,Hot flashes;Bone loss,,
+imatinib,Leukemia,Edema;Myelosuppression,,
+dasatinib,Leukemia,Pleural effusion;Myelosuppression,,
+nilotinib,Leukemia,QT prolongation;Hyperglycemia,,
+rituximab,Lymphoma,Infusion reactions;Infections,,
+trastuzumab,Breast cancer,Cardiotoxicity;Infusion reactions,,
+bevacizumab,Cancer,Hypertension;Bleeding,,
+,,,,
+isotretinoin,Severe acne,Teratogenicity;Dry skin,,
+acitretin,Psoriasis,Teratogenicity;Dry skin,,
+methoxsalen,Psoriasis and vitiligo,Photosensitivity;Nausea,,
+calcipotriol,Psoriasis,Skin irritation;Burning,,
+,,,,
+betamethasone topical,Skin inflammation,Skin atrophy;Irritation,,
+clobetasol,Skin inflammation,Skin atrophy;Striae,,
+mupirocin,Skin infections,Burning;Itching,,
+fusidic acid,Skin infections,Rash;GI upset,,
+,,,,
+timolol ophthalmic,Glaucoma,Bradycardia;Eye irritation,,
+latanoprost ophthalmic,Glaucoma,Eye redness;Eyelash growth,,
+travoprost ophthalmic,Glaucoma,Eye irritation;Hyperpigmentation,,
+brinzolamide ophthalmic,Glaucoma,Bitter taste;Eye irritation,,
+acetazolamide ophthalmic,Glaucoma,Metabolic acidosis;Paresthesia,,
+,,,,
+xylometazoline,Nasal congestion,Rebound congestion;Dryness,,
+oxymetazoline,Nasal congestion,Rebound congestion;Irritation,,
+azelastine nasal,Allergic rhinitis,Bitter taste;Nasal irritation,,
+mometasone nasal,Allergic rhinitis,Nasal irritation;Headache,,
+,,,,
+levonorgestrel emergency,Emergency contraception,Nausea;Irregular bleeding,,
+ulipristal acetate,Emergency contraception,Headache;Abdominal pain,,
+,,,,
+sodium valproate,Epilepsy,Hepatotoxicity;Weight gain,,
+ethosuximide,Absence seizures,GI upset;Fatigue,,
 lacosamide,Epilepsy,Dizziness;PR prolongationrabeprazole,Acid peptic disease,Headache;Diarrhea
-dexlansoprazole,GERD,Nausea;Abdominal pain
-misoprostol,Ulcer prevention,Diarrhea;Abdominal cramps
-bismuth subcitrate,Peptic ulcer,Black stools;Nausea
-
-cephalexin,Bacterial infections,Diarrhea;Rash
-cefadroxil,Bacterial infections,GI upset;Rash
-cefuroxime,Bacterial infections,Diarrhea;Nausea
-cefpodoxime,Bacterial infections,Diarrhea;Abdominal pain
-cefditoren,Bacterial infections,GI upset;Headache
-
-clarithromycin extended release,Bacterial infections,Nausea;Metallic taste
-roxithromycin,Bacterial infections,GI upset;Headache
-erythromycin,Bacterial infections,GI cramps;QT prolongation
-
-trimethoprim,Urinary tract infections,Rash;Hyperkalemia
-trimethoprim sulfamethoxazole,Urinary tract infections,Rash;Myelosuppression
-nitrofurantoin,Urinary tract infections,Nausea;Pulmonary toxicity
-fosfomycin,Urinary tract infections,Diarrhea;Headache
-
-chloramphenicol,Bacterial infections,Aplastic anemia;Gray baby syndrome
-fosfomycin trometamol,Urinary tract infections,Diarrhea;Nausea
-
-ketamine,Anesthesia,Dissociation;Hypertension
-propofol,Anesthesia,Hypotension;Respiratory depression
-midazolam,Procedural sedation,Respiratory depression;Amnesia
-thiopental,Anesthesia,Respiratory depression;Hypotension
-
-atropine,Bradycardia,Dry mouth;Blurred vision
-glycopyrrolate,Antisecretory,Dry mouth;Tachycardia
-neostigmine,Myasthenia gravis,Bradycardia;Salivation
-pyridostigmine,Myasthenia gravis,Abdominal cramps;Diarrhea
-
-epinephrine,Anaphylaxis,Tachycardia;Anxiety
-norepinephrine,Shock,Hypertension;Arrhythmia
-dopamine,Shock,Arrhythmia;Nausea
-dobutamine,Heart failure,Tachycardia;Headache
-
-adenosine,Supraventricular tachycardia,Chest discomfort;Flushing
-amiodarone,Arrhythmia,Thyroid dysfunction;Pulmonary toxicity
-sotalol,Arrhythmia,QT prolongation;Bradycardia
-flecainide,Arrhythmia,Proarrhythmia;Dizziness
-
-methyldopa,Hypertension,Depression;Sedation
-clonidine,Hypertension and withdrawal,Dry mouth;Sedation
-hydralazine,Hypertension,Reflex tachycardia;Headache
-minoxidil,Hypertension and alopecia,Edema;Hypertrichosis
-
-bethanechol,Urinary retention,Abdominal cramps;Diarrhea
-phenoxybenzamine,Pheochromocytoma,Hypotension;Nasal congestion
-
-metyrapone,Diagnostic testing,Nausea;Dizziness
-ketoconazole oral,Fungal infections,Hepatotoxicity;Gynecomastia
-
-propranolol,Hypertension and migraine,Bradycardia;Cold extremities
-nadolol,Hypertension,Bradycardia;Fatigue
-nebivolol,Hypertension,Headache;Bradycardia
-
-diltiazem,Angina and hypertension,Bradycardia;Edema
-verapamil,Angina and arrhythmia,Constipation;Bradycardia
-
-ranitidine bismuth citrate,Peptic ulcer,Black stools;Nausea
-
-rifabutin,Tuberculosis,Uveitis;Neutropenia
-linezolid oral,Resistant infections,Myelosuppression;Neuropathy
-tedizolid,Resistant infections,Myelosuppression;Nausea
-
-paliperidone,Schizophrenia,Weight gain;Hyperprolactinemia
-ziprasidone,Schizophrenia,QT prolongation;Sedation
-aripiprazole,Schizophrenia and bipolar disorder,Akathisia;Insomnia
-
-lithium,Bipolar disorder,Tremor;Hypothyroidism
-valproate semisodium,Bipolar disorder,Weight gain;Hepatotoxicity
-
-buspirone,Anxiety,Dizziness;Nausea
-hydroxyzine,Anxiety and allergy,Sedation;Dry mouth
-
-sumatriptan,Migraine,Chest tightness;Dizziness
-rizatriptan,Migraine,Drowsiness;Nausea
-propranolol migraine,Migraine prophylaxis,Bradycardia;Fatigue
-topiramate migraine,Migraine prophylaxis,Weight loss;Paresthesia
-
-levonorgestrel iud,Contraception,Irregular bleeding;Cramping
-etonogestrel implant,Contraception,Weight gain;Mood changes
-
-alprostadil,Erectile dysfunction,Pain;Hypotension
-papaverine,Erectile dysfunction,Dizziness;Priapism
-
-pilocarpine,Dry mouth and glaucoma,Sweating;Salivation
-cevimeline,Dry mouth,Sweating;Nausea
-
-silver sulfadiazine,Burn wounds,Leukopenia;Rash
-povidone iodine,Antiseptic,Skin irritation;Allergy
-chlorhexidine,Antiseptic,Tooth staining;Irritation
-
-vaccinia immune globulin,Post exposure prophylaxis,Headache;Fever
-hepatitis b vaccine,Immunization,Injection site pain;Fever
-influenza vaccine,Immunization,Myalgia;Fever
-rabies vaccine,Immunization,Injection site pain;Headache
-tetanus toxoid,Immunization,Pain;Fever
-
-naloxone,Opioid overdose,Withdrawal symptoms;Nausea
-flumazenil,Benzodiazepine overdose,Seizures;Dizziness
-activated charcoal,Poisoning,Constipation;Aspiration
-
-mannitol,Cerebral edema,Electrolyte imbalance;Dehydration
-hypertonic saline,Hyponatremia,Hypernatremia;Phlebitis
-
-desferrioxamine,Iron overload,Hypotension;Visual disturbance
-penicillamine,Wilson disease,Rash;Proteinuria
-
-colestyramine,Hyperlipidemia,Constipation;Bloating
-colesevelam,Hyperlipidemia,Constipation;Dyspepsia
-
-
-
-
-
-
-
-
-
+dexlansoprazole,GERD,Nausea;Abdominal pain,,
+misoprostol,Ulcer prevention,Diarrhea;Abdominal cramps,,
+bismuth subcitrate,Peptic ulcer,Black stools;Nausea,,
+,,,,
+cephalexin,Bacterial infections,Diarrhea;Rash,,
+cefadroxil,Bacterial infections,GI upset;Rash,,
+cefuroxime,Bacterial infections,Diarrhea;Nausea,,
+cefpodoxime,Bacterial infections,Diarrhea;Abdominal pain,,
+cefditoren,Bacterial infections,GI upset;Headache,,
+,,,,
+clarithromycin extended release,Bacterial infections,Nausea;Metallic taste,,
+roxithromycin,Bacterial infections,GI upset;Headache,,
+erythromycin,Bacterial infections,GI cramps;QT prolongation,,
+,,,,
+trimethoprim,Urinary tract infections,Rash;Hyperkalemia,,
+trimethoprim sulfamethoxazole,Urinary tract infections,Rash;Myelosuppression,,
+nitrofurantoin,Urinary tract infections,Nausea;Pulmonary toxicity,,
+fosfomycin,Urinary tract infections,Diarrhea;Headache,,
+,,,,
+chloramphenicol,Bacterial infections,Aplastic anemia;Gray baby syndrome,,
+fosfomycin trometamol,Urinary tract infections,Diarrhea;Nausea,,
+,,,,
+ketamine,Anesthesia,Dissociation;Hypertension,,
+propofol,Anesthesia,Hypotension;Respiratory depression,,
+midazolam,Procedural sedation,Respiratory depression;Amnesia,,
+thiopental,Anesthesia,Respiratory depression;Hypotension,,
+,,,,
+atropine,Bradycardia,Dry mouth;Blurred vision,,
+glycopyrrolate,Antisecretory,Dry mouth;Tachycardia,,
+neostigmine,Myasthenia gravis,Bradycardia;Salivation,,
+pyridostigmine,Myasthenia gravis,Abdominal cramps;Diarrhea,,
+,,,,
+epinephrine,Anaphylaxis,Tachycardia;Anxiety,,
+norepinephrine,Shock,Hypertension;Arrhythmia,,
+dopamine,Shock,Arrhythmia;Nausea,,
+dobutamine,Heart failure,Tachycardia;Headache,,
+,,,,
+adenosine,Supraventricular tachycardia,Chest discomfort;Flushing,,
+amiodarone,Arrhythmia,Thyroid dysfunction;Pulmonary toxicity,,
+sotalol,Arrhythmia,QT prolongation;Bradycardia,,
+flecainide,Arrhythmia,Proarrhythmia;Dizziness,,
+,,,,
+methyldopa,Hypertension,Depression;Sedation,,
+clonidine,Hypertension and withdrawal,Dry mouth;Sedation,,
+hydralazine,Hypertension,Reflex tachycardia;Headache,,
+minoxidil,Hypertension and alopecia,Edema;Hypertrichosis,,
+,,,,
+bethanechol,Urinary retention,Abdominal cramps;Diarrhea,,
+phenoxybenzamine,Pheochromocytoma,Hypotension;Nasal congestion,,
+,,,,
+metyrapone,Diagnostic testing,Nausea;Dizziness,,
+ketoconazole oral,Fungal infections,Hepatotoxicity;Gynecomastia,,
+,,,,
+propranolol,Hypertension and migraine,Bradycardia;Cold extremities,,
+nadolol,Hypertension,Bradycardia;Fatigue,,
+nebivolol,Hypertension,Headache;Bradycardia,,
+,,,,
+diltiazem,Angina and hypertension,Bradycardia;Edema,,
+verapamil,Angina and arrhythmia,Constipation;Bradycardia,,
+,,,,
+ranitidine bismuth citrate,Peptic ulcer,Black stools;Nausea,,
+,,,,
+rifabutin,Tuberculosis,Uveitis;Neutropenia,,
+linezolid oral,Resistant infections,Myelosuppression;Neuropathy,,
+tedizolid,Resistant infections,Myelosuppression;Nausea,,
+,,,,
+paliperidone,Schizophrenia,Weight gain;Hyperprolactinemia,,
+ziprasidone,Schizophrenia,QT prolongation;Sedation,,
+aripiprazole,Schizophrenia and bipolar disorder,Akathisia;Insomnia,,
+,,,,
+lithium,Bipolar disorder,Tremor;Hypothyroidism,,
+valproate semisodium,Bipolar disorder,Weight gain;Hepatotoxicity,,
+,,,,
+buspirone,Anxiety,Dizziness;Nausea,,
+hydroxyzine,Anxiety and allergy,Sedation;Dry mouth,,
+,,,,
+sumatriptan,Migraine,Chest tightness;Dizziness,,
+rizatriptan,Migraine,Drowsiness;Nausea,,
+propranolol migraine,Migraine prophylaxis,Bradycardia;Fatigue,,
+topiramate migraine,Migraine prophylaxis,Weight loss;Paresthesia,,
+,,,,
+levonorgestrel iud,Contraception,Irregular bleeding;Cramping,,
+etonogestrel implant,Contraception,Weight gain;Mood changes,,
+,,,,
+alprostadil,Erectile dysfunction,Pain;Hypotension,,
+papaverine,Erectile dysfunction,Dizziness;Priapism,,
+,,,,
+pilocarpine,Dry mouth and glaucoma,Sweating;Salivation,,
+cevimeline,Dry mouth,Sweating;Nausea,,
+,,,,
+silver sulfadiazine,Burn wounds,Leukopenia;Rash,,
+povidone iodine,Antiseptic,Skin irritation;Allergy,,
+chlorhexidine,Antiseptic,Tooth staining;Irritation,,
+,,,,
+vaccinia immune globulin,Post exposure prophylaxis,Headache;Fever,,
+hepatitis b vaccine,Immunization,Injection site pain;Fever,,
+influenza vaccine,Immunization,Myalgia;Fever,,
+rabies vaccine,Immunization,Injection site pain;Headache,,
+tetanus toxoid,Immunization,Pain;Fever,,
+,,,,
+naloxone,Opioid overdose,Withdrawal symptoms;Nausea,,
+flumazenil,Benzodiazepine overdose,Seizures;Dizziness,,
+activated charcoal,Poisoning,Constipation;Aspiration,,
+,,,,
+mannitol,Cerebral edema,Electrolyte imbalance;Dehydration,,
+hypertonic saline,Hyponatremia,Hypernatremia;Phlebitis,,
+,,,,
+desferrioxamine,Iron overload,Hypotension;Visual disturbance,,
+penicillamine,Wilson disease,Rash;Proteinuria,,
+,,,,
+colestyramine,Hyperlipidemia,Constipation;Bloating,,
+colesevelam,Hyperlipidemia,Constipation;Dyspepsia,,
