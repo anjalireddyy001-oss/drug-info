@@ -1,40 +1,131 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Drug Info Finder</title>
+    <title>DrugInfoFinder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 700px;
+            margin: 40px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 6px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+
+        form {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        input, select, button {
+            padding: 10px;
+            margin: 5px;
+            width: 80%;
+            max-width: 400px;
+            font-size: 16px;
+        }
+
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+
+        .result {
+            margin-top: 25px;
+            padding: 15px;
+            background: #eef5ff;
+            border-radius: 5px;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        .suggestions {
+            margin-top: 20px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
 </head>
+
 <body>
+<div class="container">
 
-<h1>💊 Drug Info Finder</h1>
-<p>Type a drug name to see its use and side effects</p>
+    <h1>DrugInfoFinder 💊</h1>
 
-<form method="POST">
-    <input type="text" name="drug" placeholder="e.g. paracetamol" required>
-    <button type="submit">Search</button>
-</form>
+    <form method="POST">
+        <input type="text" name="drug" placeholder="Enter drug name">
 
-<hr>
-
-{% if result %}
-    {% if result == "Drug not found" %}
-        <p><strong>Drug not found 😕</strong></p>
-    {% else %}
-        <h2>Drug: {{ drug | capitalize }}</h2>
-
-        <h3>Main Use</h3>
-        <p>{{ result.use }}</p>
-
-        <h3>Common Side Effects</h3>
-        <ul>
-            {% for effect in result.side_effects %}
-                <li>{{ effect }}</li>
+        <select name="category">
+            <option value="">-- Select Category --</option>
+            {% for cat in categories %}
+                <option value="{{ cat }}"
+                    {% if cat == selected_category %}selected{% endif %}>
+                    {{ cat | capitalize }}
+                </option>
             {% endfor %}
-        </ul>
+        </select>
+
+        <button type="submit">Search</button>
+    </form>
+
+    {% if result and drug %}
+        <div class="result">
+            <h2>{{ drug | capitalize }}</h2>
+
+            <p><strong>Main Use:</strong> {{ result.use }}</p>
+
+            <p><strong>Category:</strong> {{ result.category | capitalize }}</p>
+
+            <p><strong>Common Side Effects:</strong></p>
+            <ul>
+                {% for effect in result.side_effects %}
+                    <li>{{ effect }}</li>
+                {% endfor %}
+            </ul>
+        </div>
     {% endif %}
-{% endif %}
 
-<hr>
-<p><em>For educational and fun purposes only 😊</em></p>
+    {% if suggestions %}
+        <div class="suggestions">
+            <h3>Results:</h3>
+            <ul>
+                {% for s in suggestions %}
+                    <li>{{ s }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
 
+    <footer>
+        <p>Educational use only. Not a substitute for medical advice.</p>
+    </footer>
+
+</div>
 </body>
 </html>
