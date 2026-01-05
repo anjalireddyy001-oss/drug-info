@@ -65,3 +65,1069 @@ prednisolone,Inflammatory disorders,Glucocorticoid,Weight gain;Immunosuppression
 methotrexate,Autoimmune disorders,Antimetabolite,Myelosuppression;Hepatotoxicity
 warfarin,Anticoagulation,Vitamin K antagonist,Bleeding;Skin necrosis
 clopidogrel,Antiplatelet therapy,P2Y12 inhibitor,Bleeding;GI upset
+rosiglitazone,Type 2 diabetes,Thiazolidinedione,Weight gain;Edema
+repaglinide,Type 2 diabetes,Meglitinide,Hypoglycemia;Weight gain
+nateglinide,Type 2 diabetes,Meglitinide,Hypoglycemia;Dizziness
+exenatide,Type 2 diabetes,GLP-1 receptor agonist,Nausea;Pancreatitis
+liraglutide,Type 2 diabetes,GLP-1 receptor agonist,Nausea;Weight loss
+semaglutide,Type 2 diabetes,GLP-1 receptor agonist,Nausea;Vomiting
+canagliflozin,Type 2 diabetes,SGLT-2 inhibitor,UTI;Dehydration
+vildagliptin,Type 2 diabetes,DPP-4 inhibitor,Headache;Pancreatitis
+saxagliptin,Type 2 diabetes,DPP-4 inhibitor,UTI;Joint pain
+tolbutamide,Type 2 diabetes,Sulfonylurea,Hypoglycemia;Weight gain
+isosorbide mononitrate,Angina,Organic nitrate,Headache;Hypotension
+nitroglycerin,Angina,Organic nitrate,Headache;Flushing
+ranolazine,Chronic angina,Antianginal agent,Dizziness;QT prolongation
+ivabradine,Heart failure,If channel inhibitor,Bradycardia;Visual disturbances
+digoxin immune fab,Digoxin toxicity,Antidote,Hypokalemia;Allergic reactions
+propranolol,Hypertension and migraine,Non-selective beta blocker,Bradycardia;Cold extremities
+nebivolol,Hypertension,Selective beta blocker,Headache;Bradycardia
+carvedilol,Heart failure,Alpha and beta blocker,Hypotension;Dizziness
+hydralazine,Hypertension,Direct vasodilator,Reflex tachycardia;Headache
+minoxidil,Resistant hypertension,Direct vasodilator,Edema;Hypertrichosis
+diltiazem,Hypertension and angina,Non-dihydropyridine calcium channel blocker,Bradycardia;Edema
+verapamil,Arrhythmia and angina,Non-dihydropyridine calcium channel blocker,Constipation;Bradycardia
+clonidine,Hypertension,Centrally acting alpha-2 agonist,Dry mouth;Sedation
+methyldopa,Hypertension in pregnancy,Centrally acting antihypertensive,Depression;Sedation
+atorvastatin calcium,Hyperlipidemia,Statin,Myalgia;Liver enzyme elevation
+fenofibrate,Hypertriglyceridemia,Fibrate,Myopathy;Gallstones
+gemfibrozil,Hypertriglyceridemia,Fibrate,Myopathy;Abdominal pain
+niacinamide,Hyperlipidemia,Vitamin B3 derivative,Flushing;Hepatotoxicity
+colestyramine,Hyperlipidemia,Bile acid sequestrant,Constipation;Bloating
+omeprazole magnesium,GERD,Proton pump inhibitor,Headache;Diarrhea
+esomeprazole magnesium,GERD,Proton pump inhibitor,Headache;Constipation
+famotidine,Acid reflux,H2 receptor antagonist,Dizziness;Fatigue
+sucralfate,Peptic ulcer,Mucosal protective agent,Constipation;Dry mouth
+misoprostol,NSAID induced ulcers,Prostaglandin analogue,Diarrhea;Abdominal cramps
+ondansetron,Antiemetic,5-HT3 receptor antagonist,Headache;Constipation
+metoclopramide,Antiemetic,D2 receptor antagonist,Extrapyramidal symptoms;Diarrhea
+domperidone,Antiemetic,Peripheral D2 receptor antagonist,QT prolongation;Dry mouth
+loperamide,Diarrhea,Antidiarrheal opioid agonist,Constipation;Abdominal cramps
+bismuth subsalicylate,Diarrhea and dyspepsia,Antidiarrheal adsorbent,Black stools;Nausea
+oral rehydration salts,Dehydration,Electrolyte replacement,Bloating;Nausea
+cefuroxime,Bacterial infections,Second-generation cephalosporin,Diarrhea;Nausea
+cephalexin,Bacterial infections,First-generation cephalosporin,Diarrhea;Rash
+cefixime,Bacterial infections,Third-generation cephalosporin,Diarrhea;Abdominal pain
+ceftazidime,Bacterial infections,Third-generation cephalosporin,Neurotoxicity;GI upset
+cefepime,Bacterial infections,Fourth-generation cephalosporin,Neurotoxicity;Diarrhea
+amoxicillin clavulanate,Bacterial infections,Beta-lactam combination,Diarrhea;Hepatotoxicity
+piperacillin tazobactam,Severe infections,Beta-lactam combination,Rash;Diarrhea
+meropenem,Severe infections,Carbapenem,Seizures;GI upset
+imipenem,Severe infections,Carbapenem,Seizures;Nausea
+aztreonam,Bacterial infections,Monobactam,Rash;GI upset
+gentamicin,Bacterial infections,Aminoglycoside,Nephrotoxicity;Ototoxicity
+amikacin,Bacterial infections,Aminoglycoside,Nephrotoxicity;Ototoxicity
+tobramycin,Bacterial infections,Aminoglycoside,Ototoxicity;Nephrotoxicity
+linezolid,Resistant infections,Oxazolidinone,Myelosuppression;Neuropathy
+daptomycin,Resistant infections,Lipopeptide,Myopathy;Eosinophilic pneumonia
+tigecycline,Resistant infections,Glycylcycline,Nausea;Vomiting
+rifampicin,Tuberculosis,Rifamycin,Hepatotoxicity;Orange discoloration
+isoniazid,Tuberculosis,Antimycobacterial,Peripheral neuropathy;Hepatotoxicity
+ethambutol,Tuberculosis,Antimycobacterial,Optic neuritis;Visual changes
+pyrazinamide,Tuberculosis,Antimycobacterial,Hyperuricemia;Hepatotoxicity
+acyclovir,Herpes infections,Antiviral nucleoside analogue,Renal toxicity;Nausea
+valacyclovir,Herpes infections,Antiviral nucleoside analogue,Headache;Abdominal pain
+oseltamivir,Influenza,Neuraminidase inhibitor,Nausea;Vomiting
+ribavirin,Viral infections,Antiviral RNA polymerase inhibitor,Hemolytic anemia;Fatigue
+fluconazole,Fungal infections,Triazole antifungal,Hepatotoxicity;GI upset
+itraconazole,Fungal infections,Triazole antifungal,Heart failure risk;Nausea
+amphotericin b,Severe fungal infections,Polyene antifungal,Nephrotoxicity;Fever
+nystatin,Candidiasis,Polyene antifungal,GI upset;Rash
+salbutamol sulfate,Asthma,Short-acting beta-2 agonist,Tremor;Palpitations
+formoterol fumarate,Asthma,Long-acting beta-2 agonist,Tremor;Headache
+salmeterol,Asthma,Long-acting beta-2 agonist,Tremor;Palpitations
+tiotropium bromide,COPD,Long-acting antimuscarinic,Dry mouth;Constipation
+ipratropium bromide,COPD,Short-acting antimuscarinic,Dry mouth;Cough
+montelukast sodium,Asthma and allergy,Leukotriene receptor antagonist,Headache;Mood changes
+theophylline,Bronchodilation,Methylxanthine,Arrhythmia;Nausea
+phenytoin,Epilepsy,Hydantoin antiepileptic,Gingival hyperplasia;Ataxia
+carbamazepine,Epilepsy,Iminostilbene antiepileptic,Dizziness;Hyponatremia
+valproic acid,Epilepsy,Broad-spectrum antiepileptic,Hepatotoxicity;Weight gain
+lamotrigine,Epilepsy,Broad-spectrum antiepileptic,Skin rash;Dizziness
+topiramate,Epilepsy,Broad-spectrum antiepileptic,Weight loss;Cognitive impairment
+levetiracetam,Epilepsy,Broad-spectrum antiepileptic,Drowsiness;Mood changes
+gabapentin,Neuropathic pain and epilepsy,GABA analogue,Dizziness;Somnolence
+pregabalin,Neuropathic pain,GABA analogue,Dizziness;Weight gain
+escitalopram,Depression,SSRI,Nausea;Headache
+paroxetine,Depression,SSRI,Weight gain;Sexual dysfunction
+citalopram,Depression,SSRI,QT prolongation;Dry mouth
+venlafaxine,Depression and anxiety,SNRI,Hypertension;Nausea
+duloxetine,Depression and neuropathy,SNRI,Dry mouth;Dizziness
+amitriptyline,Depression and neuropathic pain,Tricyclic antidepressant,Drowsiness;Dry mouth
+nortriptyline,Depression,Tricyclic antidepressant,Constipation;Sedation
+mirtazapine,Depression,NaSSA,Weight gain;Sedation
+bupropion,Depression,Atypical antidepressant,Insomnia;Seizures
+trazodone,Depression and insomnia,Serotonin antagonist and reuptake inhibitor,Sedation;Dizziness
+quetiapine,Schizophrenia and bipolar disorder,Atypical antipsychotic,Sedation;Weight gain
+olanzapine,Schizophrenia,Atypical antipsychotic,Weight gain;Metabolic syndrome
+risperidone,Schizophrenia,Atypical antipsychotic,Hyperprolactinemia;Weight gain
+aripiprazole,Schizophrenia and bipolar disorder,Atypical antipsychotic,Akathisia;Insomnia
+clozapine,Resistant schizophrenia,Atypical antipsychotic,Agranulocytosis;Seizures
+haloperidol,Schizophrenia,Typical antipsychotic,Extrapyramidal symptoms;QT prolongation
+lithium,Bipolar disorder,Mood stabilizer,Tremor;Hypothyroidism
+valproate semisodium,Bipolar disorder,Mood stabilizer,Weight gain;Hepatotoxicity
+lamotrigine bipolar,Bipolar disorder,Mood stabilizer,Skin rash;Dizziness
+diazepam,Anxiety and seizures,Benzodiazepine,Sedation;Dependence
+alprazolam,Anxiety disorder,Benzodiazepine,Drowsiness;Dependence
+lorazepam,Anxiety and seizures,Benzodiazepine,Sedation;Amnesia
+buspirone,Anxiety,Anxiolytic,Dizziness;Nausea
+hydroxyzine,Anxiety and allergy,Sedating antihistamine,Sedation;Dry mouth
+donepezil,Alzheimer disease,Acetylcholinesterase inhibitor,Nausea;Bradycardia
+rivastigmine,Alzheimer disease,Acetylcholinesterase inhibitor,Vomiting;Weight loss
+memantine,Alzheimer disease,NMDA receptor antagonist,Dizziness;Confusion
+levodopa,Parkinson disease,Dopamine precursor,Dyskinesia;Nausea
+carbidopa,Parkinson disease,Peripheral dopa-decarboxylase inhibitor,Nausea;Dizziness
+pramipexole,Parkinson disease,Dopamine agonist,Somnolence;Hallucinations
+ropinirole,Parkinson disease,Dopamine agonist,Dizziness;Nausea
+tamoxifen,Breast cancer,Selective estrogen receptor modulator,Hot flashes;Thromboembolism
+anastrozole,Breast cancer,Aromatase inhibitor,Arthralgia;Osteoporosis
+letrozole,Breast cancer,Aromatase inhibitor,Hot flashes;Bone loss
+imatinib,Leukemia,Tyrosine kinase inhibitor,Edema;Myelosuppression
+rituximab,Lymphoma,Monoclonal antibody,Infusion reactions;Infections
+trastuzumab,Breast cancer,Monoclonal antibody,Cardiotoxicity;Infusion reactions
+cyclophosphamide,Cancer,Alkylating agent,Hemorrhagic cystitis;Myelosuppression
+methotrexate oncology,Cancer,Antimetabolite,Myelosuppression;Mucositis
+paclitaxel,Cancer,Taxane,Neuropathy;Myelosuppression
+docetaxel,Cancer,Taxane,Fluid retention;Neutropenia
+cisplatin,Cancer,Platinum compound,Nephrotoxicity;Ototoxicity
+carboplatin,Cancer,Platinum compound,Myelosuppression;Nausea
+etoposide,Cancer,Topoisomerase II inhibitor,Alopecia;Myelosuppression
+bleomycin,Cancer,Antineoplastic antibiotic,Pulmonary fibrosis;Fever
+prednisone,Inflammatory disorders,Glucocorticoid,Weight gain;Immunosuppression
+dexamethasone,Inflammation and shock,Glucocorticoid,Hyperglycemia;Mood changes
+azathioprine,Autoimmune disorders,Antimetabolite,Myelosuppression;Infections
+cyclosporine,Organ transplantation,Calcineurin inhibitor,Nephrotoxicity;Hypertension
+tacrolimus,Organ transplantation,Calcineurin inhibitor,Nephrotoxicity;Tremor
+mycophenolate mofetil,Organ transplantation,Antimetabolite,Diarrhea;Leukopenia
+adalimumab,Autoimmune disorders,TNF inhibitor,Injection site pain;Infections
+infliximab,Autoimmune disorders,TNF inhibitor,Infusion reactions;Infections
+isotretinoin,Severe acne,Retinoid,Teratogenicity;Dry skin
+acitretin,Psoriasis,Retinoid,Teratogenicity;Dry skin
+calcipotriol,Psoriasis,Vitamin D analogue,Skin irritation;Burning
+clobetasol,Skin inflammation,Super potent topical corticosteroid,Skin atrophy;Striae
+betamethasone topical,Skin inflammation,Topical corticosteroid,Skin atrophy;Irritation
+mupirocin,Skin infections,Topical antibiotic,Burning;Itching
+fusidic acid,Skin infections,Topical antibiotic,Rash;GI upset
+permethrin,Scabies and lice,Ectoparasiticide,Skin irritation;Burning
+ivermectin,Parasitic infections,Antiparasitic,Dizziness;Pruritus
+benzoyl peroxide,Acne,Topical antibacterial,Skin irritation;Dryness
+timolol ophthalmic,Glaucoma,Topical beta blocker,Bradycardia;Eye irritation
+latanoprost ophthalmic,Glaucoma,Prostaglandin analogue,Eye redness;Eyelash growth
+travoprost ophthalmic,Glaucoma,Prostaglandin analogue,Hyperpigmentation;Eye irritation
+brimonidine ophthalmic,Glaucoma,Alpha-2 agonist,Dry mouth;Eye irritation
+dorzolamide ophthalmic,Glaucoma,Carbonic anhydrase inhibitor,Bitter taste;Eye irritation
+acetazolamide,Glaucoma and altitude sickness,Carbonic anhydrase inhibitor,Metabolic acidosis;Paresthesia
+xylometazoline,Nasal congestion,Topical nasal decongestant,Rebound congestion;Dryness
+oxymetazoline,Nasal congestion,Topical nasal decongestant,Rebound congestion;Irritation
+azelastine nasal,Allergic rhinitis,Intranasal antihistamine,Bitter taste;Nasal irritation
+mometasone nasal,Allergic rhinitis,Intranasal corticosteroid,Nasal irritation;Headache
+fluticasone nasal,Allergic rhinitis,Intranasal corticosteroid,Nosebleed;Irritation
+cetirizine levocetirizine,Allergic rhinitis,Second-generation antihistamine,Drowsiness;Dry mouth
+finasteride,Benign prostatic hyperplasia,5-alpha-reductase inhibitor,Sexual dysfunction;Gynecomastia
+dutasteride,Benign prostatic hyperplasia,5-alpha-reductase inhibitor,Impotence;Gynecomastia
+tamsulosin,Benign prostatic hyperplasia,Alpha-1 blocker,Dizziness;Retrograde ejaculation
+alfuzosin,Benign prostatic hyperplasia,Alpha-1 blocker,Dizziness;Fatigue
+oxybutynin,Overactive bladder,Antimuscarinic,Dry mouth;Constipation
+tolterodine,Overactive bladder,Antimuscarinic,Dry mouth;Blurred vision
+mirabegron,Overactive bladder,Beta-3 agonist,Hypertension;UTI
+desmopressin,Diabetes insipidus,Vasopressin analogue,Hyponatremia;Headache
+levothyroxine sodium,Hypothyroidism,Thyroid hormone replacement,Palpitations;Weight loss
+liothyronine,Hypothyroidism,Thyroid hormone,Palpitations;Anxiety
+methimazole,Hyperthyroidism,Antithyroid drug,Rash;Agranulocytosis
+propylthiouracil,Hyperthyroidism,Antithyroid drug,Hepatotoxicity;Rash
+somatropin,Growth hormone deficiency,Growth hormone,Edema;Arthralgia
+octreotide,Acromegaly,Somatostatin analogue,Diarrhea;Gallstones
+cabergoline,Hyperprolactinemia,Dopamine agonist,Nausea;Orthostatic hypotension
+bromocriptine,Hyperprolactinemia,Dopamine agonist,Nausea;Headache
+ethinylestradiol,Contraception,Estrogen,Nausea;Thromboembolism
+levonorgestrel,Contraception,Progestin,Weight gain;Irregular bleeding
+medroxyprogesterone,Contraception,Progestin,Weight gain;Amenorrhea
+sildenafil,Erectile dysfunction,Phosphodiesterase-5 inhibitor,Headache;Flushing
+tadalafil,Erectile dysfunction,Phosphodiesterase-5 inhibitor,Back pain;Dyspepsia
+vardenafil,Erectile dysfunction,Phosphodiesterase-5 inhibitor,Headache;Flushing
+epinephrine,Anaphylaxis and cardiac arrest,Adrenergic agonist,Tachycardia;Anxiety
+norepinephrine,Septic shock,Adrenergic agonist,Hypertension;Arrhythmia
+dopamine,Shock and heart failure,Adrenergic agonist,Arrhythmia;Nausea
+dobutamine,Acute heart failure,Adrenergic agonist,Tachycardia;Headache
+adenosine,Supraventricular tachycardia,Antiarrhythmic,Chest discomfort;Flushing
+amiodarone,Arrhythmia,Class III antiarrhythmic,Thyroid dysfunction;Pulmonary toxicity
+lidocaine iv,Ventricular arrhythmia,Class Ib antiarrhythmic,CNS toxicity;Hypotension
+atropine,Bradycardia,Antimuscarinic,Dry mouth;Blurred vision
+glycopyrrolate,Antisecretory and bradycardia,Antimuscarinic,Dry mouth;Tachycardia
+naloxone,Opioid overdose,Opioid antagonist,Withdrawal symptoms;Nausea
+flumazenil,Benzodiazepine overdose,Benzodiazepine antagonist,Seizures;Dizziness
+activated charcoal,Poisoning,Adsorbent,Constipation;Aspiration
+vitamin k,Warfarin reversal,Vitamin,K hypersensitivity;Injection pain
+protamine sulfate,Heparin reversal,Antidote,Hypotension;Allergic reaction
+sodium bicarbonate,Metabolic acidosis,Alkalinizing agent,Metabolic alkalosis;Hypokalemia
+calcium gluconate,Hypocalcemia and cardioprotection,Calcium salt,Bradycardia;Extravasation
+magnesium sulfate,Eclampsia and torsades de pointes,Electrolyte,Flushing;Hypotension
+potassium chloride,Hypokalemia,Electrolyte,Arrhythmia;GI irritation
+hypertonic saline,Severe hyponatremia,Hyperosmotic agent,Hypernatremia;Phlebitis
+mannitol,Cerebral edema,Osmotic diuretic,Electrolyte imbalance;Dehydration
+furosemide iv,Acute pulmonary edema,Loop diuretic,Electrolyte imbalance;Hypotension
+nitroprusside,Hypertensive emergency,Direct vasodilator,Hypotension;Cyanide toxicity
+labetalol iv,Hypertensive emergency,Alpha and beta blocker,Bradycardia;Hypotension
+esmolol iv,Acute tachyarrhythmia,Short acting beta blocker,Bradycardia;Hypotension
+midazolam,Procedural sedation,Benzodiazepine,Respiratory depression;Amnesia
+propofol,General anesthesia,Intravenous anesthetic,Hypotension;Respiratory depression
+ketamine,Anesthesia and analgesia,Dissociative anesthetic,Hallucinations;Hypertension
+thiopental,Induction of anesthesia,Barbiturate,Respiratory depression;Hypotension
+succinylcholine,Rapid sequence intubation,Depolarizing neuromuscular blocker,Hyperkalemia;Malignant hyperthermia
+vecuronium,Muscle relaxation,Non-depolarizing neuromuscular blocker,Prolonged paralysis;Hypotension
+neostigmine,Reversal of neuromuscular blockade,Acetylcholinesterase inhibitor,Bradycardia;Salivation
+pyridostigmine,Myasthenia gravis,Acetylcholinesterase inhibitor,Diarrhea;Abdominal cramps
+heparin,Anticoagulation,Unfractionated heparin,Bleeding;Thrombocytopenia
+enoxaparin,Anticoagulation,Low molecular weight heparin,Bleeding;Injection site pain
+alteplase,Thrombolysis,Recombinant tissue plasminogen activator,Bleeding;Allergic reactions
+streptokinase,Thrombolysis,Thrombolytic agent,Bleeding;Hypotension
+tetanus toxoid,Immunization,Vaccine,Pain;Fever
+rabies vaccine,Post exposure prophylaxis,Vaccine,Injection site pain;Headache
+influenza vaccine,Immunization,Vaccine,Myalgia;Fever
+hepatitis b vaccine,Immunization,Vaccine,Injection site pain;Fatigue
+covid 19 vaccine,Immunization,Vaccine,Fever;Myalgia
+antivenom snake,Snake bite,Antivenom,Anaphylaxis;Serum sickness
+pralidoxime,Organophosphate poisoning,Cholinesterase reactivator,Hypertension;Dizziness
+paracetamol pediatric,Fever and pain,Pediatric analgesic,Nausea;Hepatotoxicity
+ibuprofen pediatric,Pain and fever,Pediatric NSAID,GI upset;Renal impairment
+amoxicillin pediatric,Bacterial infections,Pediatric antibiotic,Rash;Diarrhea
+ceftriaxone pediatric,Severe bacterial infections,Pediatric cephalosporin,Injection pain;Diarrhea
+oral rehydration salts pediatric,Dehydration,Electrolyte replacement,Bloating;Nausea
+zinc acetate,Diarrhea in children,Trace element supplement,Nausea;Metallic taste
+vitamin a,Vitamin A deficiency,Vitamins and supplements,Headache;Nausea
+vitamin b complex,Vitamin B deficiency,Vitamins and supplements,Nausea;Flushing
+vitamin c,Vitamin C deficiency,Vitamins and supplements,GI upset;Diarrhea
+vitamin d3 supplementation,Vitamin D deficiency,Vitamins and supplements,Hypercalcemia;Nausea
+calcium carbonate supplementation,Calcium deficiency,Calcium supplement,Constipation;Hypercalcemia
+iron polymaltose,Iron deficiency anemia,Iron supplement,Constipation;Nausea
+ferrous sulfate,Iron deficiency anemia,Iron supplement,Constipation;GI irritation
+folic acid supplementation,Folate deficiency,Folate supplement,Bloating;Nausea
+cyanocobalamin,Vitamin B12 deficiency,Vitamin supplement,Injection pain;Headache
+multivitamin syrup,Nutritional deficiency,Nutritional supplement,Nausea;GI upset
+omega 3 supplements,Hypertriglyceridemia,Nutritional supplement,Fishy taste;GI upset
+protein powder,Nutritional support,Protein supplement,Bloating;Flatulence
+lactulose,Constipation,Osmotic laxative,Flatulence;Diarrhea
+psyllium husk,Constipation,Bulk forming laxative,Bloating;Abdominal cramps
+bisacodyl,Constipation,Stimulant laxative,Abdominal pain;Diarrhea
+senna,Constipation,Stimulant laxative,Abdominal cramps;Diarrhea
+docusate sodium,Constipation,Stool softener,Abdominal cramps;Diarrhea
+oral nutritional supplement,Geriatric nutrition,Nutritional supplement,Bloating;Nausea
+donepezil geriatric,Alzheimer disease,Acetylcholinesterase inhibitor,Nausea;Bradycardia
+memantine geriatric,Alzheimer disease,NMDA receptor antagonist,Dizziness;Confusion
+alendronate,Geriatric osteoporosis,Bisphosphonate,Esophagitis;Jaw osteonecrosis
+risedronate,Osteoporosis,Bisphosphonate,GI irritation;Myalgia
+ibandronate,Osteoporosis,Bisphosphonate,Flu like symptoms;GI upset
+teriparatide,Osteoporosis,Parathyroid hormone analogue,Hypercalcemia;Dizziness
+denosumab,Osteoporosis,RANKL inhibitor,Hypocalcemia;Infections
+calcitonin,Osteoporosis,Calcitonin analogue,Nausea;Flushing
+glucosamine,Osteoarthritis,Nutritional supplement,GI upset;Nausea
+chondroitin sulfate,Osteoarthritis,Nutritional supplement,Bloating;Diarrhea
+coenzyme q10,Cardiac support,Nutritional supplement,GI upset;Headache
+melatonin,Insomnia,Melatonin receptor agonist,Drowsiness;Headache
+paracetamol pediatric,Fever and pain,Pediatric analgesic,Nausea;Hepatotoxicity
+ibuprofen pediatric,Pain and fever,Pediatric NSAID,GI upset;Renal impairment
+amoxicillin pediatric,Bacterial infections,Pediatric antibiotic,Rash;Diarrhea
+ceftriaxone pediatric,Severe bacterial infections,Pediatric cephalosporin,Injection pain;Diarrhea
+oral rehydration salts pediatric,Dehydration,Electrolyte replacement,Bloating;Nausea
+zinc acetate,Diarrhea in children,Trace element supplement,Nausea;Metallic taste
+vitamin a,Vitamin A deficiency,Vitamins and supplements,Headache;Nausea
+vitamin b complex,Vitamin B deficiency,Vitamins and supplements,Nausea;Flushing
+vitamin c,Vitamin C deficiency,Vitamins and supplements,GI upset;Diarrhea
+vitamin d3 supplementation,Vitamin D deficiency,Vitamins and supplements,Hypercalcemia;Nausea
+calcium carbonate supplementation,Calcium deficiency,Calcium supplement,Constipation;Hypercalcemia
+iron polymaltose,Iron deficiency anemia,Iron supplement,Constipation;Nausea
+ferrous sulfate,Iron deficiency anemia,Iron supplement,Constipation;GI irritation
+folic acid supplementation,Folate deficiency,Folate supplement,Bloating;Nausea
+cyanocobalamin,Vitamin B12 deficiency,Vitamin supplement,Injection pain;Headache
+multivitamin syrup,Nutritional deficiency,Nutritional supplement,Nausea;GI upset
+omega 3 supplements,Hypertriglyceridemia,Nutritional supplement,Fishy taste;GI upset
+protein powder,Nutritional support,Protein supplement,Bloating;Flatulence
+lactulose,Constipation,Osmotic laxative,Flatulence;Diarrhea
+psyllium husk,Constipation,Bulk forming laxative,Bloating;Abdominal cramps
+bisacodyl,Constipation,Stimulant laxative,Abdominal pain;Diarrhea
+senna,Constipation,Stimulant laxative,Abdominal cramps;Diarrhea
+docusate sodium,Constipation,Stool softener,Abdominal cramps;Diarrhea
+oral nutritional supplement,Geriatric nutrition,Nutritional supplement,Bloating;Nausea
+donepezil geriatric,Alzheimer disease,Acetylcholinesterase inhibitor,Nausea;Bradycardia
+memantine geriatric,Alzheimer disease,NMDA receptor antagonist,Dizziness;Confusion
+alendronate,Geriatric osteoporosis,Bisphosphonate,Esophagitis;Jaw osteonecrosis
+risedronate,Osteoporosis,Bisphosphonate,GI irritation;Myalgia
+ibandronate,Osteoporosis,Bisphosphonate,Flu like symptoms;GI upset
+teriparatide,Osteoporosis,Parathyroid hormone analogue,Hypercalcemia;Dizziness
+denosumab,Osteoporosis,RANKL inhibitor,Hypocalcemia;Infections
+calcitonin,Osteoporosis,Calcitonin analogue,Nausea;Flushing
+glucosamine,Osteoarthritis,Nutritional supplement,GI upset;Nausea
+chondroitin sulfate,Osteoarthritis,Nutritional supplement,Bloating;Diarrhea
+coenzyme q10,Cardiac support,Nutritional supplement,GI upset;Headache
+melatonin,Insomnia,Melatonin receptor agonist,Drowsiness;Headache
+pembrolizumab,Cancer immunotherapy,PD-1 inhibitor,Fatigue;Immune-related adverse events
+nivolumab,Cancer immunotherapy,PD-1 inhibitor,Fatigue;Pneumonitis
+atezolizumab,Cancer immunotherapy,PD-L1 inhibitor,Fatigue;Colitis
+ipilimumab,Cancer immunotherapy,CTLA-4 inhibitor,Diarrhea;Dermatitis
+bevacizumab,Cancer,VEGF inhibitor,Hypertension;Bleeding
+cetuximab,Colorectal cancer,EGFR inhibitor,Acneiform rash;Infusion reactions
+panitumumab,Colorectal cancer,EGFR inhibitor,Skin rash;Hypomagnesemia
+erlotinib,Lung cancer,EGFR tyrosine kinase inhibitor,Rash;Diarrhea
+gefitinib,Lung cancer,EGFR tyrosine kinase inhibitor,Rash;Hepatotoxicity
+osimertinib,Lung cancer,EGFR tyrosine kinase inhibitor,QT prolongation;Diarrhea
+sorafenib,Hepatocellular carcinoma,Multikinase inhibitor,Hand foot syndrome;Diarrhea
+sunitinib,Renal cell carcinoma,Tyrosine kinase inhibitor,Fatigue;Hypertension
+lenvatinib,Thyroid cancer,Tyrosine kinase inhibitor,Hypertension;Diarrhea
+bortezomib,Multiple myeloma,Proteasome inhibitor,Peripheral neuropathy;Thrombocytopenia
+carfilzomib,Multiple myeloma,Proteasome inhibitor,Cardiac toxicity;Dyspnea
+lenalidomide,Multiple myeloma,Immunomodulatory drug,Myelosuppression;Thrombosis
+thalidomide,Multiple myeloma,Immunomodulatory drug,Peripheral neuropathy;Sedation
+azacitidine,Myelodysplastic syndrome,Hypomethylating agent,Myelosuppression;Nausea
+decitabine,Myelodysplastic syndrome,Hypomethylating agent,Myelosuppression;Infections
+rituximab biosimilar,B cell lymphoma,Anti CD20 monoclonal antibody,Infusion reactions;Infections
+obinutuzumab,Chronic lymphocytic leukemia,Anti CD20 monoclonal antibody,Infusion reactions;Neutropenia
+tocilizumab,Rheumatoid arthritis and cytokine storm,IL-6 receptor antagonist,Infections;Elevated liver enzymes
+sarilumab,Rheumatoid arthritis,IL-6 receptor antagonist,Neutropenia;Infections
+etanercept,Rheumatoid arthritis,TNF inhibitor,Injection site reactions;Infections
+adalimumab biosimilar,Autoimmune disorders,TNF inhibitor,Injection site pain;Infections
+certolizumab,Rheumatoid arthritis,TNF inhibitor,Infections;Rash
+golimumab,Rheumatoid arthritis,TNF inhibitor,Infections;Injection site reactions
+abatacept,Rheumatoid arthritis,T cell costimulation blocker,Infections;Headache
+ustekinumab,Psoriasis and Crohn disease,IL-12/23 inhibitor,Infections;Headache
+secukinumab,Psoriasis,IL-17 inhibitor,Infections;Diarrhea
+ixekizumab,Psoriasis,IL-17 inhibitor,Injection site reactions;Infections
+tofacitinib,Rheumatoid arthritis,JAK inhibitor,Infections;Thrombosis
+baricitinib,Rheumatoid arthritis,JAK inhibitor,Infections;Thrombosis
+upadacitinib,Rheumatoid arthritis,JAK inhibitor,Infections;Elevated liver enzymes
+belimumab,Systemic lupus erythematosus,BLyS inhibitor,Infections;Nausea
+omalizumab,Severe asthma and urticaria,Anti IgE monoclonal antibody,Injection site reactions;Anaphylaxis
+dupilumab,Atopic dermatitis,IL-4 receptor antagonist,Conjunctivitis;Injection site reactions
+acyclovir iv,Severe herpes infections,Antiviral nucleoside analogue,Renal toxicity;Phlebitis
+ganciclovir,CMV infections,Antiviral DNA polymerase inhibitor,Myelosuppression;Renal toxicity
+valganciclovir,CMV infections,Antiviral DNA polymerase inhibitor,Neutropenia;Diarrhea
+famciclovir,Herpes infections,Antiviral nucleoside analogue,Headache;Nausea
+tenofovir,HIV and hepatitis B,NRTI,Renal toxicity;Bone loss
+lamivudine,HIV and hepatitis B,NRTI,Headache;Nausea
+emtricitabine,HIV,NRTI,Hyperpigmentation;Headache
+abacavir,HIV,NRTI,Hypersensitivity reaction;Fever
+efavirenz,HIV,NNRTI,CNS effects;Rash
+nevirapine,HIV,NNRTI,Hepatotoxicity;Rash
+dolutegravir,HIV,Integrase strand transfer inhibitor,Insomnia;Weight gain
+raltegravir,HIV,Integrase strand transfer inhibitor,Myopathy;Headache
+darunavir,HIV,Protease inhibitor,Diarrhea;Rash
+ritonavir,HIV,Protease inhibitor,GI upset;Hyperlipidemia
+lopinavir,HIV,Protease inhibitor,Diarrhea;Hyperlipidemia
+sofosbuvir,Hepatitis C,NS5B polymerase inhibitor,Headache;Fatigue
+ledipasvir,Hepatitis C,NS5A inhibitor,Fatigue;Headache
+velpatasvir,Hepatitis C,NS5A inhibitor,Headache;Nausea
+daclatasvir,Hepatitis C,NS5A inhibitor,Headache;Fatigue
+interferon alfa,Chronic viral hepatitis,Immunomodulator,Flu like symptoms;Depression
+ribavirin hepatitis,Chronic hepatitis C,Antiviral agent,Hemolytic anemia;Fatigue
+voriconazole,Invasive fungal infections,Triazole antifungal,Visual disturbance;Hepatotoxicity
+posaconazole,Invasive fungal infections,Triazole antifungal,GI upset;Headache
+isavuconazole,Invasive fungal infections,Triazole antifungal,Hypokalemia;Nausea
+caspofungin,Invasive fungal infections,Echinocandin,Histamine reactions;GI upset
+micafungin,Invasive fungal infections,Echinocandin,Elevated liver enzymes;Headache
+anidulafungin,Invasive fungal infections,Echinocandin,Infusion reactions;Hypokalemia
+clotrimazole topical,Candidiasis,Imidazole antifungal,Local irritation;Burning
+miconazole topical,Candidiasis,Imidazole antifungal,Burning;Itching
+terbinafine oral,Onychomycosis,Allylamine antifungal,Hepatotoxicity;Taste disturbance
+griseofulvin oral,Dermatophytosis,Antifungal mitotic inhibitor,Photosensitivity;Headache
+nitrofurantoin,Urinary tract infection,Urinary antiseptic,Nausea;Pulmonary toxicity
+fosfomycin,Urinary tract infection,Urinary antiseptic,Diarrhea;Headache
+trimethoprim,Urinary tract infection,Folate antagonist,Rash;Hyperkalemia
+trimethoprim sulfamethoxazole,Urinary tract infection,Folate and sulfonamide combination,Rash;Myelosuppression
+pentamidine,Pneumocystis pneumonia,Antiprotozoal agent,Hypoglycemia;Nephrotoxicity
+metronidazole iv,Anaerobic infections,Nitroimidazole,Metallic taste;Nausea
+tinidazole,Anaerobic infections,Nitroimidazole,Metallic taste;GI upset
+chloroquine,Malaria,Antimalarial,QT prolongation;Retinopathy
+hydroxychloroquine malaria,Malaria and autoimmune disease,Antimalarial,QT prolongation;Retinopathy
+artesunate,Severe malaria,Artemisinin derivative,Hemolysis;Dizziness
+artemether lumefantrine,Malaria,Artemisinin combination,QT prolongation;Headache
+primaquine malaria,Malaria eradication,Antimalarial,Hemolysis;GI upset
+ivermectin mass drug administration,Parasitic infections,Antiparasitic,Dizziness;Pruritus
+diethylcarbamazine,Filariasis,Antiparasitic,Fever;Headache
+acyclovir iv,Severe herpes infections,Antiviral nucleoside analogue,Renal toxicity;Phlebitis
+ganciclovir,CMV infections,Antiviral DNA polymerase inhibitor,Myelosuppression;Renal toxicity
+valganciclovir,CMV infections,Antiviral DNA polymerase inhibitor,Neutropenia;Diarrhea
+famciclovir,Herpes infections,Antiviral nucleoside analogue,Headache;Nausea
+tenofovir,HIV and hepatitis B,NRTI,Renal toxicity;Bone loss
+lamivudine,HIV and hepatitis B,NRTI,Headache;Nausea
+emtricitabine,HIV,NRTI,Hyperpigmentation;Headache
+abacavir,HIV,NRTI,Hypersensitivity reaction;Fever
+efavirenz,HIV,NNRTI,CNS effects;Rash
+nevirapine,HIV,NNRTI,Hepatotoxicity;Rash
+dolutegravir,HIV,Integrase strand transfer inhibitor,Insomnia;Weight gain
+raltegravir,HIV,Integrase strand transfer inhibitor,Myopathy;Headache
+darunavir,HIV,Protease inhibitor,Diarrhea;Rash
+ritonavir,HIV,Protease inhibitor,GI upset;Hyperlipidemia
+lopinavir,HIV,Protease inhibitor,Diarrhea;Hyperlipidemia
+sofosbuvir,Hepatitis C,NS5B polymerase inhibitor,Headache;Fatigue
+ledipasvir,Hepatitis C,NS5A inhibitor,Fatigue;Headache
+velpatasvir,Hepatitis C,NS5A inhibitor,Headache;Nausea
+daclatasvir,Hepatitis C,NS5A inhibitor,Headache;Fatigue
+interferon alfa,Chronic viral hepatitis,Immunomodulator,Flu like symptoms;Depression
+ribavirin hepatitis,Chronic hepatitis C,Antiviral agent,Hemolytic anemia;Fatigue
+voriconazole,Invasive fungal infections,Triazole antifungal,Visual disturbance;Hepatotoxicity
+posaconazole,Invasive fungal infections,Triazole antifungal,GI upset;Headache
+isavuconazole,Invasive fungal infections,Triazole antifungal,Hypokalemia;Nausea
+caspofungin,Invasive fungal infections,Echinocandin,Histamine reactions;GI upset
+micafungin,Invasive fungal infections,Echinocandin,Elevated liver enzymes;Headache
+anidulafungin,Invasive fungal infections,Echinocandin,Infusion reactions;Hypokalemia
+clotrimazole topical,Candidiasis,Imidazole antifungal,Local irritation;Burning
+miconazole topical,Candidiasis,Imidazole antifungal,Burning;Itching
+terbinafine oral,Onychomycosis,Allylamine antifungal,Hepatotoxicity;Taste disturbance
+griseofulvin oral,Dermatophytosis,Antifungal mitotic inhibitor,Photosensitivity;Headache
+nitrofurantoin,Urinary tract infection,Urinary antiseptic,Nausea;Pulmonary toxicity
+fosfomycin,Urinary tract infection,Urinary antiseptic,Diarrhea;Headache
+trimethoprim,Urinary tract infection,Folate antagonist,Rash;Hyperkalemia
+trimethoprim sulfamethoxazole,Urinary tract infection,Folate and sulfonamide combination,Rash;Myelosuppression
+pentamidine,Pneumocystis pneumonia,Antiprotozoal agent,Hypoglycemia;Nephrotoxicity
+metronidazole iv,Anaerobic infections,Nitroimidazole,Metallic taste;Nausea
+tinidazole,Anaerobic infections,Nitroimidazole,Metallic taste;GI upset
+chloroquine,Malaria,Antimalarial,QT prolongation;Retinopathy
+hydroxychloroquine malaria,Malaria and autoimmune disease,Antimalarial,QT prolongation;Retinopathy
+artesunate,Severe malaria,Artemisinin derivative,Hemolysis;Dizziness
+artemether lumefantrine,Malaria,Artemisinin combination,QT prolongation;Headache
+primaquine malaria,Malaria eradication,Antimalarial,Hemolysis;GI upset
+ivermectin mass drug administration,Parasitic infections,Antiparasitic,Dizziness;Pruritus
+diethylcarbamazine,Filariasis,Antiparasitic,Fever;Headache
+acyclovir iv,Severe herpes infections,Antiviral nucleoside analogue,Renal toxicity;Phlebitis
+ganciclovir,CMV infections,Antiviral DNA polymerase inhibitor,Myelosuppression;Renal toxicity
+valganciclovir,CMV infections,Antiviral DNA polymerase inhibitor,Neutropenia;Diarrhea
+famciclovir,Herpes infections,Antiviral nucleoside analogue,Headache;Nausea
+tenofovir,HIV and hepatitis B,NRTI,Renal toxicity;Bone loss
+lamivudine,HIV and hepatitis B,NRTI,Headache;Nausea
+emtricitabine,HIV,NRTI,Hyperpigmentation;Headache
+abacavir,HIV,NRTI,Hypersensitivity reaction;Fever
+efavirenz,HIV,NNRTI,CNS effects;Rash
+nevirapine,HIV,NNRTI,Hepatotoxicity;Rash
+dolutegravir,HIV,Integrase strand transfer inhibitor,Insomnia;Weight gain
+raltegravir,HIV,Integrase strand transfer inhibitor,Myopathy;Headache
+darunavir,HIV,Protease inhibitor,Diarrhea;Rash
+ritonavir,HIV,Protease inhibitor,GI upset;Hyperlipidemia
+lopinavir,HIV,Protease inhibitor,Diarrhea;Hyperlipidemia
+sofosbuvir,Hepatitis C,NS5B polymerase inhibitor,Headache;Fatigue
+ledipasvir,Hepatitis C,NS5A inhibitor,Fatigue;Headache
+velpatasvir,Hepatitis C,NS5A inhibitor,Headache;Nausea
+daclatasvir,Hepatitis C,NS5A inhibitor,Headache;Fatigue
+interferon alfa,Chronic viral hepatitis,Immunomodulator,Flu like symptoms;Depression
+ribavirin hepatitis,Chronic hepatitis C,Antiviral agent,Hemolytic anemia;Fatigue
+voriconazole,Invasive fungal infections,Triazole antifungal,Visual disturbance;Hepatotoxicity
+posaconazole,Invasive fungal infections,Triazole antifungal,GI upset;Headache
+isavuconazole,Invasive fungal infections,Triazole antifungal,Hypokalemia;Nausea
+caspofungin,Invasive fungal infections,Echinocandin,Histamine reactions;GI upset
+micafungin,Invasive fungal infections,Echinocandin,Elevated liver enzymes;Headache
+anidulafungin,Invasive fungal infections,Echinocandin,Infusion reactions;Hypokalemia
+clotrimazole topical,Candidiasis,Imidazole antifungal,Local irritation;Burning
+miconazole topical,Candidiasis,Imidazole antifungal,Burning;Itching
+terbinafine oral,Onychomycosis,Allylamine antifungal,Hepatotoxicity;Taste disturbance
+griseofulvin oral,Dermatophytosis,Antifungal mitotic inhibitor,Photosensitivity;Headache
+nitrofurantoin,Urinary tract infection,Urinary antiseptic,Nausea;Pulmonary toxicity
+fosfomycin,Urinary tract infection,Urinary antiseptic,Diarrhea;Headache
+trimethoprim,Urinary tract infection,Folate antagonist,Rash;Hyperkalemia
+trimethoprim sulfamethoxazole,Urinary tract infection,Folate and sulfonamide combination,Rash;Myelosuppression
+pentamidine,Pneumocystis pneumonia,Antiprotozoal agent,Hypoglycemia;Nephrotoxicity
+metronidazole iv,Anaerobic infections,Nitroimidazole,Metallic taste;Nausea
+tinidazole,Anaerobic infections,Nitroimidazole,Metallic taste;GI upset
+chloroquine,Malaria,Antimalarial,QT prolongation;Retinopathy
+hydroxychloroquine malaria,Malaria and autoimmune disease,Antimalarial,QT prolongation;Retinopathy
+artesunate,Severe malaria,Artemisinin derivative,Hemolysis;Dizziness
+artemether lumefantrine,Malaria,Artemisinin combination,QT prolongation;Headache
+primaquine malaria,Malaria eradication,Antimalarial,Hemolysis;GI upset
+ivermectin mass drug administration,Parasitic infections,Antiparasitic,Dizziness;Pruritus
+diethylcarbamazine,Filariasis,Antiparasitic,Fever;Headache
+epoetin alfa,Anemia of chronic kidney disease,Erythropoiesis stimulating agent,Hypertension;Thrombosis
+darbepoetin alfa,Anemia,Erythropoiesis stimulating agent,Hypertension;Thrombosis
+iron sucrose,Iron deficiency anemia,Parenteral iron,Injection site pain;Hypotension
+ferric carboxymaltose,Iron deficiency anemia,Parenteral iron,Hypophosphatemia;Headache
+deferoxamine,Iron overload,Iron chelator,Hypotension;Visual disturbance
+deferasirox,Iron overload,Iron chelator,Renal toxicity;GI upset
+vitamin b12 hydroxocobalamin,Vitamin B12 deficiency,Vitamin supplement,Injection pain;Headache
+factor viii,Hemophilia A,Clotting factor concentrate,Thrombosis;Allergic reaction
+factor ix,Hemophilia B,Clotting factor concentrate,Thrombosis;Allergic reaction
+desmopressin hematology,Mild hemophilia A,Vasopressin analogue,Hyponatremia;Headache
+tranexamic acid,Bleeding disorders,Antifibrinolytic agent,Nausea;Thrombosis
+aminocaproic acid,Bleeding disorders,Antifibrinolytic agent,Hypotension;Arrhythmia
+fresh frozen plasma,Coagulation factor replacement,Blood product,Transfusion reaction;Volume overload
+packed red blood cells,Anemia,Blood product,Transfusion reaction;Iron overload
+platelet concentrate,Thrombocytopenia,Blood product,Febrile reaction;Alloimmunization
+hydroxyurea,Sickle cell disease and cancer,Antimetabolite,Myelosuppression;GI upset
+l glutamine sickle cell,Sickle cell disease,Amino acid therapy,Constipation;Nausea
+eculizumab,Paroxysmal nocturnal hemoglobinuria,Complement inhibitor,Infections;Headache
+ravulizumab,Paroxysmal nocturnal hemoglobinuria,Complement inhibitor,Infections;Headache
+imiglucerase,Gaucher disease,Enzyme replacement therapy,Infusion reactions;Fever
+velaglucerase alfa,Gaucher disease,Enzyme replacement therapy,Infusion reactions;Headache
+agalsidase beta,Fabry disease,Enzyme replacement therapy,Infusion reactions;Chills
+nusinersen,Spinal muscular atrophy,Antisense oligonucleotide,Headache;Back pain
+onasemnogene abeparvovec,Spinal muscular atrophy,Gene therapy,Hepatotoxicity;Vomiting
+ivacaftor,Cystic fibrosis,CFTR potentiator,Headache;Upper respiratory infection
+lumacaftor ivacaftor,Cystic fibrosis,CFTR modulator,Chest tightness;Dyspnea
+ataluren,Duchenne muscular dystrophy,Read through therapy,Headache;Nausea
+miglustat,Gaucher disease,Substrate reduction therapy,Diarrhea;Weight loss
+sapropterin,Phenylketonuria,Tetrahydrobiopterin analogue,Headache;Rhinorrhea
+nitisinone,Hereditary tyrosinemia type I,Tyrosine metabolism inhibitor,Photophobia;Elevated tyrosine
+carglumic acid,Hyperammonemia,Urea cycle modulator,Vomiting;GI upset
+sodium phenylbutyrate,Urea cycle disorders,Ammonia scavenger,Nausea;Body odor
+arginine,Metabolic disorders,Amino acid supplement,GI upset;Hyperkalemia
+cysteamine,Cystinosis,Depleting agent,GI upset;Halitosis
+l carnitine,Primary carnitine deficiency,Metabolic supplement,Diarrhea;Fishy odor
+epoetin alfa,Anemia of chronic kidney disease,Erythropoiesis stimulating agent,Hypertension;Thrombosis
+darbepoetin alfa,Anemia,Erythropoiesis stimulating agent,Hypertension;Thrombosis
+iron sucrose,Iron deficiency anemia,Parenteral iron,Injection site pain;Hypotension
+ferric carboxymaltose,Iron deficiency anemia,Parenteral iron,Hypophosphatemia;Headache
+deferoxamine,Iron overload,Iron chelator,Hypotension;Visual disturbance
+deferasirox,Iron overload,Iron chelator,Renal toxicity;GI upset
+vitamin b12 hydroxocobalamin,Vitamin B12 deficiency,Vitamin supplement,Injection pain;Headache
+factor viii,Hemophilia A,Clotting factor concentrate,Thrombosis;Allergic reaction
+factor ix,Hemophilia B,Clotting factor concentrate,Thrombosis;Allergic reaction
+desmopressin hematology,Mild hemophilia A,Vasopressin analogue,Hyponatremia;Headache
+tranexamic acid,Bleeding disorders,Antifibrinolytic agent,Nausea;Thrombosis
+aminocaproic acid,Bleeding disorders,Antifibrinolytic agent,Hypotension;Arrhythmia
+fresh frozen plasma,Coagulation factor replacement,Blood product,Transfusion reaction;Volume overload
+packed red blood cells,Anemia,Blood product,Transfusion reaction;Iron overload
+platelet concentrate,Thrombocytopenia,Blood product,Febrile reaction;Alloimmunization
+hydroxyurea,Sickle cell disease and cancer,Antimetabolite,Myelosuppression;GI upset
+l glutamine sickle cell,Sickle cell disease,Amino acid therapy,Constipation;Nausea
+eculizumab,Paroxysmal nocturnal hemoglobinuria,Complement inhibitor,Infections;Headache
+ravulizumab,Paroxysmal nocturnal hemoglobinuria,Complement inhibitor,Infections;Headache
+imiglucerase,Gaucher disease,Enzyme replacement therapy,Infusion reactions;Fever
+velaglucerase alfa,Gaucher disease,Enzyme replacement therapy,Infusion reactions;Headache
+agalsidase beta,Fabry disease,Enzyme replacement therapy,Infusion reactions;Chills
+nusinersen,Spinal muscular atrophy,Antisense oligonucleotide,Headache;Back pain
+onasemnogene abeparvovec,Spinal muscular atrophy,Gene therapy,Hepatotoxicity;Vomiting
+ivacaftor,Cystic fibrosis,CFTR potentiator,Headache;Upper respiratory infection
+lumacaftor ivacaftor,Cystic fibrosis,CFTR modulator,Chest tightness;Dyspnea
+ataluren,Duchenne muscular dystrophy,Read through therapy,Headache;Nausea
+miglustat,Gaucher disease,Substrate reduction therapy,Diarrhea;Weight loss
+sapropterin,Phenylketonuria,Tetrahydrobiopterin analogue,Headache;Rhinorrhea
+nitisinone,Hereditary tyrosinemia type I,Tyrosine metabolism inhibitor,Photophobia;Elevated tyrosine
+carglumic acid,Hyperammonemia,Urea cycle modulator,Vomiting;GI upset
+sodium phenylbutyrate,Urea cycle disorders,Ammonia scavenger,Nausea;Body odor
+arginine,Metabolic disorders,Amino acid supplement,GI upset;Hyperkalemia
+cysteamine,Cystinosis,Depleting agent,GI upset;Halitosis
+l carnitine,Primary carnitine deficiency,Metabolic supplement,Diarrhea;Fishy odor
+acetaminophen iv,Postoperative pain,Analgesic,Nausea;Elevated liver enzymes
+parecoxib,Postoperative pain,COX 2 selective NSAID,Injection site pain;Hypertension
+tapentadol,Moderate to severe pain,Opioid and NRI,Nausea;Dizziness
+hydromorphone,Severe pain,Strong opioid,Respiratory depression;Constipation
+oxycodone,Severe pain,Strong opioid,Nausea;Constipation
+methadone,Chronic pain and opioid dependence,Long acting opioid,QT prolongation;Sedation
+buprenorphine patch,Chronic pain,Partial opioid agonist,Nausea;Dizziness
+nalbuphine,Moderate to severe pain,Opioid agonist antagonist,Sedation;Nausea
+dexmedetomidine,ICU sedation,Alpha 2 agonist,Bradycardia;Hypotension
+ketorolac iv,Acute postoperative pain,NSAID,GI bleeding;Renal impairment
+gabapentin pain,Neuropathic pain,GABA analogue,Dizziness;Somnolence
+pregabalin pain,Neuropathic pain,GABA analogue,Weight gain;Edema
+duloxetine pain,Neuropathic pain,SNRI,Nausea;Dry mouth
+amitriptyline pain,Neuropathic pain,Tricyclic antidepressant,Drowsiness;Dry mouth
+lidocaine patch,Localized neuropathic pain,Local anesthetic,Skin irritation;Numbness
+capsaicin topical,Neuropathic pain,TRPV1 agonist,Burning sensation;Irritation
+fentanyl patch,Chronic cancer pain,Strong opioid,Respiratory depression;Constipation
+morphine oral solution,Palliative pain,Strong opioid,Sedation;Constipation
+haloperidol palliative,Delirium and agitation,Typical antipsychotic,Extrapyramidal symptoms;Sedation
+quetiapine palliative,Delirium and agitation,Atypical antipsychotic,Sedation;Hypotension
+midazolam palliative,Terminal agitation,Benzodiazepine,Respiratory depression;Sedation
+lorazepam palliative,Anxiety in palliative care,Benzodiazepine,Sedation;Dependence
+metoclopramide palliative,Nausea in palliative care,Dopamine antagonist,Extrapyramidal symptoms;Diarrhea
+ondansetron palliative,Nausea in palliative care,5 HT3 antagonist,Headache;Constipation
+glycopyrrolate palliative,Terminal secretions,Antimuscarinic,Dry mouth;Tachycardia
+scopolamine patch,Motion sickness and secretions,Antimuscarinic,Dry mouth;Blurred vision
+senna palliative,Opioid induced constipation,Stimulant laxative,Abdominal cramps;Diarrhea
+methylnaltrexone,Opioid induced constipation,Peripheral opioid antagonist,Abdominal pain;Diarrhea
+megestrol acetate,Cancer related cachexia,Progestational agent,Weight gain;Thromboembolism
+dronabinol,Appetite stimulation and nausea,Cannabinoid,Dizziness;Euphoria
+bisacodyl suppository,Constipation in geriatrics,Stimulant laxative,Rectal irritation;Cramping
+acetaminophen iv,Postoperative pain,Analgesic,Nausea;Elevated liver enzymes
+parecoxib,Postoperative pain,COX 2 selective NSAID,Injection site pain;Hypertension
+tapentadol,Moderate to severe pain,Opioid and NRI,Nausea;Dizziness
+hydromorphone,Severe pain,Strong opioid,Respiratory depression;Constipation
+oxycodone,Severe pain,Strong opioid,Nausea;Constipation
+methadone,Chronic pain and opioid dependence,Long acting opioid,QT prolongation;Sedation
+buprenorphine patch,Chronic pain,Partial opioid agonist,Nausea;Dizziness
+nalbuphine,Moderate to severe pain,Opioid agonist antagonist,Sedation;Nausea
+dexmedetomidine,ICU sedation,Alpha 2 agonist,Bradycardia;Hypotension
+ketorolac iv,Acute postoperative pain,NSAID,GI bleeding;Renal impairment
+gabapentin pain,Neuropathic pain,GABA analogue,Dizziness;Somnolence
+pregabalin pain,Neuropathic pain,GABA analogue,Weight gain;Edema
+duloxetine pain,Neuropathic pain,SNRI,Nausea;Dry mouth
+amitriptyline pain,Neuropathic pain,Tricyclic antidepressant,Drowsiness;Dry mouth
+lidocaine patch,Localized neuropathic pain,Local anesthetic,Skin irritation;Numbness
+capsaicin topical,Neuropathic pain,TRPV1 agonist,Burning sensation;Irritation
+fentanyl patch,Chronic cancer pain,Strong opioid,Respiratory depression;Constipation
+morphine oral solution,Palliative pain,Strong opioid,Sedation;Constipation
+haloperidol palliative,Delirium and agitation,Typical antipsychotic,Extrapyramidal symptoms;Sedation
+quetiapine palliative,Delirium and agitation,Atypical antipsychotic,Sedation;Hypotension
+midazolam palliative,Terminal agitation,Benzodiazepine,Respiratory depression;Sedation
+lorazepam palliative,Anxiety in palliative care,Benzodiazepine,Sedation;Dependence
+metoclopramide palliative,Nausea in palliative care,Dopamine antagonist,Extrapyramidal symptoms;Diarrhea
+ondansetron palliative,Nausea in palliative care,5 HT3 antagonist,Headache;Constipation
+glycopyrrolate palliative,Terminal secretions,Antimuscarinic,Dry mouth;Tachycardia
+scopolamine patch,Motion sickness and secretions,Antimuscarinic,Dry mouth;Blurred vision
+senna palliative,Opioid induced constipation,Stimulant laxative,Abdominal cramps;Diarrhea
+methylnaltrexone,Opioid induced constipation,Peripheral opioid antagonist,Abdominal pain;Diarrhea
+megestrol acetate,Cancer related cachexia,Progestational agent,Weight gain;Thromboembolism
+dronabinol,Appetite stimulation and nausea,Cannabinoid,Dizziness;Euphoria
+bisacodyl suppository,Constipation in geriatrics,Stimulant laxative,Rectal irritation;Cramping
+
+lactobacillus probiotic,Gut health and diarrhea,Probiotic,Bloating;Gas
+saccharomyces boulardii,Antibiotic associated diarrhea,Probiotic,Bloating;Constipation
+bifidobacterium probiotic,IBS and gut health,Probiotic,Flatulence;Bloating
+psyllium fiber,Constipation and IBS,Dietary fiber,Bloating;Abdominal cramps
+inulin fiber,Prebiotic support,Prebiotic fiber,Gas;Bloating
+whey protein,Nutritional supplementation,Protein supplement,Bloating;GI upset
+soy protein,Nutritional supplementation,Protein supplement,Flatulence;Allergy
+casein protein,Muscle nutrition,Protein supplement,Bloating;Constipation
+creatine monohydrate,Muscle performance,Nutraceutical,Weight gain;Muscle cramps
+l carnitine supplement,Fat metabolism,Nutraceutical,Nausea;Fishy odor
+glutamine supplement,Gut and muscle support,Amino acid supplement,Nausea;Bloating
+arginine supplement,Nitric oxide support,Amino acid supplement,Hypotension;GI upset
+branched chain amino acids,Muscle recovery,Amino acid supplement,Nausea;Fatigue
+omega 3 fish oil,Cardiovascular health,Nutraceutical,GI upset;Fishy aftertaste
+evening primrose oil,Premenstrual syndrome,Herbal oil,Nausea;Headache
+garlic extract,Hyperlipidemia and immunity,Herbal supplement,GI upset;Odor
+ginger extract,Nausea and dyspepsia,Herbal supplement,Heartburn;Diarrhea
+turmeric curcumin,Anti inflammatory support,Herbal supplement,GI upset;Headache
+ashwagandha,Stress and anxiety,Herbal adaptogen,Drowsiness;GI upset
+ginseng extract,Fatigue and vitality,Herbal adaptogen,Insomnia;Headache
+ginkgo biloba,Cognitive support,Herbal supplement,Headache;Bleeding risk
+saw palmetto,Benign prostatic hyperplasia,Herbal supplement,GI upset;Headache
+milk thistle,Liver support,Herbal supplement,Diarrhea;Bloating
+aloe vera oral,Constipation and gut health,Herbal laxative,Abdominal cramps;Diarrhea
+peppermint oil,IBS and dyspepsia,Herbal oil,Heartburn;Nausea
+chamomile extract,Anxiety and sleep aid,Herbal supplement,Drowsiness;Allergy
+valerian root,Insomnia,Herbal sedative,Drowsiness;Headache
+echinacea,Common cold prevention,Herbal immunostimulant,Nausea;Rash
+spirulina,Nutritional support,Algal supplement,Nausea;Headache
+chlorella,Nutritional detox support,Algal supplement,Bloating;Diarrhea
+coenzyme q10 supplement,Cardiac and mitochondrial support,Nutraceutical,GI upset;Headache
+resveratrol,Antioxidant support,Nutraceutical,GI upset;Diarrhea
+alpha lipoic acid,Diabetic neuropathy,Nutraceutical,Nausea;Skin rash
+chromium picolinate,Glucose metabolism,Nutraceutical,Hypoglycemia;GI upset
+magnesium citrate supplement,Magnesium deficiency,Mineral supplement,Diarrhea;Abdominal cramps
+zinc gluconate supplement,Zinc deficiency,Mineral supplement,Nausea;Metallic taste
+selenium supplement,Selenium deficiency,Mineral supplement,Nausea;Hair loss
+iodine supplement,Iodine deficiency,Mineral supplement,GI irritation;Metallic taste
+lactobacillus probiotic,Gut health and diarrhea,Probiotic,Bloating;Gas
+saccharomyces boulardii,Antibiotic associated diarrhea,Probiotic,Bloating;Constipation
+bifidobacterium probiotic,IBS and gut health,Probiotic,Flatulence;Bloating
+psyllium fiber,Constipation and IBS,Dietary fiber,Bloating;Abdominal cramps
+inulin fiber,Prebiotic support,Prebiotic fiber,Gas;Bloating
+whey protein,Nutritional supplementation,Protein supplement,Bloating;GI upset
+soy protein,Nutritional supplementation,Protein supplement,Flatulence;Allergy
+casein protein,Muscle nutrition,Protein supplement,Bloating;Constipation
+creatine monohydrate,Muscle performance,Nutraceutical,Weight gain;Muscle cramps
+l carnitine supplement,Fat metabolism,Nutraceutical,Nausea;Fishy odor
+glutamine supplement,Gut and muscle support,Amino acid supplement,Nausea;Bloating
+arginine supplement,Nitric oxide support,Amino acid supplement,Hypotension;GI upset
+branched chain amino acids,Muscle recovery,Amino acid supplement,Nausea;Fatigue
+omega 3 fish oil,Cardiovascular health,Nutraceutical,GI upset;Fishy aftertaste
+evening primrose oil,Premenstrual syndrome,Herbal oil,Nausea;Headache
+garlic extract,Hyperlipidemia and immunity,Herbal supplement,GI upset;Odor
+ginger extract,Nausea and dyspepsia,Herbal supplement,Heartburn;Diarrhea
+turmeric curcumin,Anti inflammatory support,Herbal supplement,GI upset;Headache
+ashwagandha,Stress and anxiety,Herbal adaptogen,Drowsiness;GI upset
+ginseng extract,Fatigue and vitality,Herbal adaptogen,Insomnia;Headache
+ginkgo biloba,Cognitive support,Herbal supplement,Headache;Bleeding risk
+saw palmetto,Benign prostatic hyperplasia,Herbal supplement,GI upset;Headache
+milk thistle,Liver support,Herbal supplement,Diarrhea;Bloating
+aloe vera oral,Constipation and gut health,Herbal laxative,Abdominal cramps;Diarrhea
+peppermint oil,IBS and dyspepsia,Herbal oil,Heartburn;Nausea
+chamomile extract,Anxiety and sleep aid,Herbal supplement,Drowsiness;Allergy
+valerian root,Insomnia,Herbal sedative,Drowsiness;Headache
+echinacea,Common cold prevention,Herbal immunostimulant,Nausea;Rash
+spirulina,Nutritional support,Algal supplement,Nausea;Headache
+chlorella,Nutritional detox support,Algal supplement,Bloating;Diarrhea
+coenzyme q10 supplement,Cardiac and mitochondrial support,Nutraceutical,GI upset;Headache
+resveratrol,Antioxidant support,Nutraceutical,GI upset;Diarrhea
+alpha lipoic acid,Diabetic neuropathy,Nutraceutical,Nausea;Skin rash
+chromium picolinate,Glucose metabolism,Nutraceutical,Hypoglycemia;GI upset
+magnesium citrate supplement,Magnesium deficiency,Mineral supplement,Diarrhea;Abdominal cramps
+zinc gluconate supplement,Zinc deficiency,Mineral supplement,Nausea;Metallic taste
+selenium supplement,Selenium deficiency,Mineral supplement,Nausea;Hair loss
+iodine supplement,Iodine deficiency,Mineral supplement,GI irritation;Metallic taste
+bcg vaccine,Tuberculosis prevention,Vaccine,Injection site ulcer;Fever
+oral polio vaccine,Polio prevention,Vaccine,Mild diarrhea;Fever
+inactivated polio vaccine,Polio prevention,Vaccine,Injection site pain;Fever
+measles vaccine,Measles prevention,Vaccine,Rash;Fever
+mumps vaccine,Mumps prevention,Vaccine,Fever;Parotitis
+rubella vaccine,Rubella prevention,Vaccine,Rash;Arthralgia
+mmr vaccine,Measles mumps rubella prevention,Vaccine,Fever;Rash
+varicella vaccine,Chickenpox prevention,Vaccine,Rash;Fever
+hepatitis a vaccine,Hepatitis A prevention,Vaccine,Injection site pain;Fatigue
+human papillomavirus vaccine,Cervical cancer prevention,Vaccine,Injection site pain;Syncope
+pneumococcal conjugate vaccine,Pneumococcal disease prevention,Vaccine,Fever;Irritability
+pneumococcal polysaccharide vaccine,Pneumococcal disease prevention,Vaccine,Injection site pain;Fever
+meningococcal vaccine,Meningococcal disease prevention,Vaccine,Headache;Fever
+japanese encephalitis vaccine,Japanese encephalitis prevention,Vaccine,Headache;Fever
+yellow fever vaccine,Yellow fever prevention,Vaccine,Fever;Myalgia
+typhoid polysaccharide vaccine,Typhoid fever prevention,Vaccine,Injection site pain;Fever
+typhoid conjugate vaccine,Typhoid fever prevention,Vaccine,Fever;Injection site pain
+cholera vaccine,Cholera prevention,Vaccine,Abdominal discomfort;Diarrhea
+rotavirus vaccine,Rotavirus diarrhea prevention,Vaccine,Diarrhea;Irritability
+dengue vaccine,Dengue prevention,Vaccine,Headache;Myalgia
+malaria vaccine,Malaria prevention,Vaccine,Fever;Injection site pain
+covid 19 booster,Coronavirus disease prevention,Vaccine,Fever;Myalgia
+rabies immunoglobulin,Rabies post exposure prophylaxis,Immunoglobulin,Injection site pain;Allergic reaction
+tetanus immunoglobulin,Tetanus post exposure prophylaxis,Immunoglobulin,Injection site pain;Fever
+hepatitis b immunoglobulin,Hepatitis B post exposure prophylaxis,Immunoglobulin,Injection site pain;Headache
+palivizumab,RSV prevention,Monoclonal antibody,Injection site reactions;Fever
+varicella zoster immunoglobulin,Varicella exposure prophylaxis,Immunoglobulin,Injection site pain;Fever
+interferon beta,Multiple sclerosis,Immunomodulator,Flu like symptoms;Depression
+interferon gamma,Chronic granulomatous disease,Immunomodulator,Fever;Fatigue
+pegfilgrastim,Neutropenia prophylaxis,Colony stimulating factor,Bone pain;Leukocytosis
+filgrastim,Neutropenia,Colony stimulating factor,Bone pain;Fever
+sargramostim,Myeloid recovery,Colony stimulating factor,Fever;Edema
+romiplostim,Immune thrombocytopenia,Thrombopoietin receptor agonist,Headache;Thrombosis
+eltrombopag,Immune thrombocytopenia,Thrombopoietin receptor agonist,Hepatotoxicity;Thrombosis
+pentamidine isethionate,Visceral leishmaniasis and PCP,Antiprotozoal agent,Hypoglycemia;Nephrotoxicity
+amphotericin b liposomal,Visceral leishmaniasis and fungal infections,Polyene antifungal,Nephrotoxicity;Infusion reactions
+miltefosine,Leishmaniasis,Antiprotozoal agent,GI upset;Teratogenicity
+sodium stibogluconate,Leishmaniasis,Antimonial compound,Cardiotoxicity;Pancreatitis
+benznidazole,Chagas disease,Antitrypanosomal agent,Peripheral neuropathy;Rash
+nifurtimox,Chagas disease,Antitrypanosomal agent,GI upset;Neuropathy
+melarsoprol,African trypanosomiasis,Arsenical antiprotozoal,Encephalopathy;Cardiotoxicity
+eflornithine,African trypanosomiasis,Ornithine decarboxylase inhibitor,Myelosuppression;Diarrhea
+ivermectin onchocerciasis,Onchocerciasis,Antiparasitic,Dizziness;Pruritus
+diethylcarbamazine filariasis,Filariasis,Antiparasitic,Fever;Headache
+praziquantel schistosomiasis,Schistosomiasis,Anthelmintic,Dizziness;Abdominal pain
+niclosamide,Tapeworm infections,Anthelmintic,GI upset;Abdominal pain
+albendazole hydatid disease,Hydatid disease,Anthelmintic,Hepatotoxicity;GI upset
+mebendazole ascariasis,Ascariasis,Anthelmintic,Abdominal pain;Diarrhea
+doxycycline leptospirosis,Leptospirosis,Tetracycline antibiotic,Photosensitivity;GI upset
+penicillin g leptospirosis,Leptospirosis,Beta lactam antibiotic,Allergic reactions;Seizures
+streptomycin plague,Plague,Aminoglycoside,Ototoxicity;Nephrotoxicity
+gentamicin plague,Plague,Aminoglycoside,Nephrotoxicity;Ototoxicity
+ciprofloxacin anthrax,Anthrax,Fluoroquinolone,Tendonitis;GI upset
+doxycycline anthrax,Anthrax,Tetracycline antibiotic,Photosensitivity;GI upset
+rifampicin brucellosis,Brucellosis,Rifamycin,Hepatotoxicity;Orange discoloration
+doxycycline brucellosis,Brucellosis,Tetracycline antibiotic,Photosensitivity;GI upset
+streptomycin brucellosis,Brucellosis,Aminoglycoside,Ototoxicity;Nephrotoxicity
+chloramphenicol typhoid,Typhoid fever,Broad spectrum antibiotic,Aplastic anemia;Gray baby syndrome
+azithromycin typhoid,Typhoid fever,Macrolide,QT prolongation;GI upset
+ceftriaxone typhoid,Typhoid fever,Third generation cephalosporin,Injection pain;Diarrhea
+ribavirin lassa fever,Lassa fever,Antiviral agent,Hemolytic anemia;Fatigue
+favipiravir,Emerging viral infections,RNA polymerase inhibitor,Hyperuricemia;GI upset
+remdesivir,COVID 19 and viral infections,Antiviral nucleotide analogue,Elevated liver enzymes;Nausea
+oseltamivir avian influenza,Avian influenza,Neuraminidase inhibitor,Nausea;Vomiting
+zanamivir influenza,Influenza,Neuraminidase inhibitor,Bronchospasm;Cough
+baloxavir marboxil,Influenza,Cap dependent endonuclease inhibitor,Diarrhea;Headache
+rifabutin,Mycobacterial infections,Rifamycin,Uveitis;Neutropenia
+clofazimine,Leprosy,Antimycobacterial,Skin discoloration;GI upset
+dapsone,Leprosy and dermatitis herpetiformis,Sulfone antibiotic,Hemolysis;Methemoglobinemia
+thalidomide leprosy,Leprosy reactions,Immunomodulator,Teratogenicity;Peripheral neuropathy
+linezolid resistant tb,Drug resistant tuberculosis,Oxazolidinone,Myelosuppression;Neuropathy
+bedaquiline resistant tb,Drug resistant tuberculosis,ATP synthase inhibitor,QT prolongation;Hepatotoxicity
+delamanid resistant tb,Drug resistant tuberculosis,Nitroimidazole derivative,QT prolongation;Nausea
+pentamidine isethionate,Visceral leishmaniasis and PCP,Antiprotozoal agent,Hypoglycemia;Nephrotoxicity
+amphotericin b liposomal,Visceral leishmaniasis and fungal infections,Polyene antifungal,Nephrotoxicity;Infusion reactions
+miltefosine,Leishmaniasis,Antiprotozoal agent,GI upset;Teratogenicity
+sodium stibogluconate,Leishmaniasis,Antimonial compound,Cardiotoxicity;Pancreatitis
+benznidazole,Chagas disease,Antitrypanosomal agent,Peripheral neuropathy;Rash
+nifurtimox,Chagas disease,Antitrypanosomal agent,GI upset;Neuropathy
+melarsoprol,African trypanosomiasis,Arsenical antiprotozoal,Encephalopathy;Cardiotoxicity
+eflornithine,African trypanosomiasis,Ornithine decarboxylase inhibitor,Myelosuppression;Diarrhea
+ivermectin onchocerciasis,Onchocerciasis,Antiparasitic,Dizziness;Pruritus
+diethylcarbamazine filariasis,Filariasis,Antiparasitic,Fever;Headache
+praziquantel schistosomiasis,Schistosomiasis,Anthelmintic,Dizziness;Abdominal pain
+niclosamide,Tapeworm infections,Anthelmintic,GI upset;Abdominal pain
+albendazole hydatid disease,Hydatid disease,Anthelmintic,Hepatotoxicity;GI upset
+mebendazole ascariasis,Ascariasis,Anthelmintic,Abdominal pain;Diarrhea
+doxycycline leptospirosis,Leptospirosis,Tetracycline antibiotic,Photosensitivity;GI upset
+penicillin g leptospirosis,Leptospirosis,Beta lactam antibiotic,Allergic reactions;Seizures
+streptomycin plague,Plague,Aminoglycoside,Ototoxicity;Nephrotoxicity
+gentamicin plague,Plague,Aminoglycoside,Nephrotoxicity;Ototoxicity
+ciprofloxacin anthrax,Anthrax,Fluoroquinolone,Tendonitis;GI upset
+doxycycline anthrax,Anthrax,Tetracycline antibiotic,Photosensitivity;GI upset
+rifampicin brucellosis,Brucellosis,Rifamycin,Hepatotoxicity;Orange discoloration
+doxycycline brucellosis,Brucellosis,Tetracycline antibiotic,Photosensitivity;GI upset
+streptomycin brucellosis,Brucellosis,Aminoglycoside,Ototoxicity;Nephrotoxicity
+chloramphenicol typhoid,Typhoid fever,Broad spectrum antibiotic,Aplastic anemia;Gray baby syndrome
+azithromycin typhoid,Typhoid fever,Macrolide,QT prolongation;GI upset
+ceftriaxone typhoid,Typhoid fever,Third generation cephalosporin,Injection pain;Diarrhea
+ribavirin lassa fever,Lassa fever,Antiviral agent,Hemolytic anemia;Fatigue
+favipiravir,Emerging viral infections,RNA polymerase inhibitor,Hyperuricemia;GI upset
+remdesivir,COVID 19 and viral infections,Antiviral nucleotide analogue,Elevated liver enzymes;Nausea
+oseltamivir avian influenza,Avian influenza,Neuraminidase inhibitor,Nausea;Vomiting
+zanamivir influenza,Influenza,Neuraminidase inhibitor,Bronchospasm;Cough
+baloxavir marboxil,Influenza,Cap dependent endonuclease inhibitor,Diarrhea;Headache
+rifabutin,Mycobacterial infections,Rifamycin,Uveitis;Neutropenia
+clofazimine,Leprosy,Antimycobacterial,Skin discoloration;GI upset
+dapsone,Leprosy and dermatitis herpetiformis,Sulfone antibiotic,Hemolysis;Methemoglobinemia
+thalidomide leprosy,Leprosy reactions,Immunomodulator,Teratogenicity;Peripheral neuropathy
+linezolid resistant tb,Drug resistant tuberculosis,Oxazolidinone,Myelosuppression;Neuropathy
+bedaquiline resistant tb,Drug resistant tuberculosis,ATP synthase inhibitor,QT prolongation;Hepatotoxicity
+delamanid resistant tb,Drug resistant tuberculosis,Nitroimidazole derivative,QT prolongation;Nausea
+pentamidine isethionate,Visceral leishmaniasis and PCP,Antiprotozoal agent,Hypoglycemia;Nephrotoxicity
+amphotericin b liposomal,Visceral leishmaniasis and fungal infections,Polyene antifungal,Nephrotoxicity;Infusion reactions
+miltefosine,Leishmaniasis,Antiprotozoal agent,GI upset;Teratogenicity
+sodium stibogluconate,Leishmaniasis,Antimonial compound,Cardiotoxicity;Pancreatitis
+benznidazole,Chagas disease,Antitrypanosomal agent,Peripheral neuropathy;Rash
+nifurtimox,Chagas disease,Antitrypanosomal agent,GI upset;Neuropathy
+melarsoprol,African trypanosomiasis,Arsenical antiprotozoal,Encephalopathy;Cardiotoxicity
+eflornithine,African trypanosomiasis,Ornithine decarboxylase inhibitor,Myelosuppression;Diarrhea
+ivermectin onchocerciasis,Onchocerciasis,Antiparasitic,Dizziness;Pruritus
+diethylcarbamazine filariasis,Filariasis,Antiparasitic,Fever;Headache
+praziquantel schistosomiasis,Schistosomiasis,Anthelmintic,Dizziness;Abdominal pain
+niclosamide,Tapeworm infections,Anthelmintic,GI upset;Abdominal pain
+albendazole hydatid disease,Hydatid disease,Anthelmintic,Hepatotoxicity;GI upset
+mebendazole ascariasis,Ascariasis,Anthelmintic,Abdominal pain;Diarrhea
+doxycycline leptospirosis,Leptospirosis,Tetracycline antibiotic,Photosensitivity;GI upset
+penicillin g leptospirosis,Leptospirosis,Beta lactam antibiotic,Allergic reactions;Seizures
+streptomycin plague,Plague,Aminoglycoside,Ototoxicity;Nephrotoxicity
+gentamicin plague,Plague,Aminoglycoside,Nephrotoxicity;Ototoxicity
+ciprofloxacin anthrax,Anthrax,Fluoroquinolone,Tendonitis;GI upset
+doxycycline anthrax,Anthrax,Tetracycline antibiotic,Photosensitivity;GI upset
+rifampicin brucellosis,Brucellosis,Rifamycin,Hepatotoxicity;Orange discoloration
+doxycycline brucellosis,Brucellosis,Tetracycline antibiotic,Photosensitivity;GI upset
+streptomycin brucellosis,Brucellosis,Aminoglycoside,Ototoxicity;Nephrotoxicity
+chloramphenicol typhoid,Typhoid fever,Broad spectrum antibiotic,Aplastic anemia;Gray baby syndrome
+azithromycin typhoid,Typhoid fever,Macrolide,QT prolongation;GI upset
+ceftriaxone typhoid,Typhoid fever,Third generation cephalosporin,Injection pain;Diarrhea
+ribavirin lassa fever,Lassa fever,Antiviral agent,Hemolytic anemia;Fatigue
+favipiravir,Emerging viral infections,RNA polymerase inhibitor,Hyperuricemia;GI upset
+remdesivir,COVID 19 and viral infections,Antiviral nucleotide analogue,Elevated liver enzymes;Nausea
+oseltamivir avian influenza,Avian influenza,Neuraminidase inhibitor,Nausea;Vomiting
+zanamivir influenza,Influenza,Neuraminidase inhibitor,Bronchospasm;Cough
+baloxavir marboxil,Influenza,Cap dependent endonuclease inhibitor,Diarrhea;Headache
+rifabutin,Mycobacterial infections,Rifamycin,Uveitis;Neutropenia
+clofazimine,Leprosy,Antimycobacterial,Skin discoloration;GI upset
+dapsone,Leprosy and dermatitis herpetiformis,Sulfone antibiotic,Hemolysis;Methemoglobinemia
+thalidomide leprosy,Leprosy reactions,Immunomodulator,Teratogenicity;Peripheral neuropathy
+linezolid resistant tb,Drug resistant tuberculosis,Oxazolidinone,Myelosuppression;Neuropathy
+bedaquiline resistant tb,Drug resistant tuberculosis,ATP synthase inhibitor,QT prolongation;Hepatotoxicity
+delamanid resistant tb,Drug resistant tuberculosis,Nitroimidazole derivative,QT prolongation;Nausea
+vasopressin,Septic shock and diabetes insipidus,Vasopressor,Hyponatremia;Ischemia
+phenylephrine,Hypotension,Alpha 1 agonist,Reflex bradycardia;Hypertension
+milrinone,Acute heart failure,PDE 3 inhibitor,Arrhythmia;Hypotension
+levosimendan,Acute decompensated heart failure,Calcium sensitizer,Hypotension;Headache
+nitroglycerin iv,Acute coronary syndrome,Organic nitrate,Headache;Hypotension
+isosorbide dinitrate iv,Heart failure,Organic nitrate,Headache;Flushing
+nicardipine iv,Hypertensive emergency,Calcium channel blocker,Hypotension;Tachycardia
+clevidipine,Hypertensive emergency,Dihydropyridine calcium channel blocker,Hypotension;Reflex tachycardia
+dextran,Hypovolemia,Plasma volume expander,Anaphylaxis;Bleeding
+albumin human,Hypoalbuminemia and shock,Plasma protein,Volume overload;Allergic reaction
+hydroxyethyl starch,Hypovolemia,Colloid solution,Renal impairment;Bleeding
+mannitol dialysis,Acute kidney injury,Osmotic diuretic,Electrolyte imbalance;Dehydration
+dopamine renal dose,Renal perfusion support,Adrenergic agonist,Arrhythmia;Nausea
+epoetin beta dialysis,Anemia in dialysis,Erythropoiesis stimulating agent,Hypertension;Thrombosis
+sevelamer carbonate,Hyperphosphatemia in CKD,Phosphate binder,GI upset;Constipation
+calcium acetate,Hyperphosphatemia in CKD,Phosphate binder,Hypercalcemia;Constipation
+lanthanum carbonate,Hyperphosphatemia in CKD,Phosphate binder,Nausea;Abdominal pain
+cinacalcet,Secondary hyperparathyroidism,Calcimimetic,Hypocalcemia;Nausea
+paricalcitol,Secondary hyperparathyroidism,Vitamin D analogue,Hypercalcemia;Pruritus
+iron sucrose dialysis,Iron deficiency in CKD,Parenteral iron,Hypotension;Injection site pain
+ferric gluconate,Iron deficiency in CKD,Parenteral iron,Hypotension;Nausea
+contrast iodinated,Diagnostic imaging,Iodinated contrast agent,Contrast nephropathy;Allergic reaction
+gadopentetate dimeglumine,Magnetic resonance imaging,Gadolinium contrast agent,Nephrogenic systemic fibrosis;Nausea
+iohexol,CT imaging,Iodinated contrast agent,Contrast nephropathy;Warm sensation
+iopamidol,CT imaging,Iodinated contrast agent,Allergic reaction;Nausea
+propofol infusion syndrome,ICU sedation complication,Anesthetic complication,Metabolic acidosis;Cardiac failure
+fentanyl infusion,ICU analgesia,Opioid analgesic,Respiratory depression;Chest wall rigidity
+remifentanil,ICU analgesia,Ultra short acting opioid,Respiratory depression;Hypotension
+cisatracurium,Mechanical ventilation,Non depolarizing neuromuscular blocker,Prolonged paralysis;Hypotension
+atracurium,Muscle relaxation,Non depolarizing neuromuscular blocker,Histamine release;Hypotension
+rocuronium,Rapid sequence intubation,Non depolarizing neuromuscular blocker,Prolonged paralysis;Tachycardia
+sugammadex,Reversal of neuromuscular blockade,Selective relaxant binding agent,Bradycardia;Hypersensitivity
+continuous insulin infusion,ICU glycemic control,Insulin therapy,Hypoglycemia;Hypokalemia
+total parenteral nutrition,Severe malnutrition,Parenteral nutrition,Infection risk;Electrolyte imbalance
+vasopressin,Septic shock and diabetes insipidus,Vasopressor,Hyponatremia;Ischemia
+phenylephrine,Hypotension,Alpha 1 agonist,Reflex bradycardia;Hypertension
+milrinone,Acute heart failure,PDE 3 inhibitor,Arrhythmia;Hypotension
+levosimendan,Acute decompensated heart failure,Calcium sensitizer,Hypotension;Headache
+nitroglycerin iv,Acute coronary syndrome,Organic nitrate,Headache;Hypotension
+isosorbide dinitrate iv,Heart failure,Organic nitrate,Headache;Flushing
+nicardipine iv,Hypertensive emergency,Calcium channel blocker,Hypotension;Tachycardia
+clevidipine,Hypertensive emergency,Dihydropyridine calcium channel blocker,Hypotension;Reflex tachycardia
+dextran,Hypovolemia,Plasma volume expander,Anaphylaxis;Bleeding
+albumin human,Hypoalbuminemia and shock,Plasma protein,Volume overload;Allergic reaction
+hydroxyethyl starch,Hypovolemia,Colloid solution,Renal impairment;Bleeding
+mannitol dialysis,Acute kidney injury,Osmotic diuretic,Electrolyte imbalance;Dehydration
+dopamine renal dose,Renal perfusion support,Adrenergic agonist,Arrhythmia;Nausea
+epoetin beta dialysis,Anemia in dialysis,Erythropoiesis stimulating agent,Hypertension;Thrombosis
+sevelamer carbonate,Hyperphosphatemia in CKD,Phosphate binder,GI upset;Constipation
+calcium acetate,Hyperphosphatemia in CKD,Phosphate binder,Hypercalcemia;Constipation
+lanthanum carbonate,Hyperphosphatemia in CKD,Phosphate binder,Nausea;Abdominal pain
+cinacalcet,Secondary hyperparathyroidism,Calcimimetic,Hypocalcemia;Nausea
+paricalcitol,Secondary hyperparathyroidism,Vitamin D analogue,Hypercalcemia;Pruritus
+iron sucrose dialysis,Iron deficiency in CKD,Parenteral iron,Hypotension;Injection site pain
+ferric gluconate,Iron deficiency in CKD,Parenteral iron,Hypotension;Nausea
+contrast iodinated,Diagnostic imaging,Iodinated contrast agent,Contrast nephropathy;Allergic reaction
+gadopentetate dimeglumine,Magnetic resonance imaging,Gadolinium contrast agent,Nephrogenic systemic fibrosis;Nausea
+iohexol,CT imaging,Iodinated contrast agent,Contrast nephropathy;Warm sensation
+iopamidol,CT imaging,Iodinated contrast agent,Allergic reaction;Nausea
+propofol infusion syndrome,ICU sedation complication,Anesthetic complication,Metabolic acidosis;Cardiac failure
+fentanyl infusion,ICU analgesia,Opioid analgesic,Respiratory depression;Chest wall rigidity
+remifentanil,ICU analgesia,Ultra short acting opioid,Respiratory depression;Hypotension
+cisatracurium,Mechanical ventilation,Non depolarizing neuromuscular blocker,Prolonged paralysis;Hypotension
+atracurium,Muscle relaxation,Non depolarizing neuromuscular blocker,Histamine release;Hypotension
+rocuronium,Rapid sequence intubation,Non depolarizing neuromuscular blocker,Prolonged paralysis;Tachycardia
+sugammadex,Reversal of neuromuscular blockade,Selective relaxant binding agent,Bradycardia;Hypersensitivity
+continuous insulin infusion,ICU glycemic control,Insulin therapy,Hypoglycemia;Hypokalemia
+total parenteral nutrition,Severe malnutrition,Parenteral nutrition,Infection risk;Electrolyte imbalance
+theophylline iv,Acute severe asthma,Methylxanthine,Arrhythmia;Nausea
+aminophylline,Asthma and COPD,Methylxanthine,Arrhythmia;GI upset
+montelukast pediatric,Asthma prophylaxis,Leukotriene receptor antagonist,Headache;Mood changes
+omalizumab asthma,Severe allergic asthma,Anti IgE monoclonal antibody,Injection site reactions;Anaphylaxis
+dupilumab asthma,Severe asthma,IL 4 receptor antagonist,Conjunctivitis;Injection site reactions
+benralizumab,Severe eosinophilic asthma,IL 5 receptor antagonist,Headache;Pharyngitis
+mepolizumab,Eosinophilic asthma,IL 5 inhibitor,Headache;Injection site reactions
+prednisolone iv,Acute asthma exacerbation,Glucocorticoid,Hyperglycemia;Infection risk
+hydrocortisone iv,Acute allergic reactions,Glucocorticoid,Electrolyte imbalance;Weight gain
+chlorpheniramine,Allergic reactions,First generation antihistamine,Sedation;Dry mouth
+diphenhydramine iv,Anaphylaxis adjunct,First generation antihistamine,Sedation;Hypotension
+loratadine syrup,Allergic rhinitis,Second generation antihistamine,Headache;Dry mouth
+fexofenadine syrup,Allergic rhinitis,Second generation antihistamine,Headache;Nausea
+ephedrine,Hypotension and nasal congestion,Sympathomimetic agent,Tachycardia;Insomnia
+pheniramine,Allergic reactions,First generation antihistamine,Sedation;Dry mouth
+xylometazoline pediatric,Nasal congestion,Topical nasal decongestant,Rebound congestion;Irritation
+oxymetazoline pediatric,Nasal congestion,Topical nasal decongestant,Rebound congestion;Dryness
+saline nasal spray,Nasal dryness,Nasal preparation,Minimal irritation;Burning
+ciprofloxacin eye drops,Bacterial conjunctivitis,Fluoroquinolone antibiotic,Burning;Irritation
+tobramycin eye drops,Bacterial conjunctivitis,Aminoglycoside antibiotic,Eyelid itching;Redness
+moxifloxacin eye drops,Bacterial conjunctivitis,Fluoroquinolone antibiotic,Burning;Blurred vision
+chloramphenicol eye drops,Bacterial conjunctivitis,Broad spectrum antibiotic,Stinging;Allergy
+olopatadine eye drops,Allergic conjunctivitis,Selective antihistamine,Burning;Dry eyes
+ketorolac eye drops,Post operative eye inflammation,NSAID eye drops,Burning;Eye irritation
+artificial tears,Dry eye syndrome,Ocular lubricant,Blurred vision;Stinging
+pilocarpine eye drops,Glaucoma,Muscarinic agonist,Miosis;Headache
+timolol eye drops pediatric,Glaucoma,Topical beta blocker,Bradycardia;Eye irritation
+acetylcysteine nebulization,Mucolysis,Mucolytic,Bronchospasm;Nausea
+hypertonic saline nebulization,Cystic fibrosis,Mucolytic and expectorant,Cough;Bronchospasm
+dornase alfa,Cystic fibrosis,Mucolytic enzyme,Voice alteration;Pharyngitis
+ambroxol syrup,Productive cough,Mucolytic,GI upset;Rash
+bromhexine syrup,Productive cough,Mucolytic,Nausea;Diarrhea
+guaifenesin,Productive cough,Expectorant,GI upset;Dizziness
+codeine cough syrup,Dry cough,Antitussive,Constipation;Drowsiness
+dextromethorphan,Dry cough,Antitussive,Dizziness;Nausea
+esomeprazole iv,Severe acid related disorders,Proton pump inhibitor,Headache;Diarrhea
+rabeprazole,GERD and peptic ulcer,Proton pump inhibitor,Headache;Abdominal pain
+dexlansoprazole,GERD,Proton pump inhibitor,Nausea;Flatulence
+famotidine iv,Stress ulcer prophylaxis,H2 receptor antagonist,Confusion;Bradycardia
+nizatidine,Peptic ulcer disease,H2 receptor antagonist,Headache;Diarrhea
+sucralfate suspension,Peptic ulcer disease,Mucosal protectant,Constipation;Dry mouth
+bismuth subcitrate,Peptic ulcer disease,Bismuth compound,Black stools;Nausea
+ursodeoxycholic acid iv,Cholestatic liver disease,Bile acid,Diarrhea;Pruritus
+rifaximin hepatic encephalopathy,Hepatic encephalopathy,Gut selective antibiotic,Nausea;Abdominal pain
+l ornithine l aspartate,Hepatic encephalopathy,Ammonia lowering agent,Nausea;Abdominal cramps
+lactitol,Hepatic encephalopathy,Osmotic laxative,Flatulence;Diarrhea
+pancreatin,Pancreatic insufficiency,Pancreatic enzyme replacement,Abdominal pain;Diarrhea
+orlistat,Obesity,Pancreatic lipase inhibitor,Steatorrhea;Flatulence
+phentermine,Obesity,Sympathomimetic appetite suppressant,Tachycardia;Insomnia
+liraglutide obesity,Weight management,GLP 1 receptor agonist,Nausea;Vomiting
+semaglutide obesity,Weight management,GLP 1 receptor agonist,Nausea;Diarrhea
+acarbose obesity,Postprandial hyperglycemia,Alpha glucosidase inhibitor,Flatulence;Diarrhea
+levothyroxine iv,Myxedema coma,Thyroid hormone replacement,Arrhythmia;Weight loss
+calcitriol,Hypocalcemia and CKD,Active vitamin D,Hypercalcemia;Pruritus
+cinacalcet iv,Secondary hyperparathyroidism,Calcimimetic,Hypocalcemia;Nausea
+alendronate iv,Severe osteoporosis,Bisphosphonate,Flu like symptoms;Hypocalcemia
+zoledronic acid,Osteoporosis and malignancy related hypercalcemia,Bisphosphonate,Renal toxicity;Flu like symptoms
+denosumab oncology,Malignancy related bone disease,RANKL inhibitor,Hypocalcemia;Infections
+testosterone enanthate,Hypogonadism,Androgen,Polycythemia;Acne
+estradiol valerate,Estrogen deficiency,Estrogen therapy,Nausea;Thromboembolism
+progesterone micronized,Luteal support,Progestin,Drowsiness;Breast tenderness
+metyrapone,Cushing syndrome testing,Cortisol synthesis inhibitor,Nausea;Dizziness
+ketoconazole endocrine,Cushing syndrome,Steroidogenesis inhibitor,Hepatotoxicity;Gynecomastia
+octreotide iv,Variceal bleeding and acromegaly,Somatostatin analogue,Diarrhea;Gallstones
+glucagon,Hypoglycemia emergency,Glucagon hormone,Nausea;Vomiting
+pralidoxime iv,Organophosphate poisoning,Cholinesterase reactivator,Hypertension;Dizziness
+dimercaprol,Heavy metal poisoning,Metal chelator,Hypertension;Nausea
+edetate calcium disodium,Lead poisoning,Metal chelator,Nephrotoxicity;Hypocalcemia
+sodium nitrite,Cyanide poisoning,Antidote,Hypotension;Methemoglobinemia
+hydroxocobalamin iv,Cyanide poisoning,Antidote,Hypertension;Red discoloration
+levodopa carbidopa controlled release,Parkinson disease,Dopaminergic combination,Dyskinesia;Nausea
+entacapone,Parkinson disease,COMT inhibitor,Diarrhea;Urine discoloration
+selegiline,Parkinson disease,MAO B inhibitor,Insomnia;Headache
+rasagiline,Parkinson disease,MAO B inhibitor,Headache;Arthralgia
+amantadine,Parkinson disease and influenza A,NMDA antagonist,Confusion;Livedo reticularis
+trihexyphenidyl,Parkinson disease,Anticholinergic,Dry mouth;Blurred vision
+donepezil oral solution,Alzheimer disease,Acetylcholinesterase inhibitor,Nausea;Bradycardia
+rivastigmine patch,Alzheimer disease,Acetylcholinesterase inhibitor,Nausea;Skin irritation
+galantamine,Alzheimer disease,Acetylcholinesterase inhibitor,Dizziness;GI upset
+memantine iv,Severe Alzheimer disease,NMDA receptor antagonist,Dizziness;Confusion
+modafinil,Narcolepsy and sleep disorders,Wakefulness promoting agent,Headache;Insomnia
+armodafinil,Narcolepsy,Wakefulness promoting agent,Headache;Anxiety
+melatonin,Insomnia,Sleep hormone,Drowsiness;Vivid dreams
+zolpidem,Insomnia,Non benzodiazepine hypnotic,Dizziness;Sleep walking
+zopiclone,Insomnia,Non benzodiazepine hypnotic,Metallic taste;Drowsiness
+eszopiclone,Insomnia,Non benzodiazepine hypnotic,Headache;Dry mouth
+ramelteon,Insomnia,Melatonin receptor agonist,Dizziness;Fatigue
+clozapine oral suspension,Schizophrenia,Atypical antipsychotic,Agranulocytosis;Sedation
+risperidone long acting injection,Schizophrenia,Atypical antipsychotic,Weight gain;Hyperprolactinemia
+paliperidone palmitate,Schizophrenia,Atypical antipsychotic,QT prolongation;Weight gain
+olanzapine depot,Schizophrenia,Atypical antipsychotic,Sedation;Metabolic syndrome
+lurasidone,Schizophrenia and bipolar disorder,Atypical antipsychotic,Akathisia;Nausea
+asenapine,Bipolar disorder,Atypical antipsychotic,Oral hypoesthesia;Sedation
+ziprasidone injection,Acute agitation,Atypical antipsychotic,QT prolongation;Sedation
+valproate iv,Status epilepticus,Broad spectrum antiepileptic,Hepatotoxicity;Thrombocytopenia
+levetiracetam iv,Status epilepticus,Broad spectrum antiepileptic,Somnolence;Mood changes
+phenytoin iv,Status epilepticus,Hydantoin antiepileptic,Arrhythmia;Hypotension
+lacosamide iv,Partial seizures,Antiepileptic,PR prolongation;Dizziness
+perampanel,Epilepsy,AMPA receptor antagonist,Dizziness;Aggression
+vigabatrin,Infantile spasms,GABA transaminase inhibitor,Visual field defects;Weight gain
+ethosuximide syrup,Absence seizures,Antiepileptic,GI upset;Fatigue
+clonidine patch,ADHD and hypertension,Alpha 2 agonist,Sedation;Hypotension
+atomoxetine,ADHD,Norepinephrine reuptake inhibitor,Insomnia;Reduced appetite
+methylphenidate extended release,ADHD,CNS stimulant,Loss of appetite;Insomnia
+dexmethylphenidate,ADHD,CNS stimulant,Tachycardia;Anxiety
+bupropion xl,Depression and smoking cessation,NDRI antidepressant,Insomnia;Seizures
+vortioxetine,Major depressive disorder,Serotonin modulator,Nausea;Headache
+agomelatine,Depression,Melatonin receptor agonist,Hepatotoxicity;Dizziness
+oxytocin,Induction of labor and postpartum hemorrhage,Uterotonic agent,Uterine hyperstimulation;Hypotension
+misoprostol,Medical abortion and ulcer prevention,Prostaglandin E1 analogue,Diarrhea;Abdominal cramps
+dinoprostone,Cervical ripening,Prostaglandin E2 analogue,Fever;Uterine contractions
+methylergometrine,Postpartum hemorrhage,Ergot alkaloid,Hypertension;Nausea
+magnesium sulfate obstetric,Eclampsia seizure prevention,Anticonvulsant,Respiratory depression;Flushing
+nifedipine tocolysis,Preterm labor,Tocolytic calcium channel blocker,Hypotension;Headache
+atosiban,Preterm labor,Oxytocin receptor antagonist,Nausea;Headache
+betamethasone antenatal,Fetal lung maturation,Glucocorticoid,Hyperglycemia;Infection risk
+progesterone vaginal,Preterm birth prevention,Progestin,Vaginal irritation;Drowsiness
+clomiphene citrate,Female infertility,Selective estrogen receptor modulator,Hot flashes;Visual disturbance
+letrozole fertility,Female infertility,Aromatase inhibitor,Headache;Fatigue
+gonadotropins,Ovulation induction,FSH and LH hormones,Ovarian hyperstimulation;Abdominal pain
+human chorionic gonadotropin,Ovulation trigger,Gonadotropin hormone,Headache;Fluid retention
+levonorgestrel oral contraceptive,Contraception,Progestin,Nausea;Irregular bleeding
+ethinylestradiol combination pill,Contraception,Estrogen progestin combination,Nausea;Thromboembolism
+medroxyprogesterone injection,Contraception,Progestin,Weight gain;Amenorrhea
+etonogestrel implant,Long term contraception,Progestin implant,Irregular bleeding;Weight gain
+levonorgestrel intrauterine system,Long term contraception,Intrauterine progestin,Cramping;Irregular bleeding
+ulipristal acetate emergency,Emergency contraception,Progesterone receptor modulator,Headache;Abdominal pain
+mifepristone,Medical termination of pregnancy,Progesterone receptor antagonist,Bleeding;Abdominal pain
+sildenafil pulmonary hypertension,Pulmonary arterial hypertension,PDE 5 inhibitor,Headache;Flushing
+tadalafil daily,Benign prostatic hyperplasia and ED,PDE 5 inhibitor,Back pain;Dyspepsia
+vardenafil,Erectile dysfunction,PDE 5 inhibitor,Headache;Flushing
+alprostadil injection,Erectile dysfunction,Prostaglandin E1 analogue,Pain;Priapism
+dutasteride prostate,Benign prostatic hyperplasia,5 alpha reductase inhibitor,Impotence;Gynecomastia
+finasteride prostate,Benign prostatic hyperplasia,5 alpha reductase inhibitor,Sexual dysfunction;Depression
+tamsulosin modified release,Benign prostatic hyperplasia,Alpha 1 blocker,Dizziness;Retrograde ejaculation
+silodosin,Benign prostatic hyperplasia,Alpha 1 blocker,Dizziness;Ejaculatory disorder
+mirabegron extended release,Overactive bladder,Beta 3 agonist,Hypertension;UTI
+fesoterodine,Overactive bladder,Antimuscarinic,Dry mouth;Constipation
+solifenacin,Overactive bladder,Antimuscarinic,Dry mouth;Blurred vision
+desmopressin nasal,Nocturnal enuresis,Vasopressin analogue,Hyponatremia;Headache
+oxybutynin patch,Overactive bladder,Antimuscarinic,Skin irritation;Dry mouth
+activated charcoal oral,Acute poisoning,Adsorbent,Constipation;Aspiration risk
+naloxone nasal,Opioid overdose,Opioid antagonist,Withdrawal symptoms;Nausea
+flumazenil iv,Benzodiazepine overdose,Benzodiazepine antagonist,Seizures;Dizziness
+atropine organophosphate,Organophosphate poisoning,Antimuscarinic,Tachycardia;Dry mouth
+pralidoxime chloride,Organophosphate poisoning,Cholinesterase reactivator,Hypertension;Blurred vision
+physostigmine,Anticholinergic toxicity,Acetylcholinesterase inhibitor,Seizures;Bradycardia
+digoxin immune fab,Digoxin toxicity,Antidote,Hypokalemia;Allergic reaction
+sodium bicarbonate iv,Metabolic acidosis and overdose,Alkalinizing agent,Electrolyte imbalance;Alkalosis
+calcium gluconate iv,Hyperkalemia and hypocalcemia,Calcium salt,Arrhythmia;Extravasation
+glucagon iv beta blocker overdose,Beta blocker overdose,Glucagon hormone,Nausea;Vomiting
+lipid emulsion therapy,Local anesthetic toxicity,Lipid antidote,Pancreatitis;Fat overload
+methyline blue,Methemoglobinemia,Reducing agent,Serotonin syndrome;Dyspnea
+ethanol antidote,Methanol poisoning,Alcohol dehydrogenase inhibitor,Hypoglycemia;Sedation
+fomepizole,Methanol and ethylene glycol poisoning,Alcohol dehydrogenase inhibitor,Headache;Nausea
+protamine sulfate,Heparin reversal,Heparin antagonist,Hypotension;Allergic reaction
+vitamin k iv,Warfarin reversal,Coagulation factor synthesis,Injection pain;Anaphylaxis
+desferrioxamine acute,Acute iron poisoning,Iron chelator,Hypotension;Visual disturbance
+penicillamine copper toxicity,Copper overload,Chelating agent,Rash;Proteinuria
+octreotide overdose,Hypoglycemia due to insulin overdose,Somatostatin analogue,Diarrhea;Abdominal pain
+epinephrine auto injector,Anaphylaxis,Adrenergic agonist,Tachycardia;Anxiety
+diphenhydramine oral toxicity,Allergic reactions,H1 antihistamine,Sedation;Dry mouth
+caffeine citrate neonatal,Apnea of prematurity,CNS stimulant,Tachycardia;Irritability
+nicotine patch smoking cessation,Smoking cessation,Nicotine replacement therapy,Skin irritation;Nausea
+methadone detox,Opioid detoxification,Long acting opioid,QT prolongation;Sedation
+buprenorphine naloxone,Opioid dependence,Partial opioid agonist,Nausea;Headache
+acamprosate,Alcohol dependence,Glutamate modulator,Diarrhea;Anxiety
+disulfiram,Alcohol aversion therapy,Aldehyde dehydrogenase inhibitor,Metallic taste;Hepatotoxicity
+varenicline smoking cessation,Smoking cessation,Partial nicotinic agonist,Nausea;Abnormal dreams
+
+
